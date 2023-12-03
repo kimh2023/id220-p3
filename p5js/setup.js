@@ -37,6 +37,7 @@ class Node {
 
     fill(0);
     textAlign(LEFT, CENTER);
+    textSize(12);
     text(this.name, this.x + this.width + 10, this.y + this.height / 2);
   }
 }
@@ -47,11 +48,11 @@ function getLink(source, target, hue) {
   }
 
   let sameLink = links[`${source.type}-${target.type}`].find(
-    (link) => link.source === source && link.target === target
+    (link) =>
+      link.source === source && link.target === target && link.hue == hue
   );
   if (sameLink) {
     sameLink.count++;
-    sameLink.hue = (hue + sameLink.hue) / 2;
     return;
   }
 
@@ -84,7 +85,7 @@ class Link {
       linkOffset / 2;
     // Draw a Bezier curve to represent the flow
 
-    stroke(this.hue, 90, 80, 0.3);
+    stroke(...this.hue, 0.5);
     strokeWeight(strokeW);
     noFill();
     bezier(

@@ -2,6 +2,7 @@ let data;
 
 let nodes = {};
 let links = {};
+let books = {};
 let largePublishers = {
   "Hachette Book Group": [
     "Little, Brown",
@@ -30,23 +31,33 @@ let largePublishers = {
   "Simon & Schuster": ["Simon & Schuster", "Scribner"],
   Macmillan: ["St. Martin's", "Flatiron"],
 };
+let largePublisherHues = {
+  "Hachette Book Group": [201, 60, 80],
+  // "Penguin Random House": [15, 96, 80],
+  "Penguin Random House": [11, 96, 80],
+  // "Harper Collins": ["Harper", "Morrow", "Avon"],
+  "Simon & Schuster": [206, 63, 54],
+  Macmillan: [0, 99, 70],
+  "Other Publishers": [327, 50, 85],
+};
 let largeGenres = {
-  "Suspense/Thriller": 220,
-  "Historical Fiction": 200,
-  Romance: 310,
-  "Mystery/Crime": 240,
-  "Other Genres": 150,
+  "Suspense/Thriller": [220, 70, 80],
+  "Historical Fiction": [225, 74, 30],
+  Romance: [341, 80, 80],
+  "Mystery/Crime": [12, 90, 35],
+  "Other Genres": [20, 30, 86],
 };
 
 let nodeXOffsets = {};
 let nodeHeight = 5;
 let linkOffset = 6;
 let spaceBetween = 20;
-let sankey_y = 200;
-let sankey_x = 400;
+let sankey_y = 100;
+let sankey_x = 300;
 
 function preload() {
   data = loadTable("all_months.csv", "csv", "header");
+  titleFont = loadFont("./assets/Ogg-Regular.ttf");
 }
 
 const hueDeterminant = "genre";
@@ -54,7 +65,7 @@ const hueDeterminant = "genre";
 function setup() {
   colorMode(HSL);
   strokeCap(SQUARE);
-  createCanvas(2000, 2000, SVG);
+  createCanvas(1800, 2300, SVG);
   let startDate = new Date("2011-02");
   let endDate = new Date("2023-12");
 
@@ -93,8 +104,12 @@ function setup() {
       genre = "Other Genres";
     }
 
-    if (hueDeterminant == "genre") {
-      hue = largeGenres[genre];
+    switch (hueDeterminant) {
+      case "genre":
+        hue = largeGenres[genre];
+        break;
+      case "publisher":
+        hue = largePublisherHues[publisher];
     }
 
     let yearNode = getNode(year, "year", title);
@@ -167,8 +182,11 @@ function setup() {
 }
 
 function draw() {
-  background(255);
+  background("#FFFCF6");
   strokeCap(SQUARE);
+  // textAlign(LEFT, CENTER);
+  // textFont(titleFont, 50);
+  // text("Sold Out: What Makes a Bestseller", 120, 150);
 
   // Draw links
   for (let linkType of Object.keys(links)) {
@@ -181,6 +199,13 @@ function draw() {
   for (let nodeType of Object.keys(nodes)) {
     for (let node of nodes[nodeType]) {
       node.display();
+    }
+  }
+
+  // Draw books
+  for (let year of Object.keys(books)) {
+    for (let book of books[year]) {
+      boook.display();
     }
   }
 }

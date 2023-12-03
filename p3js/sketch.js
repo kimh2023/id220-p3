@@ -17,6 +17,7 @@ function preload() {
 
 function setup() {
   colorMode(HSL);
+  strokeCap(SQUARE);
   createCanvas(1600, 1600, SVG);
   let startDate = new Date("2011-02");
   let endDate = new Date("2023-12");
@@ -95,6 +96,7 @@ function setup() {
 
 function draw() {
   background(255);
+  strokeCap(SQUARE);
 
   // Draw links
   for (let link of links) {

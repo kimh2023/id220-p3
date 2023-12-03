@@ -57,6 +57,14 @@ class Node {
 }
 
 function getLink(source, target, hue) {
+  let sameLink = links.find(
+    (link) => link.source === source && link.target === target
+  );
+  if (sameLink) {
+    sameLink.count++;
+    return;
+  }
+
   let existingSourceLink = links.filter((link) => link.source === source);
   let yOffsetSource = existingSourceLink.length * nodeHeight;
 
@@ -69,18 +77,19 @@ function getLink(source, target, hue) {
 }
 
 class Link {
-  constructor(source, target, hue, yOffsetSource, yOffsetTarget) {
+  constructor(source, target, hue, yOffsetSource, yOffsetTarget, count = 1) {
     this.source = source;
     this.target = target;
     this.hue = hue;
     this.yOffsetSource = yOffsetSource;
     this.yOffsetTarget = yOffsetTarget;
+    this.count = count;
   }
 
   display() {
     // Draw a Bezier curve to represent the flow
     stroke(this.hue, 90, 80, 0.4);
-    strokeWeight(nodeHeight);
+    strokeWeight(nodeHeight * this.count);
     noFill();
     bezier(
       this.source.x + this.source.width,

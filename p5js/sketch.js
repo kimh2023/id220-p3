@@ -47,6 +47,10 @@ let largeGenres = {
   "Mystery/Crime": [12, 90, 35],
   "Other Genres": [20, 30, 86],
 };
+let bookTokHues = {
+  "not #BookTok": [201, 60, 80],
+  "#BookTok": [0, 99, 70],
+};
 
 let nodeXOffsets = {};
 let nodeHeight = 5;
@@ -66,7 +70,7 @@ const hueDeterminant = "genre";
 function setup() {
   colorMode(HSL);
   strokeCap(SQUARE);
-  createCanvas(1700, 2200, SVG);
+  createCanvas(2200, 2200, SVG);
   let startDate = new Date("2011-02");
   let endDate = new Date("2023-12");
 
@@ -92,6 +96,8 @@ function setup() {
     let genre = row.get("genre");
     let publisher = row.get("publisher");
     let author = row.get("author");
+    let bookTok = bookTokAuthors.includes(author) ? "#BookTok" : "not #BookTok";
+
     let currentDate = new Date(row.get("month"));
     let hue = map(currentDate, startDate, endDate, 0, 250);
 
@@ -119,17 +125,21 @@ function setup() {
     let genreNode = getNode(genre, "genre");
     let publisherNode = getNode(publisher, "publisher");
     let authorNode = getNode(author, "author");
+    // let bookTokNode = getNode(bookTok, "bookTok");
 
     getLink(yearNode, genreNode, hue);
     getLink(genreNode, publisherNode, hue);
     getLink(publisherNode, authorNode, hue);
+    // getLink(authorNode, bookTokNode, bookTokHues[bookTok]);
+    // getLink(publisherNode, bookTokNode, bookTokHues[bookTok]);
 
     yearNode.links++;
     genreNode.links++;
     publisherNode.links++;
     authorNode.links++;
+    // bookTokNode.links++;
 
-    getBook(title, author, pages, weeksOnList, hue, yearNode);
+    getBook(title, author, pages, weeksOnList, hue, yearNode, bookTok);
   }
 
   // Update link ordering

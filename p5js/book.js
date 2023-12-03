@@ -9,7 +9,7 @@ let bookTokAuthors = [
   //"Delia Owens" //WHERE THE CRAWDADS SING
 ];
 
-function getBook(title, author, pages, weeksOnList, hue, yearNode) {
+function getBook(title, author, pages, weeksOnList, hue, yearNode, bookTok) {
   if (!(yearNode.name in books)) {
     books[yearNode.name] = [];
   }
@@ -26,13 +26,23 @@ function getBook(title, author, pages, weeksOnList, hue, yearNode) {
     weeksOnList,
     hue,
     yearNode,
-    totalPageCount
+    totalPageCount,
+    bookTok
   );
   books[yearNode.name].push(newBook);
 }
 
 class Book {
-  constructor(title, author, pages, weeksOnList, hue, yearNode, xOffset) {
+  constructor(
+    title,
+    author,
+    pages,
+    weeksOnList,
+    hue,
+    yearNode,
+    xOffset,
+    bookTok
+  ) {
     this.title = title;
     this.author = author;
     this.pages = pages;
@@ -40,6 +50,7 @@ class Book {
     this.hue = hue;
     this.yearNode = yearNode;
     this.x = bookshelf_x + xOffset;
+    this.bookTok = bookTok;
   }
 
   display() {
@@ -74,5 +85,14 @@ class Book {
       startX + width,
       startY + height
     );
+
+    if (this.bookTok == "#BookTok") {
+      fill(this.hue[0], this.hue[1], this.hue[2] * 0.8);
+      circle(
+        this.x + this.pages / 60,
+        startY + this.yearNode.height - 10,
+        width * 2
+      );
+    }
   }
 }

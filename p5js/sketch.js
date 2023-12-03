@@ -53,7 +53,8 @@ let nodeHeight = 5;
 let linkOffset = 6;
 let spaceBetween = 20;
 let sankey_y = 100;
-let sankey_x = 300;
+let sankey_x = 550;
+let bookshelf_x = 250;
 
 function preload() {
   data = loadTable("all_months.csv", "csv", "header");
@@ -65,7 +66,7 @@ const hueDeterminant = "genre";
 function setup() {
   colorMode(HSL);
   strokeCap(SQUARE);
-  createCanvas(1800, 2300, SVG);
+  createCanvas(1700, 2200, SVG);
   let startDate = new Date("2011-02");
   let endDate = new Date("2023-12");
 
@@ -86,6 +87,8 @@ function setup() {
   for (let row of data.rows) {
     let year = row.get("month").split("-")[0];
     let title = row.get("title");
+    let pages = parseInt(row.get("pages"));
+    let weeksOnList = parseInt(row.get("weeks_on_list"));
     let genre = row.get("genre");
     let publisher = row.get("publisher");
     let author = row.get("author");
@@ -125,6 +128,8 @@ function setup() {
     genreNode.links++;
     publisherNode.links++;
     authorNode.links++;
+
+    getBook(title, author, pages, weeksOnList, hue, yearNode);
   }
 
   // Update link ordering
@@ -184,9 +189,9 @@ function setup() {
 function draw() {
   background("#FFFCF6");
   strokeCap(SQUARE);
-  // textAlign(LEFT, CENTER);
+  // textAlign(LEFT, TOP);
   // textFont(titleFont, 50);
-  // text("Sold Out: What Makes a Bestseller", 120, 150);
+  // text("Sold Out: What Makes a Bestseller", 120, 120);
 
   // Draw links
   for (let linkType of Object.keys(links)) {
@@ -205,7 +210,7 @@ function draw() {
   // Draw books
   for (let year of Object.keys(books)) {
     for (let book of books[year]) {
-      boook.display();
+      book.display();
     }
   }
 }

@@ -22,7 +22,7 @@ class Node {
   constructor(name, type, title) {
     this.name = name;
     this.type = type;
-    this.x = nodeXOffsets[type] + sankey_x;
+    this.x = nodeXOffsets[type];
     this.y = 0;
     this.title = title;
     this.width = 5;
@@ -56,7 +56,6 @@ function getLink(source, target, hue) {
     return;
   }
 
-  // Create a new node and add it to the nodes array
   let newLink = new Link(source, target, hue);
   links[`${source.type}-${target.type}`].push(newLink);
 }

@@ -9,18 +9,70 @@ let bookTokAuthors = [
   //"Delia Owens" //WHERE THE CRAWDADS SING
 ];
 
+function getBook(title, author, pages, weeksOnList, hue, yearNode) {
+  if (!(yearNode.name in books)) {
+    books[yearNode.name] = [];
+  }
+
+  let totalPageCount = books[yearNode.name].reduce((sum, book) => {
+    // Add the page count of each book to the sum
+    return sum + book.pages / 30 + 2;
+  }, 0);
+
+  let newBook = new Book(
+    title,
+    author,
+    pages,
+    weeksOnList,
+    hue,
+    yearNode,
+    totalPageCount
+  );
+  books[yearNode.name].push(newBook);
+}
+
 class Book {
-  constructor(title, author, hue, y, x) {
+  constructor(title, author, pages, weeksOnList, hue, yearNode, xOffset) {
     this.title = title;
     this.author = author;
+    this.pages = pages;
+    this.weeksOnList = weeksOnList;
     this.hue = hue;
-    this.y = y;
-    this.x = x;
+    this.yearNode = yearNode;
+    this.x = bookshelf_x + xOffset;
   }
 
   display() {
+    if (!this.pages) {
+      console.log(this.title);
+    }
     noStroke();
-    fill(hue, 90, 80, 0.7);
-    rect(this.x, this.y, this.width, this.height);
+    // console.log(this.weeksOnList);
+    fill(...this.hue, 0.7);
+    rect(this.x, this.yearNode.y, this.pages / 30, this.yearNode.height);
+
+    let startX = this.x + this.pages / 45;
+    let width = this.pages / 120;
+    let startY = this.yearNode.y + 0.001;
+    let height = Math.log1p(this.weeksOnList) * 12;
+
+    fill(this.hue[0], this.hue[1], this.hue[2] / 2);
+    rect(startX, startY, width, height);
+    triangle(
+      startX,
+      startY + height,
+      startX,
+      startY + height + 4,
+      startX + width,
+      startY + height
+    );
+    triangle(
+      startX,
+      startY + height,
+      startX + width,
+      startY + height + 4,
+      startX + width,
+      startY + height
+    );
   }
 }

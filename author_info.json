@@ -602,7 +602,7 @@
     "gender": "male",
     "birth_year": 1955,
     "university": "Mississippi State University",
-    "major": "Accounting"
+    "major": "Business & Commerce"
   },
   "Delia Owens": {
     "books": [
@@ -1035,8 +1035,8 @@
     "count": 38,
     "gender": "female",
     "birth_year": 1950,
-    "university": "",
-    "major": ""
+    "university": "None",
+    "major": "None"
   },
   "E L James": {
     "books": [
@@ -1097,7 +1097,7 @@
     "gender": "female",
     "birth_year": 1963,
     "university": "University of Kent",
-    "major": "History"
+    "major": "Humanities and Social Sciences"
   },
   "Colleen Hoover": {
     "books": [
@@ -1178,7 +1178,7 @@
     "gender": "female",
     "birth_year": 1979,
     "university": "Texas A&M University-Commerce",
-    "major": "Social Work"
+    "major": "Humanities and Social Sciences"
   },
   "Paula Hawkins": {
     "books": [
@@ -1244,8 +1244,8 @@
     "count": 30,
     "gender": "female",
     "birth_year": 1972,
-    "university": "Politics, Philosophy, and Economics",
-    "major": "Politics, Philosophy, and Economics"
+    "university": "University of Oxford",
+    "major": "Political Science"
   },
   "David Baldacci": {
     "books": [
@@ -1449,8 +1449,8 @@
     "count": 16,
     "gender": "female",
     "birth_year": 1969,
-    "university": "English",
-    "major": "University of Alabama"
+    "university": "University of Alabama",
+    "major": "English"
   },
   "Michael Connelly": {
     "books": [
@@ -1579,7 +1579,7 @@
     "count": 15,
     "gender": "male",
     "birth_year": 1956,
-    "university": "Journalism",
+    "university": "University of Florida",
     "major": "Journalism"
   },
   "Nicholas Sparks": {
@@ -1679,7 +1679,7 @@
     "gender": "male",
     "birth_year": 1965,
     "university": "University of Notre Dame",
-    "major": "Business"
+    "major": "Business & Commerce"
   },
   "Stephen King": {
     "books": [
@@ -1801,8 +1801,8 @@
     "count": 15,
     "gender": "male",
     "birth_year": 1947,
-    "university": "English",
-    "major": "University of Maine"
+    "university": "University of Maine",
+    "major": "English"
   },
   "John Sandford": {
     "books": [
@@ -1954,7 +1954,7 @@
     "gender": "male",
     "birth_year": 1944,
     "university": "University of Iowa",
-    "major": "American Studies"
+    "major": "Humanities and Social Sciences"
   },
   "Maxine Paetro": {
     "books": [
@@ -2075,7 +2075,7 @@
     "gender": "male",
     "birth_year": 1946,
     "university": "Jacksonville University",
-    "major": ""
+    "major": "General Studies"
   },
   "Janet Evanovich": {
     "books": [
@@ -2326,7 +2326,7 @@
     "gender": "male",
     "birth_year": 1954,
     "university": "University of Sheffield",
-    "major": "Bachelor of Laws"
+    "major": "Law"
   },
   "Dan Brown": {
     "books": [
@@ -2371,7 +2371,7 @@
     "gender": "male",
     "birth_year": 1964,
     "university": "Amherst College",
-    "major": "Spanish and English"
+    "major": "English"
   },
   "Kristin Hannah": {
     "books": [
@@ -2428,7 +2428,7 @@
     "gender": "female",
     "birth_year": 1960,
     "university": "University of Washington",
-    "major": "Communication"
+    "major": "Humanities and Social Sciences"
   },
   "Harlan Coben": {
     "books": [
@@ -2605,7 +2605,7 @@
     "gender": "female",
     "birth_year": 1958,
     "university": "Toronto Metropolitan University",
-    "major": "Applied Arts"
+    "major": "Art"
   },
   "Rebecca Yarros": {
     "books": [
@@ -2643,7 +2643,7 @@
     "gender": "female",
     "birth_year": 1981,
     "university": "University of Colorado",
-    "major": "Arts, History and English"
+    "major": "Art"
   },
   "Sara Gruen": {
     "books": [
@@ -2710,7 +2710,7 @@
     "gender": "male",
     "birth_year": 1946,
     "university": "Georgetown University",
-    "major": "International Affairs"
+    "major": "Political Science"
   },
   "Michael Ledwidge": {
     "books": [
@@ -2794,7 +2794,7 @@
     "gender": "female",
     "birth_year": 1971,
     "university": "University of Kansas",
-    "major": "English and Journalism"
+    "major": "English"
   },
   "Robert Galbraith": {
     "books": [
@@ -2840,7 +2840,7 @@
     "gender": "female",
     "birth_year": 1965,
     "university": "University of Exeter",
-    "major": "French and Classics"
+    "major": "Humanities and Social Sciences"
   },
   "Jojo Moyes": {
     "books": [
@@ -2940,7 +2940,7 @@
     "gender": "male",
     "birth_year": 1960,
     "university": "California State University Fresno",
-    "major": "Journalism, Political Science"
+    "major": "Journalism"
   },
   "Elin Hilderbrand": {
     "books": [
@@ -2998,7 +2998,7 @@
     "gender": "female",
     "birth_year": 1969,
     "university": "Johns Hopkins University",
-    "major": "Creative Writing"
+    "major": "English"
   },
   "Danielle Steel": {
     "books": [
@@ -3067,6 +3067,6 @@
     "gender": "female",
     "birth_year": 1947,
     "university": "Parsons School of Design",
-    "major": "Fashion Design"
+    "major": "Art"
   }
 }

@@ -58,7 +58,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Penguin Group",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2011-03-20",
@@ -104,7 +105,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Penguin Group",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2011-04-17",
@@ -124,7 +126,13 @@
       "primary_isbn10": "0316069388",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE FIFTH WITNESS",
+        "THE GODS OF GUILT",
+        "THE LAW OF INNOCENCE"
+      ]
     }
   ],
   "2011-05": [
@@ -253,12 +261,13 @@
     {
       "date": "2011-07-10",
       "rank": 1,
-      "title": "SMOKIN\u2019 SEVENTEEN",
+      "title": "SMOKIN' SEVENTEEN",
       "author": "Janet Evanovich",
       "primary_isbn10": "0345527690",
       "dagger": 0,
       "publisher": "Random House",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2011-07-17",
@@ -268,7 +277,9 @@
       "primary_isbn10": "031612723X",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller",
+      "pages": 384
     },
     {
       "date": "2011-07-24",
@@ -426,7 +437,8 @@
       "primary_isbn10": "0440339359",
       "dagger": 0,
       "publisher": "Delacorte",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2011-10-23",
@@ -474,7 +486,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Knopf Doubleday Publishing",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2011-11-20",
@@ -484,7 +497,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Grand Central Publishing",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2011-11-27",
@@ -520,7 +534,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Random House Publishing",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2011-12-18",
@@ -532,6 +547,17 @@
       "publisher": "Little, Brown & Company",
       "weeks_on_list": 1,
       "genre": "Mystery/Crime",
+      "series": [
+        "THE DROP",
+        "THE BLACK BOX",
+        "THE BURNING ROOM",
+        "THE CROSSING",
+        "THE WRONG SIDE OF GOODBYE",
+        "TWO KINDS OF TRUTH",
+        "DARK SACRED NIGHT",
+        "THE NIGHT FIRE",
+        "THE DARK HOURS"
+      ],
       "pages": 496
     },
     {
@@ -554,7 +580,9 @@
       "primary_isbn10": "1451627289",
       "dagger": 0,
       "publisher": "Scribner",
-      "weeks_on_list": 6
+      "weeks_on_list": 6,
+      "genre": "Science Fiction",
+      "pages": 849
     },
     {
       "date": "2012-01-08",
@@ -588,7 +616,9 @@
       "primary_isbn10": "0316097411",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller",
+      "pages": 416
     },
     {
       "date": "2012-01-29",
@@ -635,8 +665,9 @@
       "author": "Kristin Hannah",
       "primary_isbn10": "1429942215",
       "dagger": 0,
-      "publisher": "St. Martin\u2019s Press",
-      "weeks_on_list": 1
+      "publisher": "St. Martin's Press",
+      "weeks_on_list": 1,
+      "genre": "Romance"
     },
     {
       "date": "2012-02-26",
@@ -658,7 +689,9 @@
       "primary_isbn10": "0316206814",
       "dagger": 0,
       "publisher": "Little, Brown & Company",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller",
+      "pages": 442
     },
     {
       "date": "2012-03-11",
@@ -668,7 +701,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Penguin Group",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2012-03-18",
@@ -1026,7 +1060,8 @@
       "primary_isbn10": "0440339367",
       "dagger": 0,
       "publisher": "Random House Publishing",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     }
   ],
   "2012-10": [
@@ -1118,7 +1153,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Penguin Group",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Romance"
     }
   ],
   "2012-12": [
@@ -1142,7 +1178,8 @@
       "primary_isbn10": "0345527755",
       "dagger": 0,
       "publisher": "Random House Publishing",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2012-12-16",
@@ -1152,7 +1189,19 @@
       "primary_isbn10": "0316069442",
       "dagger": 0,
       "publisher": "Little, Brown & Company",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE DROP",
+        "THE BLACK BOX",
+        "THE BURNING ROOM",
+        "THE CROSSING",
+        "THE WRONG SIDE OF GOODBYE",
+        "TWO KINDS OF TRUTH",
+        "DARK SACRED NIGHT",
+        "THE NIGHT FIRE",
+        "THE DARK HOURS"
+      ]
     },
     {
       "date": "2012-12-23",
@@ -1308,7 +1357,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Penguin Group",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2013-03-24",
@@ -1400,7 +1450,8 @@
       "primary_isbn10": "1455521280",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2013-05-19",
@@ -1410,7 +1461,9 @@
       "primary_isbn10": "",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller",
+      "pages": 432
     },
     {
       "date": "2013-05-26",
@@ -1504,7 +1557,9 @@
       "primary_isbn10": "0316211192",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller",
+      "pages": 384
     },
     {
       "date": "2013-07-21",
@@ -1620,7 +1675,8 @@
       "primary_isbn10": "0440339375",
       "dagger": 0,
       "publisher": "Delacorte",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2013-09-29",
@@ -1654,7 +1710,8 @@
       "primary_isbn10": "147672766X",
       "dagger": 0,
       "publisher": "Scribner",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Horror"
     },
     {
       "date": "2013-10-20",
@@ -1664,7 +1721,9 @@
       "primary_isbn10": "031621101X",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller",
+      "pages": 400
     },
     {
       "date": "2013-10-27",
@@ -1710,7 +1769,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Berkley",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Romance"
     },
     {
       "date": "2013-11-24",
@@ -1746,7 +1806,8 @@
       "primary_isbn10": "0345542908",
       "dagger": 0,
       "publisher": "Bantam",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2013-12-15",
@@ -1756,7 +1817,9 @@
       "primary_isbn10": "0316210927",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller",
+      "pages": 448
     },
     {
       "date": "2013-12-22",
@@ -1766,7 +1829,13 @@
       "primary_isbn10": "0316069507",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE FIFTH WITNESS",
+        "THE GODS OF GUILT",
+        "THE LAW OF INNOCENCE"
+      ]
     },
     {
       "date": "2013-12-29",
@@ -1990,7 +2059,8 @@
       "primary_isbn10": "1101617284",
       "dagger": 0,
       "publisher": "Putnam",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2014-05-11",
@@ -2070,7 +2140,8 @@
       "primary_isbn10": "1476754462",
       "dagger": 0,
       "publisher": "Scribner",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Horror"
     },
     {
       "date": "2014-06-29",
@@ -2092,7 +2163,8 @@
       "primary_isbn10": "0345542940",
       "dagger": 0,
       "publisher": "Bantam",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2014-07-13",
@@ -2208,7 +2280,18 @@
       "primary_isbn10": "",
       "dagger": 0,
       "publisher": "Minotaur",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE LONG WAY HOME",
+        "A GREAT RECKONING",
+        "GLASS HOUSES",
+        "KINGDOM OF THE BLIND",
+        "A BETTER MAN",
+        "ALL THE DEVILS ARE HERE",
+        "THE MADNESS OF CROWDS",
+        "A WORLD OF CURIOSITIES"
+      ]
     },
     {
       "date": "2014-09-21",
@@ -2218,7 +2301,8 @@
       "primary_isbn10": "0804178763",
       "dagger": 0,
       "publisher": "Delacorte",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2014-09-28",
@@ -2228,7 +2312,8 @@
       "primary_isbn10": "1101617276",
       "dagger": 0,
       "publisher": "Putnam",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     }
   ],
   "2014-10": [
@@ -2300,7 +2385,8 @@
       "primary_isbn10": "0385539169",
       "dagger": 0,
       "publisher": "Doubleday",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2014-11-16",
@@ -2310,7 +2396,8 @@
       "primary_isbn10": "0698144546",
       "dagger": 0,
       "publisher": "Berkley",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Romance"
     },
     {
       "date": "2014-11-23",
@@ -2320,7 +2407,19 @@
       "primary_isbn10": "0316225924",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE DROP",
+        "THE BLACK BOX",
+        "THE BURNING ROOM",
+        "THE CROSSING",
+        "THE WRONG SIDE OF GOODBYE",
+        "TWO KINDS OF TRUTH",
+        "DARK SACRED NIGHT",
+        "THE NIGHT FIRE",
+        "THE DARK HOURS"
+      ]
     },
     {
       "date": "2014-11-30",
@@ -2330,7 +2429,8 @@
       "primary_isbn10": "1476770409",
       "dagger": 0,
       "publisher": "Scribner",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Horror"
     }
   ],
   "2014-12": [
@@ -2354,7 +2454,9 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller",
+      "pages": "400"
     },
     {
       "date": "2014-12-21",
@@ -2364,7 +2466,8 @@
       "primary_isbn10": "0385539169",
       "dagger": 0,
       "publisher": "Doubleday",
-      "weeks_on_list": 7
+      "weeks_on_list": 7,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2014-12-28",
@@ -2388,7 +2491,8 @@
       "primary_isbn10": "038553714X",
       "dagger": 0,
       "publisher": "Doubleday",
-      "weeks_on_list": 9
+      "weeks_on_list": 9,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2015-01-11",
@@ -2610,7 +2714,8 @@
       "primary_isbn10": "1455586382",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2015-05-17",
@@ -2620,7 +2725,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Putnam",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2015-05-24",
@@ -2630,7 +2736,9 @@
       "primary_isbn10": "031640876X",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller",
+      "pages": 336
     },
     {
       "date": "2015-05-31",
@@ -2676,7 +2784,8 @@
       "primary_isbn10": "1501100130",
       "dagger": 0,
       "publisher": "Scribner",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2015-06-28",
@@ -2786,7 +2895,9 @@
       "primary_isbn10": "0316407186",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller",
+      "pages": 384
     },
     {
       "date": "2015-08-30",
@@ -2904,7 +3015,8 @@
       "primary_isbn10": "1455520616",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Romance"
     },
     {
       "date": "2015-11-08",
@@ -2938,7 +3050,19 @@
       "primary_isbn10": "0316225894",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE DROP",
+        "THE BLACK BOX",
+        "THE BURNING ROOM",
+        "THE CROSSING",
+        "THE WRONG SIDE OF GOODBYE",
+        "TWO KINDS OF TRUTH",
+        "DARK SACRED NIGHT",
+        "THE NIGHT FIRE",
+        "THE DARK HOURS"
+      ]
     },
     {
       "date": "2015-11-29",
@@ -2962,7 +3086,8 @@
       "primary_isbn10": "0345542983",
       "dagger": 0,
       "publisher": "Bantam",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2015-12-13",
@@ -2972,7 +3097,9 @@
       "primary_isbn10": "0316407143",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller",
+      "pages": 528
     },
     {
       "date": "2015-12-20",
@@ -3080,7 +3207,9 @@
       "primary_isbn10": "0316288721",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller",
+      "pages": 528
     },
     {
       "date": "2016-02-21",
@@ -3091,7 +3220,7 @@
       "dagger": 0,
       "publisher": "Berkley",
       "weeks_on_list": 1,
-      "genre": "Suspense/Thriller",
+      "genre": "Mystery/Crime",
       "pages": 400
     },
     {
@@ -3160,7 +3289,8 @@
       "primary_isbn10": "0316408999",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2016-04-10",
@@ -3218,7 +3348,8 @@
       "primary_isbn10": "145558648X",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2016-05-15",
@@ -3228,7 +3359,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Putnam",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2016-05-22",
@@ -3238,7 +3370,8 @@
       "primary_isbn10": "031629005X",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2016-05-29",
@@ -3298,7 +3431,8 @@
       "primary_isbn10": "1501129740",
       "dagger": 0,
       "publisher": "Scribner",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     }
   ],
   "2016-07": [
@@ -3310,7 +3444,8 @@
       "primary_isbn10": "0698190742",
       "dagger": 0,
       "publisher": "Berkley",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Romance"
     },
     {
       "date": "2016-07-10",
@@ -3332,7 +3467,8 @@
       "primary_isbn10": "031629019X",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2016-07-24",
@@ -3354,7 +3490,17 @@
       "primary_isbn10": "0062320246",
       "dagger": 0,
       "publisher": "Harper",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE BLACK WIDOW",
+        "HOUSE OF SPIES",
+        "THE OTHER WOMAN",
+        "THE NEW GIRL",
+        "THE ORDER",
+        "THE CELLIST",
+        "THE COLLECTOR"
+      ]
     }
   ],
   "2016-08": [
@@ -3388,7 +3534,8 @@
       "primary_isbn10": "0316284556",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2016-08-28",
@@ -3434,7 +3581,18 @@
       "primary_isbn10": "1250022126",
       "dagger": 0,
       "publisher": "Minotaur",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE LONG WAY HOME",
+        "A GREAT RECKONING",
+        "GLASS HOUSES",
+        "KINGDOM OF THE BLIND",
+        "A BETTER MAN",
+        "ALL THE DEVILS ARE HERE",
+        "THE MADNESS OF CROWDS",
+        "A WORLD OF CURIOSITIES"
+      ]
     },
     {
       "date": "2016-09-25",
@@ -3444,7 +3602,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Berkley",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     }
   ],
   "2016-10": [
@@ -3542,7 +3701,19 @@
       "primary_isbn10": "0316225959",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE DROP",
+        "THE BLACK BOX",
+        "THE BURNING ROOM",
+        "THE CROSSING",
+        "THE WRONG SIDE OF GOODBYE",
+        "TWO KINDS OF TRUTH",
+        "DARK SACRED NIGHT",
+        "THE NIGHT FIRE",
+        "THE DARK HOURS"
+      ]
     },
     {
       "date": "2016-11-27",
@@ -3552,7 +3723,8 @@
       "primary_isbn10": "080417881X",
       "dagger": 0,
       "publisher": "Delacorte",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     }
   ],
   "2016-12": [
@@ -3565,7 +3737,7 @@
       "dagger": 0,
       "publisher": "Bantam",
       "weeks_on_list": 1,
-      "genre": "Suspense/Thriller",
+      "genre": "Mystery/Crime",
       "pages": "344"
     },
     {
@@ -3576,7 +3748,8 @@
       "primary_isbn10": "031640716X",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2016-12-18",
@@ -3598,7 +3771,8 @@
       "primary_isbn10": "0698190750",
       "dagger": 0,
       "publisher": "Berkley",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Romance"
     }
   ],
   "2017-01": [
@@ -3634,7 +3808,19 @@
       "primary_isbn10": "0316225959",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 7
+      "weeks_on_list": 7,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE DROP",
+        "THE BLACK BOX",
+        "THE BURNING ROOM",
+        "THE CROSSING",
+        "THE WRONG SIDE OF GOODBYE",
+        "TWO KINDS OF TRUTH",
+        "DARK SACRED NIGHT",
+        "THE NIGHT FIRE",
+        "THE DARK HOURS"
+      ]
     },
     {
       "date": "2017-01-22",
@@ -3644,7 +3830,8 @@
       "primary_isbn10": "0425285359",
       "dagger": 0,
       "publisher": "Delacorte",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Romance"
     },
     {
       "date": "2017-01-29",
@@ -3700,7 +3887,8 @@
       "primary_isbn10": "1250123143",
       "dagger": 0,
       "publisher": "St. Martin's",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     }
   ],
   "2017-03": [
@@ -3830,7 +4018,8 @@
       "primary_isbn10": "0399184589",
       "dagger": 0,
       "publisher": "Putnam",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2017-05-21",
@@ -3840,7 +4029,8 @@
       "primary_isbn10": "031655345X",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2017-05-28",
@@ -3888,7 +4078,8 @@
       "primary_isbn10": "1250123100",
       "dagger": 0,
       "publisher": "St. Martin's",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Romance"
     },
     {
       "date": "2017-06-25",
@@ -3960,7 +4151,17 @@
       "primary_isbn10": "0062354361",
       "dagger": 0,
       "publisher": "Harper",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE BLACK WIDOW",
+        "HOUSE OF SPIES",
+        "THE OTHER WOMAN",
+        "THE NEW GIRL",
+        "THE ORDER",
+        "THE CELLIST",
+        "THE COLLECTOR"
+      ]
     }
   ],
   "2017-08": [
@@ -3973,7 +4174,7 @@
       "dagger": 0,
       "publisher": "Little, Brown",
       "weeks_on_list": 1,
-      "genre": "Suspense/Thriller",
+      "genre": "Mystery/Crime",
       "pages": "448"
     },
     {
@@ -3985,7 +4186,7 @@
       "dagger": 0,
       "publisher": "Little, Brown",
       "weeks_on_list": 2,
-      "genre": "Suspense/Thriller",
+      "genre": "Mystery/Crime",
       "pages": "448"
     },
     {
@@ -3996,7 +4197,8 @@
       "primary_isbn10": "0316504831",
       "dagger": 0,
       "publisher": "BookShots",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2017-08-27",
@@ -4040,7 +4242,18 @@
       "primary_isbn10": "146687368X",
       "dagger": 0,
       "publisher": "Minotaur",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE LONG WAY HOME",
+        "A GREAT RECKONING",
+        "GLASS HOUSES",
+        "KINGDOM OF THE BLIND",
+        "A BETTER MAN",
+        "ALL THE DEVILS ARE HERE",
+        "THE MADNESS OF CROWDS",
+        "A WORLD OF CURIOSITIES"
+      ]
     },
     {
       "date": "2017-09-24",
@@ -4051,7 +4264,7 @@
       "dagger": 0,
       "publisher": "St. Martin's",
       "weeks_on_list": 1,
-      "genre": "Suspense/Thriller",
+      "genre": "Mystery/Crime",
       "pages": 384
     }
   ],
@@ -4084,7 +4297,8 @@
       "primary_isbn10": "150116340X",
       "dagger": 0,
       "publisher": "Scribner",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Horror"
     },
     {
       "date": "2017-10-22",
@@ -4144,7 +4358,19 @@
       "primary_isbn10": "0316225916",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE DROP",
+        "THE BLACK BOX",
+        "THE BURNING ROOM",
+        "THE CROSSING",
+        "THE WRONG SIDE OF GOODBYE",
+        "TWO KINDS OF TRUTH",
+        "DARK SACRED NIGHT",
+        "THE NIGHT FIRE",
+        "THE DARK HOURS"
+      ]
     },
     {
       "date": "2017-11-26",
@@ -4154,7 +4380,8 @@
       "primary_isbn10": "0399593497",
       "dagger": 0,
       "publisher": "Delacorte",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     }
   ],
   "2017-12": [
@@ -4166,7 +4393,8 @@
       "primary_isbn10": "0399179208",
       "dagger": 0,
       "publisher": "Putnam",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2017-12-10",
@@ -4176,7 +4404,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2017-12-17",
@@ -4196,7 +4425,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "St. Martin's",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2017-12-31",
@@ -4232,7 +4462,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 6
+      "weeks_on_list": 6,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2018-01-21",
@@ -4290,7 +4521,8 @@
       "primary_isbn10": "125016155X",
       "dagger": 0,
       "publisher": "St. Martin's",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2018-02-25",
@@ -4374,7 +4606,8 @@
       "primary_isbn10": "110188410X",
       "dagger": 0,
       "publisher": "Delacorte",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Romance"
     },
     {
       "date": "2018-04-15",
@@ -4418,7 +4651,8 @@
       "primary_isbn10": "1538761378",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2018-05-13",
@@ -4428,7 +4662,8 @@
       "primary_isbn10": "073521736X",
       "dagger": 0,
       "publisher": "Putnam",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2018-05-20",
@@ -4476,7 +4711,8 @@
       "primary_isbn10": "1501180983",
       "dagger": 0,
       "publisher": "Scribner",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Horror"
     },
     {
       "date": "2018-06-17",
@@ -4486,7 +4722,8 @@
       "primary_isbn10": "1250161614",
       "dagger": 0,
       "publisher": "St. Martin's",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Romance"
     },
     {
       "date": "2018-06-24",
@@ -4572,7 +4809,17 @@
       "primary_isbn10": "0062834886",
       "dagger": 0,
       "publisher": "HarperCollins",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE BLACK WIDOW",
+        "HOUSE OF SPIES",
+        "THE OTHER WOMAN",
+        "THE NEW GIRL",
+        "THE ORDER",
+        "THE CELLIST",
+        "THE COLLECTOR"
+      ]
     },
     {
       "date": "2018-08-12",
@@ -4654,7 +4901,8 @@
       "primary_isbn10": "1250161584",
       "dagger": 0,
       "publisher": "St. Martin's",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2018-09-30",
@@ -4664,7 +4912,8 @@
       "primary_isbn10": "0316470066",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     }
   ],
   "2018-10": [
@@ -4746,7 +4995,19 @@
       "primary_isbn10": "0316486671",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE DROP",
+        "THE BLACK BOX",
+        "THE BURNING ROOM",
+        "THE CROSSING",
+        "THE WRONG SIDE OF GOODBYE",
+        "TWO KINDS OF TRUTH",
+        "DARK SACRED NIGHT",
+        "THE NIGHT FIRE",
+        "THE DARK HOURS"
+      ]
     },
     {
       "date": "2018-11-25",
@@ -4756,7 +5017,8 @@
       "primary_isbn10": "",
       "dagger": 0,
       "publisher": "Delacorte",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     }
   ],
   "2018-12": [
@@ -4790,7 +5052,18 @@
       "primary_isbn10": "1466873698",
       "dagger": 0,
       "publisher": "Minotaur",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE LONG WAY HOME",
+        "A GREAT RECKONING",
+        "GLASS HOUSES",
+        "KINGDOM OF THE BLIND",
+        "A BETTER MAN",
+        "ALL THE DEVILS ARE HERE",
+        "THE MADNESS OF CROWDS",
+        "A WORLD OF CURIOSITIES"
+      ]
     },
     {
       "date": "2018-12-23",
@@ -4800,7 +5073,8 @@
       "primary_isbn10": "125012302X",
       "dagger": 0,
       "publisher": "St. Martin's",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2018-12-30",
@@ -4836,7 +5110,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Grand Central Publishing",
-      "weeks_on_list": 7
+      "weeks_on_list": 7,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2019-01-20",
@@ -4856,7 +5131,8 @@
       "primary_isbn10": "0399179364",
       "dagger": 0,
       "publisher": "Delacorte",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Romance"
     }
   ],
   "2019-02": [
@@ -4904,7 +5180,8 @@
       "primary_isbn10": "1250201586",
       "dagger": 0,
       "publisher": "St. Martin's",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     }
   ],
   "2019-03": [
@@ -5028,7 +5305,8 @@
       "primary_isbn10": "1538761432",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2019-05-12",
@@ -5038,7 +5316,8 @@
       "primary_isbn10": "0525536590",
       "dagger": 0,
       "publisher": "Putnam",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2019-05-19",
@@ -5048,7 +5327,8 @@
       "primary_isbn10": "0316528447",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2019-05-26",
@@ -5134,7 +5414,8 @@
       "primary_isbn10": "0316420018",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Historical Fiction"
     },
     {
       "date": "2019-07-14",
@@ -5168,7 +5449,8 @@
       "primary_isbn10": "1250213274",
       "dagger": 0,
       "publisher": "St. Martin's",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Romance"
     }
   ],
   "2019-08": [
@@ -5180,7 +5462,17 @@
       "primary_isbn10": "0062834894",
       "dagger": 0,
       "publisher": "Harper",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE BLACK WIDOW",
+        "HOUSE OF SPIES",
+        "THE OTHER WOMAN",
+        "THE NEW GIRL",
+        "THE ORDER",
+        "THE CELLIST",
+        "THE COLLECTOR"
+      ]
     },
     {
       "date": "2019-08-11",
@@ -5190,7 +5482,8 @@
       "primary_isbn10": "1538750554",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2019-08-18",
@@ -5250,7 +5543,18 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Minotaur",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE LONG WAY HOME",
+        "A GREAT RECKONING",
+        "GLASS HOUSES",
+        "KINGDOM OF THE BLIND",
+        "A BETTER MAN",
+        "ALL THE DEVILS ARE HERE",
+        "THE MADNESS OF CROWDS",
+        "A WORLD OF CURIOSITIES"
+      ]
     },
     {
       "date": "2019-09-22",
@@ -5260,7 +5564,8 @@
       "primary_isbn10": "1250207185",
       "dagger": 0,
       "publisher": "St. Martin's",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2019-09-29",
@@ -5305,8 +5610,9 @@
       "author": "John Sandford",
       "primary_isbn10": "None",
       "dagger": 0,
-      "publisher": "Putman",
-      "weeks_on_list": 1
+      "publisher": "Putnam",
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2019-10-27",
@@ -5316,7 +5622,8 @@
       "primary_isbn10": "031649402X",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     }
   ],
   "2019-11": [
@@ -5328,7 +5635,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Doubleday",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2019-11-10",
@@ -5338,7 +5646,19 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE DROP",
+        "THE BLACK BOX",
+        "THE BURNING ROOM",
+        "THE CROSSING",
+        "THE WRONG SIDE OF GOODBYE",
+        "TWO KINDS OF TRUTH",
+        "DARK SACRED NIGHT",
+        "THE NIGHT FIRE",
+        "THE DARK HOURS"
+      ]
     },
     {
       "date": "2019-11-17",
@@ -5374,7 +5694,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Putnam",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2019-12-08",
@@ -5384,7 +5705,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2019-12-15",
@@ -5394,7 +5716,8 @@
       "primary_isbn10": "1250123062",
       "dagger": 0,
       "publisher": "St. Martin's",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2019-12-22",
@@ -5404,7 +5727,8 @@
       "primary_isbn10": "0385544189",
       "dagger": 0,
       "publisher": "Doubleday",
-      "weeks_on_list": 8
+      "weeks_on_list": 8,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2019-12-29",
@@ -5514,7 +5838,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "St. Martin's",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     }
   ],
   "2020-03": [
@@ -5548,7 +5873,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2020-03-22",
@@ -5580,7 +5906,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2020-04-12",
@@ -5628,7 +5955,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Putnam",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2020-05-10",
@@ -5638,7 +5966,8 @@
       "primary_isbn10": "1538761505",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2020-05-17",
@@ -5660,7 +5989,8 @@
       "primary_isbn10": "031649495X",
       "dagger": 0,
       "publisher": "Little Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2020-05-31",
@@ -5696,7 +6026,8 @@
       "primary_isbn10": "1250207126",
       "dagger": 0,
       "publisher": "St. Martin's",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Romance"
     },
     {
       "date": "2020-06-21",
@@ -5718,7 +6049,8 @@
       "primary_isbn10": "0316539562",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     }
   ],
   "2020-07": [
@@ -5780,7 +6112,17 @@
       "primary_isbn10": "0062834908",
       "dagger": 0,
       "publisher": "Harper",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE BLACK WIDOW",
+        "HOUSE OF SPIES",
+        "THE OTHER WOMAN",
+        "THE NEW GIRL",
+        "THE ORDER",
+        "THE CELLIST",
+        "THE COLLECTOR"
+      ]
     },
     {
       "date": "2020-08-09",
@@ -5858,7 +6200,18 @@
       "primary_isbn10": "1250145252",
       "dagger": 0,
       "publisher": "Minotaur",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE LONG WAY HOME",
+        "A GREAT RECKONING",
+        "GLASS HOUSES",
+        "KINGDOM OF THE BLIND",
+        "A BETTER MAN",
+        "ALL THE DEVILS ARE HERE",
+        "THE MADNESS OF CROWDS",
+        "A WORLD OF CURIOSITIES"
+      ]
     },
     {
       "date": "2020-09-27",
@@ -5869,7 +6222,7 @@
       "dagger": 0,
       "publisher": "St. Martin's",
       "weeks_on_list": 1,
-      "genre": "Suspense/Thriller",
+      "genre": "Mystery/Crime",
       "pages": 368
     }
   ],
@@ -5916,7 +6269,8 @@
       "primary_isbn10": "0316435619",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Romance"
     }
   ],
   "2020-11": [
@@ -5952,7 +6306,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Delacorte",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2020-11-22",
@@ -5962,7 +6317,8 @@
       "primary_isbn10": "1982154861",
       "dagger": 0,
       "publisher": "Atria",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2020-11-29",
@@ -5972,7 +6328,13 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE FIFTH WITNESS",
+        "THE GODS OF GUILT",
+        "THE LAW OF INNOCENCE"
+      ]
     }
   ],
   "2020-12": [
@@ -6106,7 +6468,8 @@
       "primary_isbn10": "0316430242",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2021-02-21",
@@ -6188,7 +6551,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2021-04-11",
@@ -6248,7 +6612,8 @@
       "primary_isbn10": "None",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2021-05-16",
@@ -6270,7 +6635,8 @@
       "primary_isbn10": "0759555699",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2021-05-30",
@@ -6304,7 +6670,8 @@
       "primary_isbn10": "1250272947",
       "dagger": 0,
       "publisher": "St. Martin's",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Romance"
     },
     {
       "date": "2021-06-20",
@@ -6384,7 +6751,17 @@
       "primary_isbn10": "0062834916",
       "dagger": 0,
       "publisher": "HarperCollins",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE BLACK WIDOW",
+        "HOUSE OF SPIES",
+        "THE OTHER WOMAN",
+        "THE NEW GIRL",
+        "THE ORDER",
+        "THE CELLIST",
+        "THE COLLECTOR"
+      ]
     },
     {
       "date": "2021-08-08",
@@ -6454,7 +6831,18 @@
       "primary_isbn10": "1250145287",
       "dagger": 0,
       "publisher": "Minotaur",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE LONG WAY HOME",
+        "A GREAT RECKONING",
+        "GLASS HOUSES",
+        "KINGDOM OF THE BLIND",
+        "A BETTER MAN",
+        "ALL THE DEVILS ARE HERE",
+        "THE MADNESS OF CROWDS",
+        "A WORLD OF CURIOSITIES"
+      ]
     },
     {
       "date": "2021-09-19",
@@ -6464,7 +6852,8 @@
       "primary_isbn10": "0735211256",
       "dagger": 0,
       "publisher": "Riverhead",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2021-09-26",
@@ -6475,7 +6864,7 @@
       "dagger": 0,
       "publisher": "St. Martin's",
       "weeks_on_list": 1,
-      "genre": "Suspense/Thriller",
+      "genre": "Mystery/Crime",
       "pages": 384
     }
   ],
@@ -6512,7 +6901,8 @@
       "primary_isbn10": "1538728621",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Romance"
     },
     {
       "date": "2021-10-24",
@@ -6531,8 +6921,9 @@
       "author": "Hillary Rodham Clinton and Louise Penny",
       "primary_isbn10": "198217367X",
       "dagger": 0,
-      "publisher": "Simon & Schuster, St. Martin\u2019s",
-      "weeks_on_list": 1
+      "publisher": "St. Martin's'",
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     }
   ],
   "2021-11": [
@@ -6556,7 +6947,8 @@
       "primary_isbn10": "1984818511",
       "dagger": 0,
       "publisher": "Delacorte",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2021-11-21",
@@ -6566,7 +6958,8 @@
       "primary_isbn10": "198215490X",
       "dagger": 0,
       "publisher": "Atria",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2021-11-28",
@@ -6576,7 +6969,19 @@
       "primary_isbn10": "0316256560",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE DROP",
+        "THE BLACK BOX",
+        "THE BURNING ROOM",
+        "THE CROSSING",
+        "THE WRONG SIDE OF GOODBYE",
+        "TWO KINDS OF TRUTH",
+        "DARK SACRED NIGHT",
+        "THE NIGHT FIRE",
+        "THE DARK HOURS"
+      ]
     }
   ],
   "2021-12": [
@@ -6732,7 +7137,8 @@
       "primary_isbn10": "1250278228",
       "dagger": 0,
       "publisher": "St. Martin's",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     }
   ],
   "2022-03": [
@@ -6776,7 +7182,8 @@
       "primary_isbn10": "075955434X",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     }
   ],
   "2022-04": [
@@ -6788,7 +7195,9 @@
       "primary_isbn10": "1538748339",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller",
+      "series": ["THE BOY FROM THE WOODS", "THE MATCH"]
     },
     {
       "date": "2022-04-10",
@@ -6836,7 +7245,8 @@
       "primary_isbn10": "0593328698",
       "dagger": 0,
       "publisher": "Putnam",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2022-05-08",
@@ -6846,7 +7256,8 @@
       "primary_isbn10": "1538719789",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2022-05-15",
@@ -6906,7 +7317,8 @@
       "primary_isbn10": "1250278201",
       "dagger": 0,
       "publisher": "St. Martin's",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Romance"
     },
     {
       "date": "2022-06-19",
@@ -6916,7 +7328,8 @@
       "primary_isbn10": "0385549326",
       "dagger": 0,
       "publisher": "Doubleday",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2022-06-26",
@@ -6940,7 +7353,8 @@
       "primary_isbn10": "0316258679",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Romance"
     },
     {
       "date": "2022-07-10",
@@ -7086,7 +7500,8 @@
       "primary_isbn10": "1668002175",
       "dagger": 0,
       "publisher": "Scribner",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     }
   ],
   "2022-10": [
@@ -7110,7 +7525,8 @@
       "primary_isbn10": "059344955X",
       "dagger": 0,
       "publisher": "Random House",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Romance"
     },
     {
       "date": "2022-10-16",
@@ -7120,7 +7536,8 @@
       "primary_isbn10": "1538739720",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 43
+      "weeks_on_list": 43,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2022-10-23",
@@ -7130,7 +7547,8 @@
       "primary_isbn10": "0593422481",
       "dagger": 0,
       "publisher": "Putnam",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2022-10-30",
@@ -7140,7 +7558,8 @@
       "primary_isbn10": "1538719797",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     }
   ],
   "2022-11": [
@@ -7226,7 +7645,18 @@
       "primary_isbn10": "1250145317",
       "dagger": 0,
       "publisher": "Minotaur",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE LONG WAY HOME",
+        "A GREAT RECKONING",
+        "GLASS HOUSES",
+        "KINGDOM OF THE BLIND",
+        "A BETTER MAN",
+        "ALL THE DEVILS ARE HERE",
+        "THE MADNESS OF CROWDS",
+        "A WORLD OF CURIOSITIES"
+      ]
     },
     {
       "date": "2022-12-25",
@@ -7348,7 +7778,8 @@
       "primary_isbn10": "1250284317",
       "dagger": 0,
       "publisher": "St. Martin's",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     }
   ],
   "2023-03": [
@@ -7406,7 +7837,8 @@
       "primary_isbn10": "1538748401",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2023-04-09",
@@ -7450,7 +7882,8 @@
       "primary_isbn10": "0593422422",
       "dagger": 0,
       "publisher": "Putnam",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     }
   ],
   "2023-05": [
@@ -7462,7 +7895,8 @@
       "primary_isbn10": "1538750597",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2023-05-14",
@@ -7484,7 +7918,8 @@
       "primary_isbn10": "0316402982",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2023-05-28",
@@ -7520,7 +7955,8 @@
       "primary_isbn10": "1250284325",
       "dagger": 0,
       "publisher": "St. Martin's",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2023-06-18",
@@ -7542,7 +7978,8 @@
       "primary_isbn10": "0316404691",
       "dagger": 0,
       "publisher": "Little, Brown",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     }
   ],
   "2023-07": [
@@ -7578,7 +8015,8 @@
       "primary_isbn10": "1538756595",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Romance"
     },
     {
       "date": "2023-07-23",
@@ -7588,7 +8026,8 @@
       "primary_isbn10": "1538756595",
       "dagger": 0,
       "publisher": "Grand Central",
-      "weeks_on_list": 2
+      "weeks_on_list": 2,
+      "genre": "Romance"
     },
     {
       "date": "2023-07-30",
@@ -7612,7 +8051,17 @@
       "primary_isbn10": "0062834932",
       "dagger": 0,
       "publisher": "Harper",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "series": [
+        "THE BLACK WIDOW",
+        "HOUSE OF SPIES",
+        "THE OTHER WOMAN",
+        "THE NEW GIRL",
+        "THE ORDER",
+        "THE CELLIST",
+        "THE COLLECTOR"
+      ]
     },
     {
       "date": "2023-08-13",
@@ -7692,7 +8141,8 @@
       "primary_isbn10": "1668016133",
       "dagger": 0,
       "publisher": "Scribner",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     }
   ],
   "2023-10": [
@@ -7726,7 +8176,9 @@
       "primary_isbn10": "0316572136",
       "dagger": 0,
       "publisher": "Mulholland",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime",
+      "pages": 960
     },
     {
       "date": "2023-10-22",
@@ -7736,7 +8188,8 @@
       "primary_isbn10": "0593542827",
       "dagger": 0,
       "publisher": "Putnam",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2023-10-29",
@@ -7772,7 +8225,8 @@
       "primary_isbn10": "1984818597",
       "dagger": 0,
       "publisher": "Delacorte",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Suspense/Thriller"
     },
     {
       "date": "2023-11-19",
@@ -7782,7 +8236,8 @@
       "primary_isbn10": "1668003120",
       "dagger": 0,
       "publisher": "Atria",
-      "weeks_on_list": 1
+      "weeks_on_list": 1,
+      "genre": "Mystery/Crime"
     },
     {
       "date": "2023-11-26",

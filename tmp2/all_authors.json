@@ -531,7 +531,11 @@
         ]
       }
     ],
-    "count": 55
+    "count": 55,
+    "gender": "male",
+    "birth_year": 1947,
+    "university": "Manhattan College",
+    "major": "English"
   },
   "John Grisham": {
     "books": [
@@ -771,7 +775,11 @@
         ]
       }
     ],
-    "count": 47
+    "count": 47,
+    "gender": "male",
+    "birth_year": 1955,
+    "university": "Mississippi State University",
+    "major": "Business & Commerce"
   },
   "Delia Owens": {
     "books": [
@@ -832,7 +840,11 @@
         ]
       }
     ],
-    "count": 44
+    "count": 44,
+    "gender": "female",
+    "birth_year": 1949,
+    "university": "University of Georgia",
+    "major": "Zoology"
   },
   "Nora Roberts": {
     "books": [
@@ -1302,7 +1314,11 @@
         ]
       }
     ],
-    "count": 38
+    "count": 38,
+    "gender": "female",
+    "birth_year": 1950,
+    "university": "None",
+    "major": "None"
   },
   "E L James": {
     "books": [
@@ -1364,7 +1380,11 @@
         ]
       }
     ],
-    "count": 33
+    "count": 33,
+    "gender": "female",
+    "birth_year": 1963,
+    "university": "University of Kent",
+    "major": "Humanities and Social Sciences"
   },
   "Colleen Hoover": {
     "books": [
@@ -1448,7 +1468,11 @@
         ]
       }
     ],
-    "count": 33
+    "count": 33,
+    "gender": "female",
+    "birth_year": 1979,
+    "university": "Texas A&M University-Commerce",
+    "major": "Humanities and Social Sciences"
   },
   "Paula Hawkins": {
     "books": [
@@ -1518,7 +1542,11 @@
         ]
       }
     ],
-    "count": 30
+    "count": 30,
+    "gender": "female",
+    "birth_year": 1972,
+    "university": "University of Oxford",
+    "major": "Political Science"
   },
   "David Baldacci": {
     "books": [
@@ -1731,7 +1759,11 @@
         ]
       }
     ],
-    "count": 18
+    "count": 18,
+    "gender": "male",
+    "birth_year": 1960,
+    "university": "Virginia Commonwealth University",
+    "major": "Political Science"
   },
   "Kathryn Stockett": {
     "books": [
@@ -1764,7 +1796,11 @@
         ]
       }
     ],
-    "count": 16
+    "count": 16,
+    "gender": "female",
+    "birth_year": 1969,
+    "university": "University of Alabama",
+    "major": "English"
   },
   "Michael Connelly": {
     "books": [
@@ -2043,7 +2079,11 @@
         ]
       }
     ],
-    "count": 15
+    "count": 15,
+    "gender": "male",
+    "birth_year": 1956,
+    "university": "University of Florida",
+    "major": "Journalism"
   },
   "Nicholas Sparks": {
     "books": [
@@ -2156,7 +2196,11 @@
         ]
       }
     ],
-    "count": 15
+    "count": 15,
+    "gender": "male",
+    "birth_year": 1965,
+    "university": "University of Notre Dame",
+    "major": "Business & Commerce"
   },
   "Stephen King": {
     "books": [
@@ -2311,7 +2355,11 @@
         ]
       }
     ],
-    "count": 15
+    "count": 15,
+    "gender": "male",
+    "birth_year": 1947,
+    "university": "University of Maine",
+    "major": "English"
   },
   "John Sandford": {
     "books": [
@@ -2500,7 +2548,11 @@
         ]
       }
     ],
-    "count": 15
+    "count": 15,
+    "gender": "male",
+    "birth_year": 1944,
+    "university": "University of Iowa",
+    "major": "Humanities and Social Sciences"
   },
   "Maxine Paetro": {
     "books": [
@@ -2656,7 +2708,11 @@
         ]
       }
     ],
-    "count": 14
+    "count": 14,
+    "gender": "male",
+    "birth_year": 1946,
+    "university": "Jacksonville University",
+    "major": "General Studies"
   },
   "Janet Evanovich": {
     "books": [
@@ -2819,7 +2875,11 @@
         ]
       }
     ],
-    "count": 13
+    "count": 13,
+    "gender": "female",
+    "birth_year": 1943,
+    "university": "Rutgers University",
+    "major": "Art"
   },
   "Lee Child": {
     "books": [
@@ -2971,7 +3031,11 @@
         ]
       }
     ],
-    "count": 13
+    "count": 13,
+    "gender": "male",
+    "birth_year": 1954,
+    "university": "University of Sheffield",
+    "major": "Law"
   },
   "Dan Brown": {
     "books": [
@@ -3012,7 +3076,11 @@
         ]
       }
     ],
-    "count": 12
+    "count": 12,
+    "gender": "male",
+    "birth_year": 1964,
+    "university": "Amherst College",
+    "major": "English"
   },
   "Kristin Hannah": {
     "books": [
@@ -3075,7 +3143,11 @@
         ]
       }
     ],
-    "count": 11
+    "count": 11,
+    "gender": "female",
+    "birth_year": 1960,
+    "university": "University of Washington",
+    "major": "Humanities and Social Sciences"
   },
   "Harlan Coben": {
     "books": [
@@ -3184,7 +3256,11 @@
         ]
       }
     ],
-    "count": 9
+    "count": 9,
+    "gender": "male",
+    "birth_year": 1962,
+    "university": "Amherst College",
+    "major": "Political Science"
   },
   "Louise Penny": {
     "books": [
@@ -3377,7 +3453,11 @@
         ]
       }
     ],
-    "count": 9
+    "count": 9,
+    "gender": "female",
+    "birth_year": 1958,
+    "university": "Toronto Metropolitan University",
+    "major": "Art"
   },
   "Rebecca Yarros": {
     "books": [
@@ -3415,7 +3495,11 @@
         ]
       }
     ],
-    "count": 9
+    "count": 9,
+    "gender": "female",
+    "birth_year": 1981,
+    "university": "University of Colorado",
+    "major": "Art"
   },
   "Sara Gruen": {
     "books": [
@@ -3440,7 +3524,11 @@
         ]
       }
     ],
-    "count": 8
+    "count": 8,
+    "gender": "female",
+    "birth_year": 1969,
+    "university": "Carleton University",
+    "major": "English"
   },
   "Bill Clinton": {
     "books": [
@@ -3477,7 +3565,11 @@
         ]
       }
     ],
-    "count": 8
+    "count": 8,
+    "gender": "male",
+    "birth_year": 1946,
+    "university": "Georgetown University",
+    "major": "Political Science"
   },
   "Michael Ledwidge": {
     "books": [
@@ -3548,7 +3640,11 @@
         ]
       }
     ],
-    "count": 7
+    "count": 7,
+    "gender": "male",
+    "birth_year": 1971,
+    "university": "Manhattan College",
+    "major": "English"
   },
   "Gillian Flynn": {
     "books": [
@@ -3572,7 +3668,11 @@
         ]
       }
     ],
-    "count": 7
+    "count": 7,
+    "gender": "female",
+    "birth_year": 1971,
+    "university": "University of Kansas",
+    "major": "English"
   },
   "Robert Galbraith": {
     "books": [
@@ -3620,7 +3720,11 @@
         ]
       }
     ],
-    "count": 7
+    "count": 7,
+    "gender": "female",
+    "birth_year": 1965,
+    "university": "University of Exeter",
+    "major": "Humanities and Social Sciences"
   },
   "Jojo Moyes": {
     "books": [
@@ -3644,7 +3748,11 @@
         ]
       }
     ],
-    "count": 7
+    "count": 7,
+    "gender": "female",
+    "birth_year": 1969,
+    "university": "University of London",
+    "major": "Journalism"
   },
   "Daniel Silva": {
     "books": [
@@ -3796,7 +3904,11 @@
         ]
       }
     ],
-    "count": 7
+    "count": 7,
+    "gender": "male",
+    "birth_year": 1960,
+    "university": "California State University Fresno",
+    "major": "Journalism"
   },
   "Elin Hilderbrand": {
     "books": [
@@ -3865,7 +3977,11 @@
         ]
       }
     ],
-    "count": 7
+    "count": 7,
+    "gender": "female",
+    "birth_year": 1969,
+    "university": "Johns Hopkins University",
+    "major": "English"
   },
   "Danielle Steel": {
     "books": [
@@ -3945,6 +4061,10 @@
         ]
       }
     ],
-    "count": 6
+    "count": 6,
+    "gender": "female",
+    "birth_year": 1947,
+    "university": "Parsons School of Design",
+    "major": "Art"
   }
 }

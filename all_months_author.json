@@ -5,10 +5,14 @@
     "title": "TICK TOCK",
     "author": {
       "James Patterson": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1947",
+        "multiple_books": true
       },
       "Michael Ledwidge": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1971",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0316129186",
@@ -24,7 +28,9 @@
     "title": "WATER FOR ELEPHANTS",
     "author": {
       "Sara Gruen": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1969",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "None",
@@ -40,7 +46,9 @@
     "title": "WATER FOR ELEPHANTS",
     "author": {
       "Sara Gruen": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1969",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "None",
@@ -56,7 +64,9 @@
     "title": "WATER FOR ELEPHANTS",
     "author": {
       "Sara Gruen": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1969",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "None",
@@ -72,7 +82,9 @@
     "title": "THE HELP",
     "author": {
       "Kathryn Stockett": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1969",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "1440697663",
@@ -88,7 +100,9 @@
     "title": "THE HELP",
     "author": {
       "Kathryn Stockett": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1969",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "1440697663",
@@ -104,7 +118,9 @@
     "title": "THE HELP",
     "author": {
       "Kathryn Stockett": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1969",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "1440697663",
@@ -120,7 +136,9 @@
     "title": "THE HELP",
     "author": {
       "Kathryn Stockett": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1969",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "1440697663",
@@ -136,7 +154,9 @@
     "title": "THE HELP",
     "author": {
       "Kathryn Stockett": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1969",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "1440697663",
@@ -152,7 +172,9 @@
     "title": "11/22/63",
     "author": {
       "Stephen King": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1947",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1451627289",
@@ -168,7 +190,9 @@
     "title": "THE DROP",
     "author": {
       "Michael Connelly": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1956",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "None",
@@ -184,7 +208,9 @@
     "title": "THE HELP",
     "author": {
       "Kathryn Stockett": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1969",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "1440697663",
@@ -200,7 +226,9 @@
     "title": "EXTREMELY LOUD AND INCREDIBLY CLOSE",
     "author": {
       "Jonathan Safran Foer": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1977",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0547416210",
@@ -216,7 +244,9 @@
     "title": "FIFTY SHADES OF GREY",
     "author": {
       "E L James": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1963",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "",
@@ -232,7 +262,9 @@
     "title": "FIFTY SHADES OF GREY",
     "author": {
       "E L James": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1963",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "None",
@@ -248,7 +280,9 @@
     "title": "FIFTY SHADES OF GREY",
     "author": {
       "E L James": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1963",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0345803485",
@@ -264,7 +298,9 @@
     "title": "FIFTY SHADES OF GREY",
     "author": {
       "E L James": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1963",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0345803485",
@@ -280,7 +316,9 @@
     "title": "FIFTY SHADES OF GREY",
     "author": {
       "E L James": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1963",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "None",
@@ -296,7 +334,9 @@
     "title": "FIFTY SHADES OF GREY",
     "author": {
       "E L James": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1963",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0345803485",
@@ -312,7 +352,9 @@
     "title": "FIFTY SHADES OF GREY",
     "author": {
       "E L James": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1963",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0345803485",
@@ -328,7 +370,9 @@
     "title": "REFLECTED IN YOU",
     "author": {
       "Sylvia Day": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1973",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "None",
@@ -344,7 +388,9 @@
     "title": "THE RACKETEER",
     "author": {
       "John Grisham": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385536887",
@@ -360,7 +406,9 @@
     "title": "GONE GIRL",
     "author": {
       "Gillian Flynn": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1971",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "030758836X",
@@ -376,7 +424,9 @@
     "title": "SAFE HAVEN",
     "author": {
       "Nicholas Sparks": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1965",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0446574244",
@@ -392,7 +442,9 @@
     "title": "SAFE HAVEN",
     "author": {
       "Nicholas Sparks": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1965",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0446574244",
@@ -408,7 +460,9 @@
     "title": "SAFE HAVEN",
     "author": {
       "Nicholas Sparks": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1965",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0446574244",
@@ -424,7 +478,9 @@
     "title": "THE BET",
     "author": {
       "Rachel Van Dyken": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1985",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0989078310",
@@ -440,7 +496,9 @@
     "title": "WHISKEY BEACH",
     "author": {
       "Nora Roberts": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1950",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "None",
@@ -456,7 +514,9 @@
     "title": "INFERNO",
     "author": {
       "Dan Brown": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1964",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385537867",
@@ -472,7 +532,9 @@
     "title": "INFERNO",
     "author": {
       "Dan Brown": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1964",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385537867",
@@ -488,7 +550,9 @@
     "title": "THE CUCKOO'S CALLING",
     "author": {
       "Robert Galbraith": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1965",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0316206865",
@@ -504,7 +568,9 @@
     "title": "THE CUCKOO'S CALLING",
     "author": {
       "Robert Galbraith": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1965",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0316206865",
@@ -520,7 +586,9 @@
     "title": "STORM FRONT",
     "author": {
       "John Sandford": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1944",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "",
@@ -536,7 +604,9 @@
     "title": "SYCAMORE ROW",
     "author": {
       "John Grisham": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385537921",
@@ -552,7 +622,9 @@
     "title": "SYCAMORE ROW",
     "author": {
       "John Grisham": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385537921",
@@ -568,7 +640,9 @@
     "title": "SYCAMORE ROW",
     "author": {
       "John Grisham": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385537921",
@@ -584,7 +658,9 @@
     "title": "THE GOLDFINCH",
     "author": {
       "Donna Tartt": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1963",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "",
@@ -600,7 +676,9 @@
     "title": "CONCEALED IN DEATH",
     "author": {
       "Nora Roberts": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1950",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "None",
@@ -616,7 +694,9 @@
     "title": "SHADOW SPELL",
     "author": {
       "Nora Roberts": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1950",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "None",
@@ -632,10 +712,14 @@
     "title": "UNLUCKY 13",
     "author": {
       "James Patterson": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1947",
+        "multiple_books": true
       },
       "Maxine Paetro": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1946",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0316211281",
@@ -651,10 +735,14 @@
     "title": "UNLUCKY 13",
     "author": {
       "James Patterson": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1947",
+        "multiple_books": true
       },
       "Maxine Paetro": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1946",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0316211281",
@@ -670,10 +758,14 @@
     "title": "INVISIBLE",
     "author": {
       "James Patterson": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1947",
+        "multiple_books": true
       },
       "David Ellis": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1967",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "",
@@ -689,7 +781,9 @@
     "title": "FIFTY SHADES OF GREY",
     "author": {
       "E L James": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1963",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "None",
@@ -705,7 +799,9 @@
     "title": "OUTLANDER",
     "author": {
       "Diana Gabaldon": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1952",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0440335167",
@@ -721,7 +817,9 @@
     "title": "GONE GIRL",
     "author": {
       "Gillian Flynn": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1971",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0307588386",
@@ -737,7 +835,9 @@
     "title": "GONE GIRL",
     "author": {
       "Gillian Flynn": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1971",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0307588386",
@@ -753,7 +853,9 @@
     "title": "ALL THE LIGHT WE CANNOT SEE",
     "author": {
       "Anthony Doerr": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1973",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "1476746583",
@@ -769,7 +871,9 @@
     "title": "GONE GIRL",
     "author": {
       "Gillian Flynn": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1971",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0307588386",
@@ -785,7 +889,9 @@
     "title": "THE GIRL ON THE TRAIN",
     "author": {
       "Paula Hawkins": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1972",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0698185390",
@@ -801,7 +907,9 @@
     "title": "THE GIRL ON THE TRAIN",
     "author": {
       "Paula Hawkins": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1972",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0698185390",
@@ -817,7 +925,9 @@
     "title": "THE GIRL ON THE TRAIN",
     "author": {
       "Paula Hawkins": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1972",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0698185390",
@@ -833,7 +943,9 @@
     "title": "THE GIRL ON THE TRAIN",
     "author": {
       "Paula Hawkins": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1972",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0698185390",
@@ -849,7 +961,9 @@
     "title": "THE GIRL ON THE TRAIN",
     "author": {
       "Paula Hawkins": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1972",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0698185390",
@@ -865,7 +979,9 @@
     "title": "GREY",
     "author": {
       "E L James": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1963",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1101946350",
@@ -881,7 +997,9 @@
     "title": "GO SET A WATCHMAN",
     "author": {
       "Harper Lee": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1926",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0062409859",
@@ -897,7 +1015,9 @@
     "title": "MAKE ME",
     "author": {
       "Lee Child": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1954",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "080417878X",
@@ -913,7 +1033,9 @@
     "title": "THE MARTIAN",
     "author": {
       "Andy Weir": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1972",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "None",
@@ -929,7 +1051,9 @@
     "title": "ROGUE LAWYER",
     "author": {
       "John Grisham": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385539436",
@@ -945,7 +1069,9 @@
     "title": "ROGUE LAWYER",
     "author": {
       "John Grisham": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385539436",
@@ -961,7 +1087,9 @@
     "title": "THE GIRL ON THE TRAIN",
     "author": {
       "Paula Hawkins": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1972",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0698185390",
@@ -977,7 +1105,9 @@
     "title": "BROTHERHOOD IN DEATH",
     "author": {
       "Nora Roberts": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1950",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "None",
@@ -993,7 +1123,9 @@
     "title": "ME BEFORE YOU",
     "author": {
       "Jojo Moyes": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1969",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0143124544",
@@ -1009,7 +1141,9 @@
     "title": "FOOL ME ONCE",
     "author": {
       "Harlan Coben": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1962",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0698404173",
@@ -1025,7 +1159,9 @@
     "title": "ME BEFORE YOU",
     "author": {
       "Jojo Moyes": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1969",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "",
@@ -1041,7 +1177,9 @@
     "title": "ME BEFORE YOU",
     "author": {
       "Jojo Moyes": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1969",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "",
@@ -1057,7 +1195,9 @@
     "title": "ME BEFORE YOU",
     "author": {
       "Jojo Moyes": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1969",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "",
@@ -1073,7 +1213,9 @@
     "title": "THE GIRL ON THE TRAIN",
     "author": {
       "Paula Hawkins": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1972",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1594634025",
@@ -1089,7 +1231,9 @@
     "title": "THE GIRL ON THE TRAIN",
     "author": {
       "Paula Hawkins": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1972",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1594634025",
@@ -1105,7 +1249,9 @@
     "title": "THE GIRL ON THE TRAIN",
     "author": {
       "Paula Hawkins": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1972",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1594634025",
@@ -1121,7 +1267,9 @@
     "title": "THE WHISTLER",
     "author": {
       "John Grisham": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385541201",
@@ -1137,7 +1285,9 @@
     "title": "THE WHISTLER",
     "author": {
       "John Grisham": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385541198",
@@ -1153,7 +1303,9 @@
     "title": "THE WHISTLER",
     "author": {
       "John Grisham": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385541198",
@@ -1169,7 +1321,9 @@
     "title": "A DOG'S PURPOSE",
     "author": {
       "W Bruce Cameron": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1956",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0765388111",
@@ -1185,7 +1339,9 @@
     "title": "THE SHACK",
     "author": {
       "William P Young": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0964729296",
@@ -1201,7 +1357,9 @@
     "title": "THE SHACK",
     "author": {
       "William P Young": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0964729296",
@@ -1217,7 +1375,9 @@
     "title": "INTO THE WATER",
     "author": {
       "Paula Hawkins": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1972",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0735211205",
@@ -1233,7 +1393,9 @@
     "title": "CAMINO ISLAND",
     "author": {
       "John Grisham": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385543050",
@@ -1249,7 +1411,9 @@
     "title": "CAMINO ISLAND",
     "author": {
       "John Grisham": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385543026",
@@ -1265,7 +1429,9 @@
     "title": "THE LATE SHOW",
     "author": {
       "Michael Connelly": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1956",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0316225975",
@@ -1281,7 +1447,9 @@
     "title": "SECRETS IN DEATH",
     "author": {
       "Nora Roberts": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1950",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "None",
@@ -1297,7 +1465,9 @@
     "title": "ORIGIN",
     "author": {
       "Dan Brown": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1964",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385514239",
@@ -1313,7 +1483,9 @@
     "title": "ORIGIN",
     "author": {
       "Dan Brown": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1964",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385514239",
@@ -1329,7 +1501,9 @@
     "title": "THE ROOSTER BAR",
     "author": {
       "John Grisham": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385541171",
@@ -1345,7 +1519,9 @@
     "title": "ORIGIN",
     "author": {
       "Dan Brown": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1964",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385514239",
@@ -1361,7 +1537,9 @@
     "title": "THE GREAT ALONE",
     "author": {
       "Kristin Hannah": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1960",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "125016561X",
@@ -1377,7 +1555,9 @@
     "title": "THE GREAT ALONE",
     "author": {
       "Kristin Hannah": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1960",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "125016561X",
@@ -1393,7 +1573,9 @@
     "title": "READY PLAYER ONE",
     "author": {
       "Ernest Cline": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1972",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0307887448",
@@ -1409,10 +1591,14 @@
     "title": "THE 17TH SUSPECT",
     "author": {
       "James Patterson": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1947",
+        "multiple_books": true
       },
       "Maxine Paetro": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1946",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0316274046",
@@ -1428,10 +1614,14 @@
     "title": "THE PRESIDENT IS MISSING",
     "author": {
       "James Patterson": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1947",
+        "multiple_books": true
       },
       "Bill Clinton": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1946",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1780898401",
@@ -1447,10 +1637,14 @@
     "title": "THE PRESIDENT IS MISSING",
     "author": {
       "James Patterson": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1947",
+        "multiple_books": true
       },
       "Bill Clinton": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1946",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0316412694",
@@ -1466,7 +1660,9 @@
     "title": "ORIGIN",
     "author": {
       "Dan Brown": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1964",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385542690",
@@ -1482,7 +1678,9 @@
     "title": "CRAZY RICH ASIANS",
     "author": {
       "Kevin Kwan": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1973",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0345803787",
@@ -1498,7 +1696,9 @@
     "title": "HOLY GHOST",
     "author": {
       "John Sandford": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1944",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0735217335",
@@ -1514,7 +1714,9 @@
     "title": "THE RECKONING",
     "author": {
       "John Grisham": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385544162",
@@ -1530,7 +1732,9 @@
     "title": "THE RECKONING",
     "author": {
       "John Grisham": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385544154",
@@ -1546,7 +1750,9 @@
     "title": "THE RECKONING",
     "author": {
       "John Grisham": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385544154",
@@ -1562,7 +1768,9 @@
     "title": "WHERE THE CRAWDADS SING",
     "author": {
       "Delia Owens": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1949",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0735219117",
@@ -1578,7 +1786,9 @@
     "title": "WHERE THE CRAWDADS SING",
     "author": {
       "Delia Owens": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1949",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0735219095",
@@ -1594,7 +1804,9 @@
     "title": "WHERE THE CRAWDADS SING",
     "author": {
       "Delia Owens": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1949",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0735219095",
@@ -1610,7 +1822,9 @@
     "title": "WHERE THE CRAWDADS SING",
     "author": {
       "Delia Owens": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1949",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0735219095",
@@ -1626,7 +1840,9 @@
     "title": "WHERE THE CRAWDADS SING",
     "author": {
       "Delia Owens": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1949",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0735219095",
@@ -1642,7 +1858,9 @@
     "title": "WHERE THE CRAWDADS SING",
     "author": {
       "Delia Owens": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1949",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0735219095",
@@ -1658,7 +1876,9 @@
     "title": "WHERE THE CRAWDADS SING",
     "author": {
       "Delia Owens": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1949",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0735219095",
@@ -1674,7 +1894,9 @@
     "title": "WHERE THE CRAWDADS SING",
     "author": {
       "Delia Owens": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1949",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0735219095",
@@ -1690,7 +1912,9 @@
     "title": "THE INSTITUTE",
     "author": {
       "Stephen King": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1947",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1982110562",
@@ -1706,7 +1930,9 @@
     "title": "BLUE MOON",
     "author": {
       "Lee Child": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1954",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0399593543",
@@ -1722,7 +1948,9 @@
     "title": "WHERE THE CRAWDADS SING",
     "author": {
       "Delia Owens": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1949",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0735219095",
@@ -1738,7 +1966,9 @@
     "title": "WHERE THE CRAWDADS SING",
     "author": {
       "Delia Owens": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1949",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0735219095",
@@ -1754,7 +1984,9 @@
     "title": "WHERE THE CRAWDADS SING",
     "author": {
       "Delia Owens": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1949",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0735219095",
@@ -1770,7 +2002,9 @@
     "title": "AMERICAN DIRT",
     "author": {
       "Jeanine Cummins": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1974",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "1250209765",
@@ -1786,7 +2020,9 @@
     "title": "LITTLE FIRES EVERYWHERE",
     "author": {
       "Celeste Ng": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1980",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0735224315",
@@ -1802,7 +2038,9 @@
     "title": "CAMINO WINDS",
     "author": {
       "John Grisham": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385545932",
@@ -1818,7 +2056,9 @@
     "title": "THE VANISHING HALF",
     "author": {
       "Brit Bennett": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1990",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0525536299",
@@ -1834,7 +2074,9 @@
     "title": "THE VANISHING HALF",
     "author": {
       "Brit Bennett": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1990",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0525536299",
@@ -1850,7 +2092,9 @@
     "title": "WHERE THE CRAWDADS SING",
     "author": {
       "Delia Owens": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1949",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0735219095",
@@ -1866,7 +2110,9 @@
     "title": "SHADOWS IN DEATH",
     "author": {
       "Nora Roberts": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1950",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "125020724X",
@@ -1882,7 +2128,9 @@
     "title": "THE RETURN",
     "author": {
       "Nicholas Sparks": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1965",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1538728575",
@@ -1898,7 +2146,9 @@
     "title": "A TIME FOR MERCY",
     "author": {
       "John Grisham": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385545967",
@@ -1914,7 +2164,9 @@
     "title": "READY PLAYER TWO",
     "author": {
       "Ernest Cline": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1972",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1524761338",
@@ -1930,7 +2182,9 @@
     "title": "THE DUKE AND I",
     "author": {
       "Julia Quinn": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1970",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "None",
@@ -1946,7 +2200,9 @@
     "title": "THE FOUR WINDS",
     "author": {
       "Kristin Hannah": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1960",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1250178606",
@@ -1962,7 +2218,9 @@
     "title": "THE FOUR WINDS",
     "author": {
       "Kristin Hannah": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1960",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1250178606",
@@ -1978,7 +2236,9 @@
     "title": "THE FOUR WINDS",
     "author": {
       "Kristin Hannah": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1960",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1250178606",
@@ -1994,7 +2254,9 @@
     "title": "SOOLEY",
     "author": {
       "John Grisham": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385547684",
@@ -2010,7 +2272,9 @@
     "title": "THE LAST THING HE TOLD ME",
     "author": {
       "Laura Dave": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1977",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "1501171364",
@@ -2026,7 +2290,9 @@
     "title": "THE LAST THING HE TOLD ME",
     "author": {
       "Laura Dave": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1977",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "1501171348",
@@ -2042,7 +2308,9 @@
     "title": "THE LAST THING HE TOLD ME",
     "author": {
       "Laura Dave": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1977",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "1501171348",
@@ -2058,7 +2326,9 @@
     "title": "FORGOTTEN IN DEATH",
     "author": {
       "Nora Roberts": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1950",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1250272823",
@@ -2074,7 +2344,9 @@
     "title": "APPLES NEVER FALL",
     "author": {
       "Liane Moriarty": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1966",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1250220254",
@@ -2090,7 +2362,9 @@
     "title": "THE JUDGE'S LIST",
     "author": {
       "John Grisham": {
-        "gender": "male"
+        "gender": "male",
+        "birth_year": "1955",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0385546025",
@@ -2106,7 +2380,9 @@
     "title": "CALL US WHAT WE CARRY",
     "author": {
       "Amanda Gorman": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1998",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0593465067",
@@ -2122,7 +2398,9 @@
     "title": "IT ENDS WITH US",
     "author": {
       "Colleen Hoover": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1979",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1501110365",
@@ -2138,7 +2416,9 @@
     "title": "IT ENDS WITH US",
     "author": {
       "Colleen Hoover": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1979",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1501110365",
@@ -2154,7 +2434,9 @@
     "title": "HOUSE OF SKY AND BREATH",
     "author": {
       "Sarah J. Maas": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1986",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1635574072",
@@ -2170,7 +2452,9 @@
     "title": "WHERE THE CRAWDADS SING",
     "author": {
       "Delia Owens": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1949",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0735219109",
@@ -2186,7 +2470,9 @@
     "title": "IT ENDS WITH US",
     "author": {
       "Colleen Hoover": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1979",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1501110365",
@@ -2202,7 +2488,9 @@
     "title": "IT ENDS WITH US",
     "author": {
       "Colleen Hoover": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1979",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1501110365",
@@ -2218,7 +2506,9 @@
     "title": "WHERE THE CRAWDADS SING",
     "author": {
       "Delia Owens": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1949",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0735219109",
@@ -2234,7 +2524,9 @@
     "title": "WHERE THE CRAWDADS SING",
     "author": {
       "Delia Owens": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1949",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0735219109",
@@ -2250,7 +2542,9 @@
     "title": "WHERE THE CRAWDADS SING",
     "author": {
       "Delia Owens": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1949",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0735219109",
@@ -2266,7 +2560,9 @@
     "title": "WHERE THE CRAWDADS SING",
     "author": {
       "Delia Owens": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1949",
+        "multiple_books": false
       }
     },
     "primary_isbn10": "0735219109",
@@ -2282,7 +2578,9 @@
     "title": "IT STARTS WITH US",
     "author": {
       "Colleen Hoover": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1979",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1668001225",
@@ -2298,7 +2596,9 @@
     "title": "IT STARTS WITH US",
     "author": {
       "Colleen Hoover": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1979",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1668001225",
@@ -2314,7 +2614,9 @@
     "title": "IT STARTS WITH US",
     "author": {
       "Colleen Hoover": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1979",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1668001225",
@@ -2330,7 +2632,9 @@
     "title": "IT STARTS WITH US",
     "author": {
       "Colleen Hoover": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1979",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1668001225",
@@ -2346,7 +2650,9 @@
     "title": "IT STARTS WITH US",
     "author": {
       "Colleen Hoover": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1979",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1668001225",
@@ -2362,7 +2668,9 @@
     "title": "IT STARTS WITH US",
     "author": {
       "Colleen Hoover": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1979",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1668001225",
@@ -2378,7 +2686,9 @@
     "title": "HAPPY PLACE",
     "author": {
       "Emily Henry": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1988",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0593441273",
@@ -2394,7 +2704,9 @@
     "title": "HAPPY PLACE",
     "author": {
       "Emily Henry": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1988",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "0593441273",
@@ -2410,7 +2722,9 @@
     "title": "FOURTH WING",
     "author": {
       "Rebecca Yarros": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1981",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1649374046",
@@ -2426,7 +2740,9 @@
     "title": "FOURTH WING",
     "author": {
       "Rebecca Yarros": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1981",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1649374046",
@@ -2442,7 +2758,9 @@
     "title": "FOURTH WING",
     "author": {
       "Rebecca Yarros": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1981",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1649374046",
@@ -2458,7 +2776,9 @@
     "title": "FOURTH WING",
     "author": {
       "Rebecca Yarros": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1981",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1649374046",
@@ -2474,7 +2794,9 @@
     "title": "IRON FLAME",
     "author": {
       "Rebecca Yarros": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1981",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1649374178",
@@ -2490,7 +2812,9 @@
     "title": "IRON FLAME",
     "author": {
       "Rebecca Yarros": {
-        "gender": "female"
+        "gender": "female",
+        "birth_year": "1981",
+        "multiple_books": true
       }
     },
     "primary_isbn10": "1649374178",

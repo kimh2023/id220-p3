@@ -10,24 +10,15 @@ let largePublishers = {
     "Grand Central",
     "Grand Central Publishing",
     "Algonquin",
-    "Little, Brown & Company",
-    "Mulholland Books/Little, Brown",
-    "Mulholland/Little, Brown",
-    "Little, Brown and Knopf",
   ],
   "Penguin Random House": [
-    "Penguin Press",
-    "Penguin Group",
     "Penguin",
     "Putnam",
     "Doubleday",
-    "Knopf Doubleday Publishing",
     "Riverhead",
     "Delacorte",
     "Crown",
-    "Crown Publishing",
     "Dutton",
-    "Penguin Group (USA) Incorporated",
     "Dell",
     "Berkley",
     "Bantam",
@@ -37,7 +28,7 @@ let largePublishers = {
     "Ballantine",
   ],
   // "Harper Collins": ["Harper", "Morrow", "Avon"],
-  "Simon & Schuster": ["Simon & Schuster", "Scribner", "Atria"],
+  "Simon & Schuster": ["Simon & Schuster", "Scribner"],
   Macmillan: ["St. Martin's", "Flatiron"],
 };
 let largePublisherHues = {
@@ -74,7 +65,7 @@ function preload() {
   titleFont = loadFont("./assets/Ogg-Regular.ttf");
 }
 
-const hueDeterminant = "publisher";
+const hueDeterminant = "genre";
 
 function setup() {
   colorMode(HSL);
@@ -107,10 +98,8 @@ function setup() {
     let author = row.get("author");
     let bookTok = bookTokAuthors.includes(author) ? "#BookTok" : "not #BookTok";
 
-    // let currentDate = new Date(year);
-    // let hue = [map(currentDate, startDate, endDate, 0, 250), 40, 80];
-    let currentDate = parseInt(year);
-    let hue = [map(currentDate, 2011, 2023, 0, 250), 50, 85];
+    let currentDate = new Date(row.get("month"));
+    let hue = map(currentDate, startDate, endDate, 0, 250);
 
     for (bigFive in largePublishers) {
       if (largePublishers[bigFive].includes(publisher)) {

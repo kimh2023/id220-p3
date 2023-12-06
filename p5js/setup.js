@@ -49,7 +49,11 @@ function getLink(source, target, hue) {
 
   let sameLink = links[`${source.type}-${target.type}`].find(
     (link) =>
-      link.source === source && link.target === target && link.hue == hue
+      link.source === source &&
+      link.target === target &&
+      link.hue[0] == hue[0] &&
+      link.hue[1] == hue[1] &&
+      link.hue[2] == hue[2]
   );
   if (sameLink) {
     sameLink.count++;

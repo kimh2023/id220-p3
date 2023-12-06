@@ -43,7 +43,9 @@
       "RUN, ROSE, RUN",
       "THE 23RD MIDNIGHT",
       "CROSS DOWN"
-    ]
+    ],
+    "birth_year": "1947",
+    "multiple_books": true
   },
   "Michael Ledwidge": {
     "gender": "male",
@@ -53,26 +55,34 @@
       "GONE",
       "ALERT",
       "BULLSEYE"
-    ]
+    ],
+    "birth_year": "1971",
+    "multiple_books": true
   },
   "Lisa Gardner": {
     "gender": "female",
     "books": [
       "ALONE",
       "RIGHT BEHIND YOU"
-    ]
+    ],
+    "birth_year": "1972",
+    "multiple_books": true
   },
   "Sara Gruen": {
     "gender": "female",
     "books": [
       "WATER FOR ELEPHANTS"
-    ]
+    ],
+    "birth_year": "1969",
+    "multiple_books": false
   },
   "Kathryn Stockett": {
     "gender": "female",
     "books": [
       "THE HELP"
-    ]
+    ],
+    "birth_year": "1969",
+    "multiple_books": false
   },
   "Nicholas Sparks": {
     "gender": "male",
@@ -85,26 +95,34 @@
       "THE RETURN",
       "THE WISH",
       "DREAMLAND"
-    ]
+    ],
+    "birth_year": "1965",
+    "multiple_books": true
   },
   "Stieg Larsson": {
     "gender": "male",
     "books": [
       "THE GIRL WITH THE DRAGON TATTOO"
-    ]
+    ],
+    "birth_year": "1954",
+    "multiple_books": false
   },
   "Jonathan Safran Foer": {
     "gender": "male",
     "books": [
       "EXTREMELY LOUD AND INCREDIBLY CLOSE"
-    ]
+    ],
+    "birth_year": "1977",
+    "multiple_books": false
   },
   "E L James": {
     "gender": "female",
     "books": [
       "FIFTY SHADES OF GREY",
       "GREY"
-    ]
+    ],
+    "birth_year": "1963",
+    "multiple_books": true
   },
   "Sylvia Day": {
     "gender": "female",
@@ -113,7 +131,9 @@
       "CAPTIVATED BY YOU",
       "ENTWINED WITH YOU",
       "ONE WITH YOU"
-    ]
+    ],
+    "birth_year": "1973",
+    "multiple_books": true
   },
   "John Grisham": {
     "gender": "male",
@@ -134,7 +154,9 @@
       "THE GUARDIANS",
       "SOOLEY",
       "SPARRING PARTNERS"
-    ]
+    ],
+    "birth_year": "1955",
+    "multiple_books": true
   },
   "Vince Flynn": {
     "gender": "male",
@@ -142,7 +164,9 @@
       "THE LAST MAN",
       "KILL SHOT",
       "THE SURVIVOR"
-    ]
+    ],
+    "birth_year": "1966",
+    "multiple_books": true
   },
   "Harlan Coben": {
     "gender": "male",
@@ -155,7 +179,9 @@
       "WIN",
       "THE MATCH",
       "I WILL FIND YOU"
-    ]
+    ],
+    "birth_year": "1962",
+    "multiple_books": true
   },
   "Nora Roberts": {
     "gender": "female",
@@ -198,14 +224,18 @@
       "NIGHTWORK",
       "ENCORE IN DEATH",
       "IDENTITY"
-    ]
+    ],
+    "birth_year": "1950",
+    "multiple_books": true
   },
   "Dan Brown": {
     "gender": "male",
     "books": [
       "INFERNO",
       "ORIGIN"
-    ]
+    ],
+    "birth_year": "1964",
+    "multiple_books": true
   },
   "Robert Galbraith": {
     "gender": "female",
@@ -213,13 +243,17 @@
       "THE CUCKOO'S CALLING",
       "LETHAL WHITE",
       "THE RUNNING GRAVE"
-    ]
+    ],
+    "birth_year": "1965",
+    "multiple_books": true
   },
   "Donna Tartt": {
     "gender": "female",
     "books": [
       "THE GOLDFINCH"
-    ]
+    ],
+    "birth_year": "1963",
+    "multiple_books": false
   },
   "David Baldacci": {
     "gender": "male",
@@ -241,7 +275,9 @@
       "DREAM TOWN",
       "LONG SHADOWS",
       "SIMPLY LIES"
-    ]
+    ],
+    "birth_year": "1960",
+    "multiple_books": true
   },
   "Maxine Paetro": {
     "gender": "male",
@@ -258,14 +294,18 @@
       "THE 20TH VICTIM",
       "21ST BIRTHDAY",
       "THE 23RD MIDNIGHT"
-    ]
+    ],
+    "birth_year": "1946",
+    "multiple_books": true
   },
   "David Ellis": {
     "gender": "male",
     "books": [
       "INVISIBLE",
       "THE BLACK BOOK"
-    ]
+    ],
+    "birth_year": "1967",
+    "multiple_books": true
   },
   "Diana Gabaldon": {
     "gender": "female",
@@ -273,19 +313,25 @@
       "OUTLANDER",
       "WRITTEN IN MY OWN HEART'S BLOOD",
       "GO TELL THE BEES THAT I AM GONE"
-    ]
+    ],
+    "birth_year": "1952",
+    "multiple_books": true
   },
   "Gillian Flynn": {
     "gender": "female",
     "books": [
       "GONE GIRL"
-    ]
+    ],
+    "birth_year": "1971",
+    "multiple_books": false
   },
   "Anthony Doerr": {
     "gender": "male",
     "books": [
       "ALL THE LIGHT WE CANNOT SEE"
-    ]
+    ],
+    "birth_year": "1973",
+    "multiple_books": false
   },
   "Paula Hawkins": {
     "gender": "female",
@@ -293,13 +339,17 @@
       "THE GIRL ON THE TRAIN",
       "INTO THE WATER",
       "A SLOW FIRE BURNING"
-    ]
+    ],
+    "birth_year": "1972",
+    "multiple_books": true
   },
   "Harper Lee": {
     "gender": "female",
     "books": [
       "GO SET A WATCHMAN"
-    ]
+    ],
+    "birth_year": "1926",
+    "multiple_books": false
   },
   "Sandra Brown": {
     "gender": "female",
@@ -308,13 +358,17 @@
       "SEEING RED",
       "TAILSPIN",
       "THICK AS THIEVES"
-    ]
+    ],
+    "birth_year": "1948",
+    "multiple_books": true
   },
   "Andy Weir": {
     "gender": "male",
     "books": [
       "THE MARTIAN"
-    ]
+    ],
+    "birth_year": "1972",
+    "multiple_books": false
   },
   "Kristin Hannah": {
     "gender": "female",
@@ -323,7 +377,9 @@
       "THE GREAT ALONE",
       "THE FOUR WINDS",
       "HOME FRONT"
-    ]
+    ],
+    "birth_year": "1960",
+    "multiple_books": true
   },
   "Danielle Steel": {
     "gender": "female",
@@ -334,19 +390,25 @@
       "THE MISTRESS",
       "ACCIDENTAL HEROES",
       "TURNING POINT"
-    ]
+    ],
+    "birth_year": "1947",
+    "multiple_books": true
   },
   "Jeffrey Archer": {
     "gender": "male",
     "books": [
       "COMETH THE HOUR"
-    ]
+    ],
+    "birth_year": "1940",
+    "multiple_books": false
   },
   "Jojo Moyes": {
     "gender": "female",
     "books": [
       "ME BEFORE YOU"
-    ]
+    ],
+    "birth_year": "1969",
+    "multiple_books": false
   },
   "John Sandford": {
     "gender": "male",
@@ -366,7 +428,9 @@
       "RIGHTEOUS PREY",
       "DARK ANGEL",
       "JUDGMENT PREY"
-    ]
+    ],
+    "birth_year": "1944",
+    "multiple_books": true
   },
   "Janet Evanovich": {
     "gender": "female",
@@ -384,19 +448,25 @@
       "FORTUNE AND GLORY",
       "GAME ON",
       "DIRTY THIRTY"
-    ]
+    ],
+    "birth_year": "1943",
+    "multiple_books": true
   },
   "W Bruce Cameron": {
     "gender": "male",
     "books": [
       "A DOG'S PURPOSE"
-    ]
+    ],
+    "birth_year": "1956",
+    "multiple_books": false
   },
   "William P Young": {
     "gender": "male",
     "books": [
       "THE SHACK"
-    ]
+    ],
+    "birth_year": "1955",
+    "multiple_books": false
   },
   "Michael Connelly": {
     "gender": "male",
@@ -414,45 +484,59 @@
       "THE NIGHT FIRE",
       "THE LAW OF INNOCENCE",
       "THE DARK HOURS"
-    ]
+    ],
+    "birth_year": "1956",
+    "multiple_books": true
   },
   "A.J. Finn": {
     "gender": "male",
     "books": [
       "THE WOMAN IN THE WINDOW"
-    ]
+    ],
+    "birth_year": "1979",
+    "multiple_books": false
   },
   "Clive Cussler": {
     "gender": "male",
     "books": [
       "THE RISING SEA",
       "THE GANGSTER"
-    ]
+    ],
+    "birth_year": "1931",
+    "multiple_books": true
   },
   "Graham Brown": {
     "gender": "male",
     "books": [
       "THE RISING SEA"
-    ]
+    ],
+    "birth_year": "1924",
+    "multiple_books": false
   },
   "Bill Clinton": {
     "gender": "male",
     "books": [
       "THE PRESIDENT IS MISSING",
       "THE PRESIDENT'S DAUGHTER"
-    ]
+    ],
+    "birth_year": "1946",
+    "multiple_books": true
   },
   "Kevin Kwan": {
     "gender": "male",
     "books": [
       "CRAZY RICH ASIANS"
-    ]
+    ],
+    "birth_year": "1973",
+    "multiple_books": false
   },
   "Delia Owens": {
     "gender": "female",
     "books": [
       "WHERE THE CRAWDADS SING"
-    ]
+    ],
+    "birth_year": "1949",
+    "multiple_books": false
   },
   "Stephen King": {
     "gender": "male",
@@ -469,7 +553,9 @@
       "THE OUTSIDER",
       "FAIRY TALE",
       "HOLLY"
-    ]
+    ],
+    "birth_year": "1947",
+    "multiple_books": true
   },
   "Lee Child": {
     "gender": "male",
@@ -486,19 +572,25 @@
       "THE SENTINEL",
       "BETTER OFF DEAD",
       "THE SECRET"
-    ]
+    ],
+    "birth_year": "1954",
+    "multiple_books": true
   },
   "Jeanine Cummins": {
     "gender": "female",
     "books": [
       "AMERICAN DIRT"
-    ]
+    ],
+    "birth_year": "1974",
+    "multiple_books": false
   },
   "Celeste Ng": {
     "gender": "female",
     "books": [
       "LITTLE FIRES EVERYWHERE"
-    ]
+    ],
+    "birth_year": "1980",
+    "multiple_books": false
   },
   "Elin Hilderbrand": {
     "gender": "female",
@@ -508,7 +600,9 @@
       "SUMMER OF '69",
       "TROUBLES IN PARADISE",
       "THE HOTEL NANTUCKET"
-    ]
+    ],
+    "birth_year": "1969",
+    "multiple_books": true
   },
   "Ken Follett": {
     "gender": "male",
@@ -517,33 +611,43 @@
       "WINTER OF THE WORLD",
       "EDGE OF ETERNITY",
       "A COLUMN OF FIRE"
-    ]
+    ],
+    "birth_year": "1949",
+    "multiple_books": true
   },
   "Ernest Cline": {
     "gender": "male",
     "books": [
       "READY PLAYER TWO",
       "READY PLAYER ONE"
-    ]
+    ],
+    "birth_year": "1972",
+    "multiple_books": true
   },
   "Julia Quinn": {
     "gender": "female",
     "books": [
       "THE DUKE AND I"
-    ]
+    ],
+    "birth_year": "1970",
+    "multiple_books": false
   },
   "Amanda Gorman": {
     "gender": "female",
     "books": [
       "THE HILL WE CLIMB",
       "CALL US WHAT WE CARRY"
-    ]
+    ],
+    "birth_year": "1998",
+    "multiple_books": true
   },
   "Laura Dave": {
     "gender": "female",
     "books": [
       "THE LAST THING HE TOLD ME"
-    ]
+    ],
+    "birth_year": "1977",
+    "multiple_books": false
   },
   "Douglas Preston": {
     "gender": "male",
@@ -551,7 +655,9 @@
       "BLOODLESS",
       "CITY OF ENDLESS NIGHT",
       "VERSES FOR THE DEAD"
-    ]
+    ],
+    "birth_year": "1956",
+    "multiple_books": true
   },
   "Lincoln Child": {
     "gender": "male",
@@ -559,7 +665,9 @@
       "BLOODLESS",
       "CITY OF ENDLESS NIGHT",
       "VERSES FOR THE DEAD"
-    ]
+    ],
+    "birth_year": "1957",
+    "multiple_books": true
   },
   "Liane Moriarty": {
     "gender": "female",
@@ -567,7 +675,9 @@
       "APPLES NEVER FALL",
       "BIG LITTLE LIES",
       "TRULY MADLY GUILTY"
-    ]
+    ],
+    "birth_year": "1966",
+    "multiple_books": true
   },
   "Colleen Hoover": {
     "gender": "female",
@@ -576,7 +686,9 @@
       "IT STARTS WITH US",
       "VERITY",
       "TOO LATE"
-    ]
+    ],
+    "birth_year": "1979",
+    "multiple_books": true
   },
   "Sarah J. Maas": {
     "gender": "female",
@@ -584,28 +696,36 @@
       "HOUSE OF SKY AND BREATH",
       "HOUSE OF EARTH AND BLOOD",
       "A COURT OF SILVER FLAMES"
-    ]
+    ],
+    "birth_year": "1986",
+    "multiple_books": true
   },
   "Emily Henry": {
     "gender": "female",
     "books": [
       "BOOK LOVERS",
       "HAPPY PLACE"
-    ]
+    ],
+    "birth_year": "1988",
+    "multiple_books": true
   },
   "Jack Carr": {
     "gender": "male",
     "books": [
       "IN THE BLOOD",
       "ONLY THE DEAD"
-    ]
+    ],
+    "birth_year": "1975",
+    "multiple_books": true
   },
   "Rebecca Yarros": {
     "gender": "female",
     "books": [
       "FOURTH WING",
       "IRON FLAME"
-    ]
+    ],
+    "birth_year": "1981",
+    "multiple_books": true
   },
   "Kyle Mills": {
     "gender": "male",
@@ -613,18 +733,24 @@
       "VINCE FLYNN: CODE RED",
       "THE SURVIVOR",
       "VINCE FLYNN: RED WAR"
-    ]
+    ],
+    "birth_year": "1966",
+    "multiple_books": true
   },
   "Rachel Van Dyken": {
     "gender": "female",
     "books": [
       "THE BET"
-    ]
+    ],
+    "birth_year": "1985",
+    "multiple_books": false
   },
   "Brit Bennett": {
     "gender": "female",
     "books": [
       "THE VANISHING HALF"
-    ]
+    ],
+    "birth_year": "1990",
+    "multiple_books": false
   }
 }

@@ -1,0 +1,415 @@
+{
+  "James Patterson": {
+    "gender": "male",
+    "books": [
+      "TICK TOCK",
+      "KILL ALEX CROSS",
+      "ALEX CROSS, RUN",
+      "UNLUCKY 13",
+      "INVISIBLE",
+      "THE 17TH SUSPECT",
+      "THE PRESIDENT IS MISSING",
+      "THE PRESIDENT'S DAUGHTER"
+    ]
+  },
+  "Michael Ledwidge": {
+    "gender": "male",
+    "books": [
+      "TICK TOCK"
+    ]
+  },
+  "Lisa Gardner": {
+    "gender": "female",
+    "books": [
+      "ALONE"
+    ]
+  },
+  "Sara Gruen": {
+    "gender": "female",
+    "books": [
+      "WATER FOR ELEPHANTS"
+    ]
+  },
+  "Kathryn Stockett": {
+    "gender": "female",
+    "books": [
+      "THE HELP"
+    ]
+  },
+  "Nicholas Sparks": {
+    "gender": "male",
+    "books": [
+      "THE BEST OF ME",
+      "SAFE HAVEN",
+      "THE LONGEST RIDE",
+      "EVERY BREATH"
+    ]
+  },
+  "Stieg Larsson": {
+    "gender": "male",
+    "books": [
+      "THE GIRL WITH THE DRAGON TATTOO"
+    ]
+  },
+  "Jonathan Safran Foer": {
+    "gender": "male",
+    "books": [
+      "EXTREMELY LOUD AND INCREDIBLY CLOSE"
+    ]
+  },
+  "E L James": {
+    "gender": "female",
+    "books": [
+      "FIFTY SHADES OF GREY",
+      "GREY"
+    ]
+  },
+  "Sylvia Day": {
+    "gender": "female",
+    "books": [
+      "REFLECTED IN YOU",
+      "CAPTIVATED BY YOU"
+    ]
+  },
+  "John Grisham": {
+    "gender": "male",
+    "books": [
+      "THE RACKETEER",
+      "SYCAMORE ROW",
+      "ROGUE LAWYER",
+      "THE WHISTLER",
+      "CAMINO ISLAND",
+      "THE ROOSTER BAR",
+      "THE RECKONING",
+      "CAMINO WINDS",
+      "A TIME FOR MERCY",
+      "THE JUDGE'S LIST",
+      "THE EXCHANGE"
+    ]
+  },
+  "Vince Flynn": {
+    "gender": "male",
+    "books": [
+      "THE LAST MAN"
+    ]
+  },
+  "Harlan Coben": {
+    "gender": "male",
+    "books": [
+      "SIX YEARS",
+      "MISSING YOU",
+      "FOOL ME ONCE"
+    ]
+  },
+  "Nora Roberts": {
+    "gender": "female",
+    "books": [
+      "WHISKEY BEACH",
+      "CONCEALED IN DEATH",
+      "THE LIAR",
+      "THE OBSESSION"
+    ]
+  },
+  "Dan Brown": {
+    "gender": "male",
+    "books": [
+      "INFERNO",
+      "ORIGIN"
+    ]
+  },
+  "Robert Galbraith": {
+    "gender": "female",
+    "books": [
+      "THE CUCKOO'S CALLING",
+      "LETHAL WHITE"
+    ]
+  },
+  "Donna Tartt": {
+    "gender": "female",
+    "books": [
+      "THE GOLDFINCH"
+    ]
+  },
+  "David Baldacci": {
+    "gender": "male",
+    "books": [
+      "THE TARGET",
+      "THE FIX",
+      "MERCY"
+    ]
+  },
+  "Maxine Paetro": {
+    "gender": "male",
+    "books": [
+      "UNLUCKY 13",
+      "THE 17TH SUSPECT"
+    ]
+  },
+  "David Ellis": {
+    "gender": "male",
+    "books": [
+      "INVISIBLE"
+    ]
+  },
+  "Diana Gabaldon": {
+    "gender": "female",
+    "books": [
+      "OUTLANDER"
+    ]
+  },
+  "Gillian Flynn": {
+    "gender": "female",
+    "books": [
+      "GONE GIRL"
+    ]
+  },
+  "Anthony Doerr": {
+    "gender": "male",
+    "books": [
+      "ALL THE LIGHT WE CANNOT SEE"
+    ]
+  },
+  "Paula Hawkins": {
+    "gender": "female",
+    "books": [
+      "THE GIRL ON THE TRAIN",
+      "INTO THE WATER"
+    ]
+  },
+  "Harper Lee": {
+    "gender": "female",
+    "books": [
+      "GO SET A WATCHMAN"
+    ]
+  },
+  "Sandra Brown": {
+    "gender": "female",
+    "books": [
+      "FRICTION",
+      "SEEING RED"
+    ]
+  },
+  "Andy Weir": {
+    "gender": "male",
+    "books": [
+      "THE MARTIAN"
+    ]
+  },
+  "Kristin Hannah": {
+    "gender": "female",
+    "books": [
+      "THE NIGHTINGALE",
+      "THE GREAT ALONE",
+      "THE FOUR WINDS"
+    ]
+  },
+  "Danielle Steel": {
+    "gender": "female",
+    "books": [
+      "BLUE",
+      "THE CAST",
+      "ROYAL"
+    ]
+  },
+  "Jeffrey Archer": {
+    "gender": "male",
+    "books": [
+      "COMETH THE HOUR"
+    ]
+  },
+  "Jojo Moyes": {
+    "gender": "female",
+    "books": [
+      "ME BEFORE YOU"
+    ]
+  },
+  "John Sandford": {
+    "gender": "male",
+    "books": [
+      "ESCAPE CLAUSE",
+      "OCEAN PREY"
+    ]
+  },
+  "Janet Evanovich": {
+    "gender": "female",
+    "books": [
+      "TURBO TWENTY-THREE",
+      "LOOK ALIVE TWENTY-FIVE"
+    ]
+  },
+  "W Bruce Cameron": {
+    "gender": "male",
+    "books": [
+      "A DOG'S PURPOSE"
+    ]
+  },
+  "William P Young": {
+    "gender": "male",
+    "books": [
+      "THE SHACK"
+    ]
+  },
+  "Michael Connelly": {
+    "gender": "male",
+    "books": [
+      "THE LATE SHOW"
+    ]
+  },
+  "A.J. Finn": {
+    "gender": "male",
+    "books": [
+      "THE WOMAN IN THE WINDOW"
+    ]
+  },
+  "Clive Cussler": {
+    "gender": "male",
+    "books": [
+      "THE RISING SEA"
+    ]
+  },
+  "Graham Brown": {
+    "gender": "male",
+    "books": [
+      "THE RISING SEA"
+    ]
+  },
+  "Bill Clinton": {
+    "gender": "male",
+    "books": [
+      "THE PRESIDENT IS MISSING",
+      "THE PRESIDENT'S DAUGHTER"
+    ]
+  },
+  "Kevin Kwan": {
+    "gender": "male",
+    "books": [
+      "CRAZY RICH ASIANS"
+    ]
+  },
+  "Delia Owens": {
+    "gender": "female",
+    "books": [
+      "WHERE THE CRAWDADS SING"
+    ]
+  },
+  "Stephen King": {
+    "gender": "male",
+    "books": [
+      "THE INSTITUTE",
+      "BILLY SUMMERS"
+    ]
+  },
+  "Lee Child": {
+    "gender": "male",
+    "books": [
+      "BLUE MOON"
+    ]
+  },
+  "Jeanine Cummins": {
+    "gender": "female",
+    "books": [
+      "AMERICAN DIRT"
+    ]
+  },
+  "Celeste Ng": {
+    "gender": "female",
+    "books": [
+      "LITTLE FIRES EVERYWHERE"
+    ]
+  },
+  "Elin Hilderbrand": {
+    "gender": "female",
+    "books": [
+      "28 SUMMERS",
+      "THE FIVE-STAR WEEKEND"
+    ]
+  },
+  "Ken Follett": {
+    "gender": "male",
+    "books": [
+      "THE EVENING AND THE MORNING"
+    ]
+  },
+  "Ernest Cline": {
+    "gender": "male",
+    "books": [
+      "READY PLAYER TWO"
+    ]
+  },
+  "Julia Quinn": {
+    "gender": "female",
+    "books": [
+      "THE DUKE AND I"
+    ]
+  },
+  "Amanda Gorman": {
+    "gender": "female",
+    "books": [
+      "THE HILL WE CLIMB"
+    ]
+  },
+  "Laura Dave": {
+    "gender": "female",
+    "books": [
+      "THE LAST THING HE TOLD ME"
+    ]
+  },
+  "Douglas Preston": {
+    "gender": "male",
+    "books": [
+      "BLOODLESS"
+    ]
+  },
+  "Lincoln Child": {
+    "gender": "male",
+    "books": [
+      "BLOODLESS"
+    ]
+  },
+  "Liane Moriarty": {
+    "gender": "female",
+    "books": [
+      "APPLES NEVER FALL"
+    ]
+  },
+  "Colleen Hoover": {
+    "gender": "female",
+    "books": [
+      "IT ENDS WITH US",
+      "IT STARTS WITH US"
+    ]
+  },
+  "Sarah J. Maas": {
+    "gender": "female",
+    "books": [
+      "HOUSE OF SKY AND BREATH"
+    ]
+  },
+  "Emily Henry": {
+    "gender": "female",
+    "books": [
+      "BOOK LOVERS",
+      "HAPPY PLACE"
+    ]
+  },
+  "Jack Carr": {
+    "gender": "male",
+    "books": [
+      "IN THE BLOOD",
+      "ONLY THE DEAD"
+    ]
+  },
+  "Rebecca Yarros": {
+    "gender": "female",
+    "books": [
+      "FOURTH WING",
+      "IRON FLAME"
+    ]
+  },
+  "Kyle Mills": {
+    "gender": "male",
+    "books": [
+      "VINCE FLYNN: CODE RED"
+    ]
+  }
+}

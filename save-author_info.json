@@ -47,32 +47,19 @@
   },
   "Michael Ledwidge": {
     "gender": "male",
-    "books": [
-      "TICK TOCK",
-      "NOW YOU SEE HER",
-      "GONE",
-      "ALERT",
-      "BULLSEYE"
-    ]
+    "books": ["TICK TOCK", "NOW YOU SEE HER", "GONE", "ALERT", "BULLSEYE"]
   },
   "Lisa Gardner": {
     "gender": "female",
-    "books": [
-      "ALONE",
-      "RIGHT BEHIND YOU"
-    ]
+    "books": ["ALONE", "RIGHT BEHIND YOU"]
   },
   "Sara Gruen": {
     "gender": "female",
-    "books": [
-      "WATER FOR ELEPHANTS"
-    ]
+    "books": ["WATER FOR ELEPHANTS"]
   },
   "Kathryn Stockett": {
     "gender": "female",
-    "books": [
-      "THE HELP"
-    ]
+    "books": ["THE HELP"]
   },
   "Nicholas Sparks": {
     "gender": "male",
@@ -89,22 +76,15 @@
   },
   "Stieg Larsson": {
     "gender": "male",
-    "books": [
-      "THE GIRL WITH THE DRAGON TATTOO"
-    ]
+    "books": ["THE GIRL WITH THE DRAGON TATTOO"]
   },
   "Jonathan Safran Foer": {
     "gender": "male",
-    "books": [
-      "EXTREMELY LOUD AND INCREDIBLY CLOSE"
-    ]
+    "books": ["EXTREMELY LOUD AND INCREDIBLY CLOSE"]
   },
   "E L James": {
     "gender": "female",
-    "books": [
-      "FIFTY SHADES OF GREY",
-      "GREY"
-    ]
+    "books": ["FIFTY SHADES OF GREY", "GREY"]
   },
   "Sylvia Day": {
     "gender": "female",
@@ -138,11 +118,7 @@
   },
   "Vince Flynn": {
     "gender": "male",
-    "books": [
-      "THE LAST MAN",
-      "KILL SHOT",
-      "THE SURVIVOR"
-    ]
+    "books": ["THE LAST MAN", "KILL SHOT", "THE SURVIVOR"]
   },
   "Harlan Coben": {
     "gender": "male",
@@ -202,24 +178,15 @@
   },
   "Dan Brown": {
     "gender": "male",
-    "books": [
-      "INFERNO",
-      "ORIGIN"
-    ]
+    "books": ["INFERNO", "ORIGIN"]
   },
   "Robert Galbraith": {
     "gender": "female",
-    "books": [
-      "THE CUCKOO'S CALLING",
-      "LETHAL WHITE",
-      "THE RUNNING GRAVE"
-    ]
+    "books": ["THE CUCKOO'S CALLING", "LETHAL WHITE", "THE RUNNING GRAVE"]
   },
   "Donna Tartt": {
     "gender": "female",
-    "books": [
-      "THE GOLDFINCH"
-    ]
+    "books": ["THE GOLDFINCH"]
   },
   "David Baldacci": {
     "gender": "male",
@@ -262,10 +229,7 @@
   },
   "David Ellis": {
     "gender": "male",
-    "books": [
-      "INVISIBLE",
-      "THE BLACK BOOK"
-    ]
+    "books": ["INVISIBLE", "THE BLACK BOOK"]
   },
   "Diana Gabaldon": {
     "gender": "female",
@@ -277,44 +241,27 @@
   },
   "Gillian Flynn": {
     "gender": "female",
-    "books": [
-      "GONE GIRL"
-    ]
+    "books": ["GONE GIRL"]
   },
   "Anthony Doerr": {
     "gender": "male",
-    "books": [
-      "ALL THE LIGHT WE CANNOT SEE"
-    ]
+    "books": ["ALL THE LIGHT WE CANNOT SEE"]
   },
   "Paula Hawkins": {
     "gender": "female",
-    "books": [
-      "THE GIRL ON THE TRAIN",
-      "INTO THE WATER",
-      "A SLOW FIRE BURNING"
-    ]
+    "books": ["THE GIRL ON THE TRAIN", "INTO THE WATER", "A SLOW FIRE BURNING"]
   },
   "Harper Lee": {
     "gender": "female",
-    "books": [
-      "GO SET A WATCHMAN"
-    ]
+    "books": ["GO SET A WATCHMAN"]
   },
   "Sandra Brown": {
     "gender": "female",
-    "books": [
-      "FRICTION",
-      "SEEING RED",
-      "TAILSPIN",
-      "THICK AS THIEVES"
-    ]
+    "books": ["FRICTION", "SEEING RED", "TAILSPIN", "THICK AS THIEVES"]
   },
   "Andy Weir": {
     "gender": "male",
-    "books": [
-      "THE MARTIAN"
-    ]
+    "books": ["THE MARTIAN"]
   },
   "Kristin Hannah": {
     "gender": "female",
@@ -338,15 +285,11 @@
   },
   "Jeffrey Archer": {
     "gender": "male",
-    "books": [
-      "COMETH THE HOUR"
-    ]
+    "books": ["COMETH THE HOUR"]
   },
   "Jojo Moyes": {
     "gender": "female",
-    "books": [
-      "ME BEFORE YOU"
-    ]
+    "books": ["ME BEFORE YOU"]
   },
   "John Sandford": {
     "gender": "male",
@@ -388,15 +331,11 @@
   },
   "W Bruce Cameron": {
     "gender": "male",
-    "books": [
-      "A DOG'S PURPOSE"
-    ]
+    "books": ["A DOG'S PURPOSE"]
   },
   "William P Young": {
     "gender": "male",
-    "books": [
-      "THE SHACK"
-    ]
+    "books": ["THE SHACK"]
   },
   "Michael Connelly": {
     "gender": "male",
@@ -418,41 +357,27 @@
   },
   "A.J. Finn": {
     "gender": "male",
-    "books": [
-      "THE WOMAN IN THE WINDOW"
-    ]
+    "books": ["THE WOMAN IN THE WINDOW"]
   },
   "Clive Cussler": {
     "gender": "male",
-    "books": [
-      "THE RISING SEA",
-      "THE GANGSTER"
-    ]
+    "books": ["THE RISING SEA", "THE GANGSTER"]
   },
   "Graham Brown": {
     "gender": "male",
-    "books": [
-      "THE RISING SEA"
-    ]
+    "books": ["THE RISING SEA"]
   },
   "Bill Clinton": {
     "gender": "male",
-    "books": [
-      "THE PRESIDENT IS MISSING",
-      "THE PRESIDENT'S DAUGHTER"
-    ]
+    "books": ["THE PRESIDENT IS MISSING", "THE PRESIDENT'S DAUGHTER"]
   },
   "Kevin Kwan": {
     "gender": "male",
-    "books": [
-      "CRAZY RICH ASIANS"
-    ]
+    "books": ["CRAZY RICH ASIANS"]
   },
   "Delia Owens": {
     "gender": "female",
-    "books": [
-      "WHERE THE CRAWDADS SING"
-    ]
+    "books": ["WHERE THE CRAWDADS SING"]
   },
   "Stephen King": {
     "gender": "male",
@@ -490,15 +415,11 @@
   },
   "Jeanine Cummins": {
     "gender": "female",
-    "books": [
-      "AMERICAN DIRT"
-    ]
+    "books": ["AMERICAN DIRT"]
   },
   "Celeste Ng": {
     "gender": "female",
-    "books": [
-      "LITTLE FIRES EVERYWHERE"
-    ]
+    "books": ["LITTLE FIRES EVERYWHERE"]
   },
   "Elin Hilderbrand": {
     "gender": "female",
@@ -521,62 +442,35 @@
   },
   "Ernest Cline": {
     "gender": "male",
-    "books": [
-      "READY PLAYER TWO",
-      "READY PLAYER ONE"
-    ]
+    "books": ["READY PLAYER TWO", "READY PLAYER ONE"]
   },
   "Julia Quinn": {
     "gender": "female",
-    "books": [
-      "THE DUKE AND I"
-    ]
+    "books": ["THE DUKE AND I"]
   },
   "Amanda Gorman": {
     "gender": "female",
-    "books": [
-      "THE HILL WE CLIMB",
-      "CALL US WHAT WE CARRY"
-    ]
+    "books": ["THE HILL WE CLIMB", "CALL US WHAT WE CARRY"]
   },
   "Laura Dave": {
     "gender": "female",
-    "books": [
-      "THE LAST THING HE TOLD ME"
-    ]
+    "books": ["THE LAST THING HE TOLD ME"]
   },
   "Douglas Preston": {
     "gender": "male",
-    "books": [
-      "BLOODLESS",
-      "CITY OF ENDLESS NIGHT",
-      "VERSES FOR THE DEAD"
-    ]
+    "books": ["BLOODLESS", "CITY OF ENDLESS NIGHT", "VERSES FOR THE DEAD"]
   },
   "Lincoln Child": {
     "gender": "male",
-    "books": [
-      "BLOODLESS",
-      "CITY OF ENDLESS NIGHT",
-      "VERSES FOR THE DEAD"
-    ]
+    "books": ["BLOODLESS", "CITY OF ENDLESS NIGHT", "VERSES FOR THE DEAD"]
   },
   "Liane Moriarty": {
     "gender": "female",
-    "books": [
-      "APPLES NEVER FALL",
-      "BIG LITTLE LIES",
-      "TRULY MADLY GUILTY"
-    ]
+    "books": ["APPLES NEVER FALL", "BIG LITTLE LIES", "TRULY MADLY GUILTY"]
   },
   "Colleen Hoover": {
     "gender": "female",
-    "books": [
-      "IT ENDS WITH US",
-      "IT STARTS WITH US",
-      "VERITY",
-      "TOO LATE"
-    ]
+    "books": ["IT ENDS WITH US", "IT STARTS WITH US", "VERITY", "TOO LATE"]
   },
   "Sarah J. Maas": {
     "gender": "female",
@@ -588,43 +482,26 @@
   },
   "Emily Henry": {
     "gender": "female",
-    "books": [
-      "BOOK LOVERS",
-      "HAPPY PLACE"
-    ]
+    "books": ["BOOK LOVERS", "HAPPY PLACE"]
   },
   "Jack Carr": {
     "gender": "male",
-    "books": [
-      "IN THE BLOOD",
-      "ONLY THE DEAD"
-    ]
+    "books": ["IN THE BLOOD", "ONLY THE DEAD"]
   },
   "Rebecca Yarros": {
     "gender": "female",
-    "books": [
-      "FOURTH WING",
-      "IRON FLAME"
-    ]
+    "books": ["FOURTH WING", "IRON FLAME"]
   },
   "Kyle Mills": {
     "gender": "male",
-    "books": [
-      "VINCE FLYNN: CODE RED",
-      "THE SURVIVOR",
-      "VINCE FLYNN: RED WAR"
-    ]
+    "books": ["VINCE FLYNN: CODE RED", "THE SURVIVOR", "VINCE FLYNN: RED WAR"]
   },
   "Rachel Van Dyken": {
     "gender": "female",
-    "books": [
-      "THE BET"
-    ]
+    "books": ["THE BET"]
   },
   "Brit Bennett": {
     "gender": "female",
-    "books": [
-      "THE VANISHING HALF"
-    ]
+    "books": ["THE VANISHING HALF"]
   }
 }

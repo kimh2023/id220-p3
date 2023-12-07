@@ -10,11 +10,7 @@
         "genre": "Suspense/Thriller",
         "pages": "448",
         "book_count": 3,
-        "dates": [
-          "2011-02-13",
-          "2011-02-20",
-          "2011-02-27"
-        ]
+        "dates": ["2011-02-13", "2011-02-20", "2011-02-27"]
       },
       {
         "title": "NOW YOU SEE HER",
@@ -22,12 +18,8 @@
         "primary_isbn10": "031612723X",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
-        "pages": 384,
         "book_count": 1,
-        "dates": [
-          "2011-07-17"
-        ]
+        "dates": ["2011-07-17"]
       },
       {
         "title": "KILL ALEX CROSS",
@@ -38,9 +30,7 @@
         "genre": "Suspense/Thriller",
         "pages": "512",
         "book_count": 1,
-        "dates": [
-          "2011-12-04"
-        ]
+        "dates": ["2011-12-04"]
       },
       {
         "title": "PRIVATE: #1 SUSPECT",
@@ -48,12 +38,8 @@
         "primary_isbn10": "0316097411",
         "publisher": "Grand Central",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
-        "pages": 416,
         "book_count": 1,
-        "dates": [
-          "2012-01-22"
-        ]
+        "dates": ["2012-01-22"]
       },
       {
         "title": "PRIVATE GAMES",
@@ -61,12 +47,8 @@
         "primary_isbn10": "0316206814",
         "publisher": "Little, Brown & Company",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
-        "pages": 442,
         "book_count": 1,
-        "dates": [
-          "2012-03-04"
-        ]
+        "dates": ["2012-03-04"]
       },
       {
         "title": "ALEX CROSS, RUN",
@@ -77,10 +59,7 @@
         "genre": "Suspense/Thriller",
         "pages": "407",
         "book_count": 2,
-        "dates": [
-          "2013-03-10",
-          "2013-03-31"
-        ]
+        "dates": ["2013-03-10", "2013-03-31"]
       },
       {
         "title": "12TH OF NEVER",
@@ -88,12 +67,8 @@
         "primary_isbn10": "",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
-        "pages": 432,
         "book_count": 1,
-        "dates": [
-          "2013-05-19"
-        ]
+        "dates": ["2013-05-19"]
       },
       {
         "title": "SECOND HONEYMOON",
@@ -101,12 +76,8 @@
         "primary_isbn10": "0316211192",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
-        "pages": 384,
         "book_count": 1,
-        "dates": [
-          "2013-07-14"
-        ]
+        "dates": ["2013-07-14"]
       },
       {
         "title": "GONE",
@@ -114,12 +85,8 @@
         "primary_isbn10": "031621101X",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
-        "pages": 400,
         "book_count": 1,
-        "dates": [
-          "2013-10-20"
-        ]
+        "dates": ["2013-10-20"]
       },
       {
         "title": "CROSS MY HEART",
@@ -127,12 +94,8 @@
         "primary_isbn10": "0316210927",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
-        "pages": 448,
         "book_count": 1,
-        "dates": [
-          "2013-12-15"
-        ]
+        "dates": ["2013-12-15"]
       },
       {
         "title": "PRIVATE L.A.",
@@ -143,9 +106,7 @@
         "genre": "Suspense/Thriller",
         "pages": "448",
         "book_count": 1,
-        "dates": [
-          "2014-03-02"
-        ]
+        "dates": ["2014-03-02"]
       },
       {
         "title": "UNLUCKY 13",
@@ -156,10 +117,7 @@
         "genre": "Suspense/Thriller",
         "pages": "416",
         "book_count": 2,
-        "dates": [
-          "2014-05-25",
-          "2014-06-01"
-        ]
+        "dates": ["2014-05-25", "2014-06-01"]
       },
       {
         "title": "INVISIBLE",
@@ -170,10 +128,7 @@
         "genre": "Suspense/Thriller",
         "pages": "416",
         "book_count": 2,
-        "dates": [
-          "2014-07-13",
-          "2014-07-20"
-        ]
+        "dates": ["2014-07-13", "2014-07-20"]
       },
       {
         "title": "HOPE TO DIE",
@@ -181,12 +136,8 @@
         "primary_isbn10": "None",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
-        "pages": "400",
         "book_count": 1,
-        "dates": [
-          "2014-12-14"
-        ]
+        "dates": ["2014-12-14"]
       },
       {
         "title": "14TH DEADLY SIN",
@@ -194,12 +145,8 @@
         "primary_isbn10": "031640876X",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
-        "pages": 336,
         "book_count": 1,
-        "dates": [
-          "2015-05-24"
-        ]
+        "dates": ["2015-05-24"]
       },
       {
         "title": "ALERT",
@@ -207,12 +154,8 @@
         "primary_isbn10": "0316407186",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
-        "pages": 384,
         "book_count": 1,
-        "dates": [
-          "2015-08-23"
-        ]
+        "dates": ["2015-08-23"]
       },
       {
         "title": "CROSS JUSTICE",
@@ -220,12 +163,8 @@
         "primary_isbn10": "0316407143",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
-        "pages": 528,
         "book_count": 1,
-        "dates": [
-          "2015-12-13"
-        ]
+        "dates": ["2015-12-13"]
       },
       {
         "title": "NYPD RED 4",
@@ -233,12 +172,8 @@
         "primary_isbn10": "0316288721",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
-        "pages": 528,
         "book_count": 1,
-        "dates": [
-          "2016-02-14"
-        ]
+        "dates": ["2016-02-14"]
       },
       {
         "title": "PRIVATE PARIS",
@@ -246,12 +181,8 @@
         "primary_isbn10": "0316408999",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2016-04-03"
-        ],
-        "pages": "448"
+        "dates": ["2016-04-03"]
       },
       {
         "title": "15TH AFFAIR",
@@ -259,12 +190,8 @@
         "primary_isbn10": "031629005X",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2016-05-22"
-        ],
-        "pages": "400"
+        "dates": ["2016-05-22"]
       },
       {
         "title": "THE GAMES",
@@ -272,12 +199,8 @@
         "primary_isbn10": "031629019X",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2016-07-17"
-        ],
-        "pages": "400"
+        "dates": ["2016-07-17"]
       },
       {
         "title": "BULLSEYE",
@@ -285,12 +208,8 @@
         "primary_isbn10": "0316284556",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2016-08-21"
-        ],
-        "pages": "368"
+        "dates": ["2016-08-21"]
       },
       {
         "title": "CROSS THE LINE",
@@ -298,12 +217,8 @@
         "primary_isbn10": "031640716X",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2016-12-11"
-        ],
-        "pages": "400"
+        "dates": ["2016-12-11"]
       },
       {
         "title": "NEVER NEVER",
@@ -314,9 +229,7 @@
         "genre": "Suspense/Thriller",
         "pages": "400",
         "book_count": 1,
-        "dates": [
-          "2017-02-05"
-        ]
+        "dates": ["2017-02-05"]
       },
       {
         "title": "THE BLACK BOOK",
@@ -327,10 +240,7 @@
         "genre": "Suspense/Thriller",
         "pages": "448",
         "book_count": 2,
-        "dates": [
-          "2017-04-16",
-          "2017-04-30"
-        ]
+        "dates": ["2017-04-16", "2017-04-30"]
       },
       {
         "title": "16TH SEDUCTION",
@@ -338,12 +248,8 @@
         "primary_isbn10": "031655345X",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2017-05-21"
-        ],
-        "pages": "384"
+        "dates": ["2017-05-21"]
       },
       {
         "title": "THE PEOPLE VS. ALEX CROSS",
@@ -351,13 +257,8 @@
         "primary_isbn10": "None",
         "publisher": "Little, Brown",
         "weeks_on_list": 6,
-        "genre": "Suspense/Thriller",
         "book_count": 2,
-        "dates": [
-          "2017-12-10",
-          "2018-01-14"
-        ],
-        "pages": "448"
+        "dates": ["2017-12-10", "2018-01-14"]
       },
       {
         "title": "THE 17TH SUSPECT",
@@ -368,10 +269,7 @@
         "genre": "Suspense/Thriller",
         "pages": "368",
         "book_count": 2,
-        "dates": [
-          "2018-05-20",
-          "2018-05-27"
-        ]
+        "dates": ["2018-05-20", "2018-05-27"]
       },
       {
         "title": "THE PRESIDENT IS MISSING",
@@ -397,12 +295,8 @@
         "primary_isbn10": "0316470066",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2018-09-30"
-        ],
-        "pages": "368"
+        "dates": ["2018-09-30"]
       },
       {
         "title": "THE 18TH ABDUCTION",
@@ -410,12 +304,8 @@
         "primary_isbn10": "0316528447",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2019-05-19"
-        ],
-        "pages": "416"
+        "dates": ["2019-05-19"]
       },
       {
         "title": "THE 19TH CHRISTMAS",
@@ -423,12 +313,8 @@
         "primary_isbn10": "031649402X",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2019-10-27"
-        ],
-        "pages": "384"
+        "dates": ["2019-10-27"]
       },
       {
         "title": "BLINDSIDE",
@@ -436,12 +322,8 @@
         "primary_isbn10": "None",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2020-03-15"
-        ],
-        "pages": "400"
+        "dates": ["2020-03-15"]
       },
       {
         "title": "THE 20TH VICTIM",
@@ -449,12 +331,8 @@
         "primary_isbn10": "031649495X",
         "publisher": "Little Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2020-05-24"
-        ],
-        "pages": "448"
+        "dates": ["2020-05-24"]
       },
       {
         "title": "THE SUMMER HOUSE",
@@ -462,12 +340,8 @@
         "primary_isbn10": "0316539562",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2020-06-28"
-        ],
-        "pages": "464"
+        "dates": ["2020-06-28"]
       },
       {
         "title": "THE RUSSIAN",
@@ -475,12 +349,8 @@
         "primary_isbn10": "0316430242",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2021-02-14"
-        ],
-        "pages": "479"
+        "dates": ["2021-02-14"]
       },
       {
         "title": "21ST BIRTHDAY",
@@ -488,12 +358,8 @@
         "primary_isbn10": "0759555699",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2021-05-23"
-        ],
-        "pages": "512"
+        "dates": ["2021-05-23"]
       },
       {
         "title": "THE PRESIDENT'S DAUGHTER",
@@ -504,10 +370,7 @@
         "genre": "Suspense/Thriller",
         "pages": "608",
         "book_count": 2,
-        "dates": [
-          "2021-06-27",
-          "2021-07-04"
-        ]
+        "dates": ["2021-06-27", "2021-07-04"]
       },
       {
         "title": "RUN, ROSE, RUN",
@@ -515,12 +378,8 @@
         "primary_isbn10": "075955434X",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2022-03-27"
-        ],
-        "pages": "448"
+        "dates": ["2022-03-27"]
       },
       {
         "title": "THE 23RD MIDNIGHT",
@@ -528,12 +387,8 @@
         "primary_isbn10": "0316402982",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2023-05-21"
-        ],
-        "pages": "355"
+        "dates": ["2023-05-21"]
       },
       {
         "title": "CROSS DOWN",
@@ -541,12 +396,8 @@
         "primary_isbn10": "0316404691",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2023-06-25"
-        ],
-        "pages": "464"
+        "dates": ["2023-06-25"]
       }
     ],
     "count": 55,
@@ -564,12 +415,8 @@
         "primary_isbn10": "None",
         "publisher": "Knopf Doubleday Publishing",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2011-11-13"
-        ],
-        "pages": "480"
+        "dates": ["2011-11-13"]
       },
       {
         "title": "THE RACKETEER",
@@ -580,10 +427,7 @@
         "genre": "Suspense/Thriller",
         "pages": "352",
         "book_count": 2,
-        "dates": [
-          "2012-11-11",
-          "2012-11-18"
-        ]
+        "dates": ["2012-11-11", "2012-11-18"]
       },
       {
         "title": "SYCAMORE ROW",
@@ -610,14 +454,8 @@
         "primary_isbn10": "0385539169",
         "publisher": "Doubleday",
         "weeks_on_list": 9,
-        "genre": "Suspense/Thriller",
         "book_count": 3,
-        "dates": [
-          "2014-11-09",
-          "2014-12-21",
-          "2015-01-04"
-        ],
-        "pages": "384"
+        "dates": ["2014-11-09", "2014-12-21", "2015-01-04"]
       },
       {
         "title": "ROGUE LAWYER",
@@ -646,12 +484,7 @@
         "genre": "Suspense/Thriller",
         "pages": "432",
         "book_count": 4,
-        "dates": [
-          "2016-11-13",
-          "2016-12-18",
-          "2017-01-01",
-          "2017-01-08"
-        ]
+        "dates": ["2016-11-13", "2016-12-18", "2017-01-01", "2017-01-08"]
       },
       {
         "title": "CAMINO ISLAND",
@@ -679,10 +512,7 @@
         "genre": "Suspense/Thriller",
         "pages": "368",
         "book_count": 2,
-        "dates": [
-          "2017-11-12",
-          "2017-12-31"
-        ]
+        "dates": ["2017-11-12", "2017-12-31"]
       },
       {
         "title": "THE RECKONING",
@@ -693,11 +523,7 @@
         "genre": "Suspense/Thriller",
         "pages": "432",
         "book_count": 3,
-        "dates": [
-          "2018-11-11",
-          "2018-12-30",
-          "2019-01-06"
-        ]
+        "dates": ["2018-11-11", "2018-12-30", "2019-01-06"]
       },
       {
         "title": "THE GUARDIANS",
@@ -705,13 +531,8 @@
         "primary_isbn10": "None",
         "publisher": "Doubleday",
         "weeks_on_list": 8,
-        "genre": "Suspense/Thriller",
         "book_count": 2,
-        "dates": [
-          "2019-11-03",
-          "2019-12-22"
-        ],
-        "pages": "384"
+        "dates": ["2019-11-03", "2019-12-22"]
       },
       {
         "title": "CAMINO WINDS",
@@ -722,11 +543,7 @@
         "genre": "Suspense/Thriller",
         "pages": "336",
         "book_count": 3,
-        "dates": [
-          "2020-05-17",
-          "2020-05-31",
-          "2020-06-07"
-        ]
+        "dates": ["2020-05-17", "2020-05-31", "2020-06-07"]
       },
       {
         "title": "A TIME FOR MERCY",
@@ -737,12 +554,7 @@
         "genre": "Suspense/Thriller",
         "pages": "480",
         "book_count": 4,
-        "dates": [
-          "2020-11-01",
-          "2020-11-08",
-          "2021-01-03",
-          "2021-01-10"
-        ]
+        "dates": ["2020-11-01", "2020-11-08", "2021-01-03", "2021-01-10"]
       },
       {
         "title": "SOOLEY",
@@ -753,9 +565,7 @@
         "genre": "General Fiction",
         "pages": 354,
         "book_count": 1,
-        "dates": [
-          "2021-05-16"
-        ]
+        "dates": ["2021-05-16"]
       },
       {
         "title": "THE JUDGE'S LIST",
@@ -766,10 +576,7 @@
         "genre": "Suspense/Thriller",
         "pages": "368",
         "book_count": 2,
-        "dates": [
-          "2021-11-07",
-          "2022-01-09"
-        ]
+        "dates": ["2021-11-07", "2022-01-09"]
       },
       {
         "title": "SPARRING PARTNERS",
@@ -777,12 +584,8 @@
         "primary_isbn10": "0385549326",
         "publisher": "Doubleday",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2022-06-19"
-        ],
-        "pages": "320"
+        "dates": ["2022-06-19"]
       },
       {
         "title": "THE EXCHANGE",
@@ -793,9 +596,7 @@
         "genre": "Suspense/Thriller",
         "pages": "352",
         "book_count": 1,
-        "dates": [
-          "2023-11-05"
-        ]
+        "dates": ["2023-11-05"]
       }
     ],
     "count": 47,
@@ -879,12 +680,8 @@
         "primary_isbn10": "None",
         "publisher": "Penguin Group",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2011-03-13"
-        ],
-        "pages": "384"
+        "dates": ["2011-03-13"]
       },
       {
         "title": "CELEBRITY IN DEATH",
@@ -892,12 +689,8 @@
         "primary_isbn10": "None",
         "publisher": "Penguin Group",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2012-03-11"
-        ],
-        "pages": "396"
+        "dates": ["2012-03-11"]
       },
       {
         "title": "THE PERFECT HOPE",
@@ -905,12 +698,8 @@
         "primary_isbn10": "None",
         "publisher": "Penguin Group",
         "weeks_on_list": 1,
-        "genre": "Romance",
         "book_count": 1,
-        "dates": [
-          "2012-11-25"
-        ],
-        "pages": "336"
+        "dates": ["2012-11-25"]
       },
       {
         "title": "CALCULATED IN DEATH",
@@ -918,12 +707,8 @@
         "primary_isbn10": "None",
         "publisher": "Penguin Group",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2013-03-17"
-        ],
-        "pages": "368"
+        "dates": ["2013-03-17"]
       },
       {
         "title": "WHISKEY BEACH",
@@ -934,9 +719,7 @@
         "genre": "Romance",
         "pages": "496",
         "book_count": 1,
-        "dates": [
-          "2013-05-05"
-        ]
+        "dates": ["2013-05-05"]
       },
       {
         "title": "DARK WITCH",
@@ -944,12 +727,8 @@
         "primary_isbn10": "None",
         "publisher": "Berkley",
         "weeks_on_list": 1,
-        "genre": "Romance",
         "book_count": 1,
-        "dates": [
-          "2013-11-17"
-        ],
-        "pages": "368"
+        "dates": ["2013-11-17"]
       },
       {
         "title": "CONCEALED IN DEATH",
@@ -960,9 +739,7 @@
         "genre": "Mystery/Crime",
         "pages": 384,
         "book_count": 1,
-        "dates": [
-          "2014-03-09"
-        ]
+        "dates": ["2014-03-09"]
       },
       {
         "title": "SHADOW SPELL",
@@ -973,9 +750,7 @@
         "genre": "Romance",
         "pages": 352,
         "book_count": 1,
-        "dates": [
-          "2014-04-13"
-        ]
+        "dates": ["2014-04-13"]
       },
       {
         "title": "THE COLLECTOR",
@@ -983,12 +758,8 @@
         "primary_isbn10": "1101617284",
         "publisher": "Putnam",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2014-05-04"
-        ],
-        "pages": "496"
+        "dates": ["2014-05-04"]
       },
       {
         "title": "FESTIVE IN DEATH",
@@ -996,12 +767,8 @@
         "primary_isbn10": "1101617276",
         "publisher": "Putnam",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2014-09-28"
-        ],
-        "pages": "557"
+        "dates": ["2014-09-28"]
       },
       {
         "title": "BLOOD MAGICK",
@@ -1009,12 +776,8 @@
         "primary_isbn10": "0698144546",
         "publisher": "Berkley",
         "weeks_on_list": 1,
-        "genre": "Romance",
         "book_count": 1,
-        "dates": [
-          "2014-11-16"
-        ],
-        "pages": "336"
+        "dates": ["2014-11-16"]
       },
       {
         "title": "THE LIAR",
@@ -1025,9 +788,7 @@
         "genre": "Romance",
         "pages": "512",
         "book_count": 1,
-        "dates": [
-          "2015-05-03"
-        ]
+        "dates": ["2015-05-03"]
       },
       {
         "title": "BROTHERHOOD IN DEATH",
@@ -1035,12 +796,10 @@
         "primary_isbn10": "None",
         "publisher": "Berkley",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
+        "genre": "Suspense/Thriller",
         "pages": 400,
         "book_count": 1,
-        "dates": [
-          "2016-02-21"
-        ]
+        "dates": ["2016-02-21"]
       },
       {
         "title": "THE OBSESSION",
@@ -1051,9 +810,7 @@
         "genre": "Romance",
         "pages": "464",
         "book_count": 1,
-        "dates": [
-          "2016-05-01"
-        ]
+        "dates": ["2016-05-01"]
       },
       {
         "title": "BAY OF SIGHS",
@@ -1061,12 +818,8 @@
         "primary_isbn10": "0698190742",
         "publisher": "Berkley",
         "weeks_on_list": 1,
-        "genre": "Romance",
         "book_count": 1,
-        "dates": [
-          "2016-07-03"
-        ],
-        "pages": "352"
+        "dates": ["2016-07-03"]
       },
       {
         "title": "APPRENTICE IN DEATH",
@@ -1074,12 +827,8 @@
         "primary_isbn10": "None",
         "publisher": "Berkley",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2016-09-25"
-        ],
-        "pages": "352"
+        "dates": ["2016-09-25"]
       },
       {
         "title": "ISLAND OF GLASS",
@@ -1087,12 +836,8 @@
         "primary_isbn10": "0698190750",
         "publisher": "Berkley",
         "weeks_on_list": 1,
-        "genre": "Romance",
         "book_count": 1,
-        "dates": [
-          "2016-12-25"
-        ],
-        "pages": "352"
+        "dates": ["2016-12-25"]
       },
       {
         "title": "ECHOES IN DEATH",
@@ -1100,12 +845,8 @@
         "primary_isbn10": "1250123143",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2017-02-26"
-        ],
-        "pages": "384"
+        "dates": ["2017-02-26"]
       },
       {
         "title": "COME SUNDOWN",
@@ -1113,12 +854,8 @@
         "primary_isbn10": "1250123100",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Romance",
         "book_count": 1,
-        "dates": [
-          "2017-06-18"
-        ],
-        "pages": "496"
+        "dates": ["2017-06-18"]
       },
       {
         "title": "SECRETS IN DEATH",
@@ -1126,12 +863,10 @@
         "primary_isbn10": "None",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
+        "genre": "Suspense/Thriller",
         "pages": 384,
         "book_count": 1,
-        "dates": [
-          "2017-09-24"
-        ]
+        "dates": ["2017-09-24"]
       },
       {
         "title": "YEAR ONE",
@@ -1139,12 +874,8 @@
         "primary_isbn10": "None",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2017-12-24"
-        ],
-        "pages": "448"
+        "dates": ["2017-12-24"]
       },
       {
         "title": "DARK IN DEATH",
@@ -1152,12 +883,8 @@
         "primary_isbn10": "125016155X",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2018-02-18"
-        ],
-        "pages": "368"
+        "dates": ["2018-02-18"]
       },
       {
         "title": "SHELTER IN PLACE",
@@ -1165,12 +892,8 @@
         "primary_isbn10": "1250161614",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Romance",
         "book_count": 1,
-        "dates": [
-          "2018-06-17"
-        ],
-        "pages": "448"
+        "dates": ["2018-06-17"]
       },
       {
         "title": "LEVERAGE IN DEATH",
@@ -1178,12 +901,8 @@
         "primary_isbn10": "1250161584",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2018-09-23"
-        ],
-        "pages": "400"
+        "dates": ["2018-09-23"]
       },
       {
         "title": "OF BLOOD AND BONE",
@@ -1191,12 +910,8 @@
         "primary_isbn10": "125012302X",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2018-12-23"
-        ],
-        "pages": "480"
+        "dates": ["2018-12-23"]
       },
       {
         "title": "CONNECTIONS IN DEATH",
@@ -1204,12 +919,8 @@
         "primary_isbn10": "1250201586",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2019-02-24"
-        ],
-        "pages": "416"
+        "dates": ["2019-02-24"]
       },
       {
         "title": "UNDER CURRENTS",
@@ -1217,12 +928,8 @@
         "primary_isbn10": "1250213274",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Romance",
         "book_count": 1,
-        "dates": [
-          "2019-07-28"
-        ],
-        "pages": "464"
+        "dates": ["2019-07-28"]
       },
       {
         "title": "VENDETTA IN DEATH",
@@ -1230,12 +937,8 @@
         "primary_isbn10": "1250207185",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2019-09-22"
-        ],
-        "pages": "368"
+        "dates": ["2019-09-22"]
       },
       {
         "title": "THE RISE OF MAGICKS",
@@ -1243,12 +946,8 @@
         "primary_isbn10": "1250123062",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2019-12-15"
-        ],
-        "pages": "464"
+        "dates": ["2019-12-15"]
       },
       {
         "title": "GOLDEN IN DEATH",
@@ -1256,12 +955,8 @@
         "primary_isbn10": "None",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2020-02-23"
-        ],
-        "pages": "432"
+        "dates": ["2020-02-23"]
       },
       {
         "title": "HIDEAWAY",
@@ -1269,12 +964,8 @@
         "primary_isbn10": "1250207126",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Romance",
         "book_count": 1,
-        "dates": [
-          "2020-06-14"
-        ],
-        "pages": "480"
+        "dates": ["2020-06-14"]
       },
       {
         "title": "SHADOWS IN DEATH",
@@ -1282,12 +973,10 @@
         "primary_isbn10": "125020724X",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
+        "genre": "Suspense/Thriller",
         "pages": 368,
         "book_count": 1,
-        "dates": [
-          "2020-09-27"
-        ]
+        "dates": ["2020-09-27"]
       },
       {
         "title": "LEGACY",
@@ -1295,12 +984,8 @@
         "primary_isbn10": "1250272947",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Romance",
         "book_count": 1,
-        "dates": [
-          "2021-06-13"
-        ],
-        "pages": "464"
+        "dates": ["2021-06-13"]
       },
       {
         "title": "FORGOTTEN IN DEATH",
@@ -1308,12 +993,10 @@
         "primary_isbn10": "1250272823",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
+        "genre": "Suspense/Thriller",
         "pages": 384,
         "book_count": 1,
-        "dates": [
-          "2021-09-26"
-        ]
+        "dates": ["2021-09-26"]
       },
       {
         "title": "ABANDONED IN DEATH",
@@ -1321,12 +1004,8 @@
         "primary_isbn10": "1250278228",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2022-02-27"
-        ],
-        "pages": "368"
+        "dates": ["2022-02-27"]
       },
       {
         "title": "NIGHTWORK",
@@ -1334,12 +1013,8 @@
         "primary_isbn10": "1250278201",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Romance",
         "book_count": 1,
-        "dates": [
-          "2022-06-12"
-        ],
-        "pages": "464"
+        "dates": ["2022-06-12"]
       },
       {
         "title": "ENCORE IN DEATH",
@@ -1347,12 +1022,8 @@
         "primary_isbn10": "1250284317",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2023-02-26"
-        ],
-        "pages": "384"
+        "dates": ["2023-02-26"]
       },
       {
         "title": "IDENTITY",
@@ -1360,12 +1031,8 @@
         "primary_isbn10": "1250284325",
         "publisher": "St. Martin's",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2023-06-11"
-        ],
-        "pages": "448"
+        "dates": ["2023-06-11"]
       }
     ],
     "count": 38,
@@ -1427,12 +1094,7 @@
         "genre": "Romance",
         "pages": "640",
         "book_count": 4,
-        "dates": [
-          "2015-07-05",
-          "2015-07-12",
-          "2015-07-19",
-          "2015-07-26"
-        ]
+        "dates": ["2015-07-05", "2015-07-12", "2015-07-19", "2015-07-26"]
       }
     ],
     "count": 33,
@@ -1475,12 +1137,8 @@
         "primary_isbn10": "1538739720",
         "publisher": "Grand Central",
         "weeks_on_list": 43,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2022-10-16"
-        ],
-        "pages": "336"
+        "dates": ["2022-10-16"]
       },
       {
         "title": "IT STARTS WITH US",
@@ -1517,13 +1175,8 @@
         "primary_isbn10": "1538756595",
         "publisher": "Grand Central",
         "weeks_on_list": 2,
-        "genre": "Romance",
         "book_count": 2,
-        "dates": [
-          "2023-07-16",
-          "2023-07-23"
-        ],
-        "pages": "400"
+        "dates": ["2023-07-16", "2023-07-23"]
       }
     ],
     "count": 33,
@@ -1582,11 +1235,7 @@
         "genre": "Suspense/Thriller",
         "pages": "400",
         "book_count": 3,
-        "dates": [
-          "2017-05-28",
-          "2017-06-04",
-          "2017-06-11"
-        ]
+        "dates": ["2017-05-28", "2017-06-04", "2017-06-11"]
       },
       {
         "title": "A SLOW FIRE BURNING",
@@ -1594,12 +1243,8 @@
         "primary_isbn10": "0735211256",
         "publisher": "Riverhead",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2021-09-19"
-        ],
-        "pages": "400"
+        "dates": ["2021-09-19"]
       }
     ],
     "count": 30,
@@ -1617,12 +1262,8 @@
         "primary_isbn10": "None",
         "publisher": "Grand Central Publishing",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2011-11-20"
-        ],
-        "pages": "592"
+        "dates": ["2011-11-20"]
       },
       {
         "title": "THE HIT",
@@ -1630,12 +1271,8 @@
         "primary_isbn10": "1455521280",
         "publisher": "Grand Central",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2013-05-12"
-        ],
-        "pages": "528"
+        "dates": ["2013-05-12"]
       },
       {
         "title": "THE TARGET",
@@ -1646,10 +1283,7 @@
         "genre": "Suspense/Thriller",
         "pages": "592",
         "book_count": 2,
-        "dates": [
-          "2014-05-11",
-          "2014-05-18"
-        ]
+        "dates": ["2014-05-11", "2014-05-18"]
       },
       {
         "title": "MEMORY MAN",
@@ -1657,12 +1291,8 @@
         "primary_isbn10": "1455586382",
         "publisher": "Grand Central",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2015-05-10"
-        ],
-        "pages": "664"
+        "dates": ["2015-05-10"]
       },
       {
         "title": "THE LAST MILE",
@@ -1670,12 +1300,8 @@
         "primary_isbn10": "145558648X",
         "publisher": "Grand Central",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2016-05-08"
-        ],
-        "pages": "464"
+        "dates": ["2016-05-08"]
       },
       {
         "title": "THE FIX",
@@ -1686,9 +1312,7 @@
         "genre": "Suspense/Thriller",
         "pages": "480",
         "book_count": 1,
-        "dates": [
-          "2017-05-07"
-        ]
+        "dates": ["2017-05-07"]
       },
       {
         "title": "THE FALLEN",
@@ -1696,12 +1320,8 @@
         "primary_isbn10": "1538761378",
         "publisher": "Grand Central",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2018-05-06"
-        ],
-        "pages": "464"
+        "dates": ["2018-05-06"]
       },
       {
         "title": "LONG ROAD TO MERCY",
@@ -1709,12 +1329,8 @@
         "primary_isbn10": "None",
         "publisher": "Grand Central Publishing",
         "weeks_on_list": 7,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2019-01-13"
-        ],
-        "pages": "448"
+        "dates": ["2019-01-13"]
       },
       {
         "title": "REDEMPTION",
@@ -1722,12 +1338,8 @@
         "primary_isbn10": "1538761432",
         "publisher": "Grand Central",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2019-05-05"
-        ],
-        "pages": "464"
+        "dates": ["2019-05-05"]
       },
       {
         "title": "ONE GOOD DEED",
@@ -1735,12 +1347,8 @@
         "primary_isbn10": "1538750554",
         "publisher": "Grand Central",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2019-08-11"
-        ],
-        "pages": "432"
+        "dates": ["2019-08-11"]
       },
       {
         "title": "A MINUTE TO MIDNIGHT",
@@ -1748,12 +1356,8 @@
         "primary_isbn10": "None",
         "publisher": "Grand Central",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2019-12-08"
-        ],
-        "pages": "464"
+        "dates": ["2019-12-08"]
       },
       {
         "title": "WALK THE WIRE",
@@ -1761,12 +1365,8 @@
         "primary_isbn10": "1538761505",
         "publisher": "Grand Central",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2020-05-10"
-        ],
-        "pages": "432"
+        "dates": ["2020-05-10"]
       },
       {
         "title": "A GAMBLING MAN",
@@ -1774,12 +1374,8 @@
         "primary_isbn10": "None",
         "publisher": "Grand Central",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2021-05-09"
-        ],
-        "pages": "480"
+        "dates": ["2021-05-09"]
       },
       {
         "title": "MERCY",
@@ -1790,9 +1386,7 @@
         "genre": "Suspense/Thriller",
         "pages": "448",
         "book_count": 1,
-        "dates": [
-          "2021-12-05"
-        ]
+        "dates": ["2021-12-05"]
       },
       {
         "title": "DREAM TOWN",
@@ -1800,12 +1394,8 @@
         "primary_isbn10": "1538719789",
         "publisher": "Grand Central",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2022-05-08"
-        ],
-        "pages": "464"
+        "dates": ["2022-05-08"]
       },
       {
         "title": "LONG SHADOWS",
@@ -1813,12 +1403,8 @@
         "primary_isbn10": "1538719797",
         "publisher": "Grand Central",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2022-10-30"
-        ],
-        "pages": "480"
+        "dates": ["2022-10-30"]
       },
       {
         "title": "SIMPLY LIES",
@@ -1826,12 +1412,8 @@
         "primary_isbn10": "1538750597",
         "publisher": "Grand Central",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2023-05-07"
-        ],
-        "pages": "432"
+        "dates": ["2023-05-07"]
       }
     ],
     "count": 18,
@@ -1887,17 +1469,8 @@
         "primary_isbn10": "0316069388",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE FIFTH WITNESS",
-          "THE GODS OF GUILT",
-          "THE LAW OF INNOCENCE"
-        ],
         "book_count": 1,
-        "dates": [
-          "2011-04-24"
-        ],
-        "pages": "448"
+        "dates": ["2011-04-24"]
       },
       {
         "title": "THE DROP",
@@ -1906,22 +1479,9 @@
         "publisher": "Little, Brown & Company",
         "weeks_on_list": 1,
         "genre": "Mystery/Crime",
-        "series": [
-          "THE DROP",
-          "THE BLACK BOX",
-          "THE BURNING ROOM",
-          "THE CROSSING",
-          "THE WRONG SIDE OF GOODBYE",
-          "TWO KINDS OF TRUTH",
-          "DARK SACRED NIGHT",
-          "THE NIGHT FIRE",
-          "THE DARK HOURS"
-        ],
         "pages": 496,
         "book_count": 1,
-        "dates": [
-          "2011-12-18"
-        ]
+        "dates": ["2011-12-18"]
       },
       {
         "title": "THE BLACK BOX",
@@ -1929,23 +1489,8 @@
         "primary_isbn10": "0316069442",
         "publisher": "Little, Brown & Company",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE DROP",
-          "THE BLACK BOX",
-          "THE BURNING ROOM",
-          "THE CROSSING",
-          "THE WRONG SIDE OF GOODBYE",
-          "TWO KINDS OF TRUTH",
-          "DARK SACRED NIGHT",
-          "THE NIGHT FIRE",
-          "THE DARK HOURS"
-        ],
         "book_count": 1,
-        "dates": [
-          "2012-12-16"
-        ],
-        "pages": "403"
+        "dates": ["2012-12-16"]
       },
       {
         "title": "THE GODS OF GUILT",
@@ -1953,17 +1498,8 @@
         "primary_isbn10": "0316069507",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE FIFTH WITNESS",
-          "THE GODS OF GUILT",
-          "THE LAW OF INNOCENCE"
-        ],
         "book_count": 1,
-        "dates": [
-          "2013-12-22"
-        ],
-        "pages": "416"
+        "dates": ["2013-12-22"]
       },
       {
         "title": "THE BURNING ROOM",
@@ -1971,23 +1507,8 @@
         "primary_isbn10": "0316225924",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE DROP",
-          "THE BLACK BOX",
-          "THE BURNING ROOM",
-          "THE CROSSING",
-          "THE WRONG SIDE OF GOODBYE",
-          "TWO KINDS OF TRUTH",
-          "DARK SACRED NIGHT",
-          "THE NIGHT FIRE",
-          "THE DARK HOURS"
-        ],
         "book_count": 1,
-        "dates": [
-          "2014-11-23"
-        ],
-        "pages": "400"
+        "dates": ["2014-11-23"]
       },
       {
         "title": "THE CROSSING",
@@ -1995,23 +1516,8 @@
         "primary_isbn10": "0316225894",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE DROP",
-          "THE BLACK BOX",
-          "THE BURNING ROOM",
-          "THE CROSSING",
-          "THE WRONG SIDE OF GOODBYE",
-          "TWO KINDS OF TRUTH",
-          "DARK SACRED NIGHT",
-          "THE NIGHT FIRE",
-          "THE DARK HOURS"
-        ],
         "book_count": 1,
-        "dates": [
-          "2015-11-22"
-        ],
-        "pages": "400"
+        "dates": ["2015-11-22"]
       },
       {
         "title": "THE WRONG SIDE OF GOODBYE",
@@ -2019,24 +1525,8 @@
         "primary_isbn10": "0316225959",
         "publisher": "Little, Brown",
         "weeks_on_list": 7,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE DROP",
-          "THE BLACK BOX",
-          "THE BURNING ROOM",
-          "THE CROSSING",
-          "THE WRONG SIDE OF GOODBYE",
-          "TWO KINDS OF TRUTH",
-          "DARK SACRED NIGHT",
-          "THE NIGHT FIRE",
-          "THE DARK HOURS"
-        ],
         "book_count": 2,
-        "dates": [
-          "2016-11-20",
-          "2017-01-15"
-        ],
-        "pages": "388"
+        "dates": ["2016-11-20", "2017-01-15"]
       },
       {
         "title": "THE LATE SHOW",
@@ -2044,13 +1534,10 @@
         "primary_isbn10": "0316225975",
         "publisher": "Little, Brown",
         "weeks_on_list": 2,
-        "genre": "Mystery/Crime",
+        "genre": "Suspense/Thriller",
         "pages": "448",
         "book_count": 2,
-        "dates": [
-          "2017-08-06",
-          "2017-08-13"
-        ]
+        "dates": ["2017-08-06", "2017-08-13"]
       },
       {
         "title": "TWO KINDS OF TRUTH",
@@ -2058,23 +1545,8 @@
         "primary_isbn10": "0316225916",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE DROP",
-          "THE BLACK BOX",
-          "THE BURNING ROOM",
-          "THE CROSSING",
-          "THE WRONG SIDE OF GOODBYE",
-          "TWO KINDS OF TRUTH",
-          "DARK SACRED NIGHT",
-          "THE NIGHT FIRE",
-          "THE DARK HOURS"
-        ],
         "book_count": 1,
-        "dates": [
-          "2017-11-19"
-        ],
-        "pages": "464"
+        "dates": ["2017-11-19"]
       },
       {
         "title": "DARK SACRED NIGHT",
@@ -2082,23 +1554,8 @@
         "primary_isbn10": "0316486671",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE DROP",
-          "THE BLACK BOX",
-          "THE BURNING ROOM",
-          "THE CROSSING",
-          "THE WRONG SIDE OF GOODBYE",
-          "TWO KINDS OF TRUTH",
-          "DARK SACRED NIGHT",
-          "THE NIGHT FIRE",
-          "THE DARK HOURS"
-        ],
         "book_count": 1,
-        "dates": [
-          "2018-11-18"
-        ],
-        "pages": "480"
+        "dates": ["2018-11-18"]
       },
       {
         "title": "THE NIGHT FIRE",
@@ -2106,23 +1563,8 @@
         "primary_isbn10": "None",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE DROP",
-          "THE BLACK BOX",
-          "THE BURNING ROOM",
-          "THE CROSSING",
-          "THE WRONG SIDE OF GOODBYE",
-          "TWO KINDS OF TRUTH",
-          "DARK SACRED NIGHT",
-          "THE NIGHT FIRE",
-          "THE DARK HOURS"
-        ],
         "book_count": 1,
-        "dates": [
-          "2019-11-10"
-        ],
-        "pages": "416"
+        "dates": ["2019-11-10"]
       },
       {
         "title": "THE LAW OF INNOCENCE",
@@ -2130,17 +1572,8 @@
         "primary_isbn10": "None",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE FIFTH WITNESS",
-          "THE GODS OF GUILT",
-          "THE LAW OF INNOCENCE"
-        ],
         "book_count": 1,
-        "dates": [
-          "2020-11-29"
-        ],
-        "pages": "432"
+        "dates": ["2020-11-29"]
       },
       {
         "title": "THE DARK HOURS",
@@ -2148,23 +1581,8 @@
         "primary_isbn10": "0316256560",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE DROP",
-          "THE BLACK BOX",
-          "THE BURNING ROOM",
-          "THE CROSSING",
-          "THE WRONG SIDE OF GOODBYE",
-          "TWO KINDS OF TRUTH",
-          "DARK SACRED NIGHT",
-          "THE NIGHT FIRE",
-          "THE DARK HOURS"
-        ],
         "book_count": 1,
-        "dates": [
-          "2021-11-28"
-        ],
-        "pages": "512"
+        "dates": ["2021-11-28"]
       }
     ],
     "count": 15,
@@ -2185,10 +1603,7 @@
         "genre": "Romance",
         "pages": "304",
         "book_count": 2,
-        "dates": [
-          "2011-10-30",
-          "2011-11-06"
-        ]
+        "dates": ["2011-10-30", "2011-11-06"]
       },
       {
         "title": "SAFE HAVEN",
@@ -2218,9 +1633,7 @@
         "genre": "Romance",
         "pages": "568",
         "book_count": 1,
-        "dates": [
-          "2013-10-06"
-        ]
+        "dates": ["2013-10-06"]
       },
       {
         "title": "SEE ME",
@@ -2228,12 +1641,8 @@
         "primary_isbn10": "1455520616",
         "publisher": "Grand Central",
         "weeks_on_list": 1,
-        "genre": "Romance",
         "book_count": 1,
-        "dates": [
-          "2015-11-01"
-        ],
-        "pages": "576"
+        "dates": ["2015-11-01"]
       },
       {
         "title": "EVERY BREATH",
@@ -2244,9 +1653,7 @@
         "genre": "Romance",
         "pages": "336",
         "book_count": 1,
-        "dates": [
-          "2018-11-04"
-        ]
+        "dates": ["2018-11-04"]
       },
       {
         "title": "THE RETURN",
@@ -2257,9 +1664,7 @@
         "genre": "Romance",
         "pages": 368,
         "book_count": 1,
-        "dates": [
-          "2020-10-18"
-        ]
+        "dates": ["2020-10-18"]
       },
       {
         "title": "THE WISH",
@@ -2267,12 +1672,8 @@
         "primary_isbn10": "1538728621",
         "publisher": "Grand Central",
         "weeks_on_list": 1,
-        "genre": "Romance",
         "book_count": 1,
-        "dates": [
-          "2021-10-17"
-        ],
-        "pages": "416"
+        "dates": ["2021-10-17"]
       },
       {
         "title": "DREAMLAND",
@@ -2280,12 +1681,8 @@
         "primary_isbn10": "059344955X",
         "publisher": "Random House",
         "weeks_on_list": 1,
-        "genre": "Romance",
         "book_count": 1,
-        "dates": [
-          "2022-10-09"
-        ],
-        "pages": "384"
+        "dates": ["2022-10-09"]
       }
     ],
     "count": 15,
@@ -2306,10 +1703,7 @@
         "genre": "Science Fiction",
         "pages": 849,
         "book_count": 2,
-        "dates": [
-          "2011-11-27",
-          "2012-01-01"
-        ]
+        "dates": ["2011-11-27", "2012-01-01"]
       },
       {
         "title": "DOCTOR SLEEP",
@@ -2317,12 +1711,8 @@
         "primary_isbn10": "147672766X",
         "publisher": "Scribner",
         "weeks_on_list": 1,
-        "genre": "Horror",
         "book_count": 1,
-        "dates": [
-          "2013-10-13"
-        ],
-        "pages": "531"
+        "dates": ["2013-10-13"]
       },
       {
         "title": "MR. MERCEDES",
@@ -2330,12 +1720,8 @@
         "primary_isbn10": "1476754462",
         "publisher": "Scribner",
         "weeks_on_list": 1,
-        "genre": "Horror",
         "book_count": 1,
-        "dates": [
-          "2014-06-22"
-        ],
-        "pages": "436"
+        "dates": ["2014-06-22"]
       },
       {
         "title": "REVIVAL",
@@ -2343,12 +1729,8 @@
         "primary_isbn10": "1476770409",
         "publisher": "Scribner",
         "weeks_on_list": 1,
-        "genre": "Horror",
         "book_count": 1,
-        "dates": [
-          "2014-11-30"
-        ],
-        "pages": "405"
+        "dates": ["2014-11-30"]
       },
       {
         "title": "FINDERS KEEPERS",
@@ -2356,12 +1738,8 @@
         "primary_isbn10": "1501100130",
         "publisher": "Scribner",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2015-06-21"
-        ],
-        "pages": "434"
+        "dates": ["2015-06-21"]
       },
       {
         "title": "END OF WATCH",
@@ -2369,12 +1747,8 @@
         "primary_isbn10": "1501129740",
         "publisher": "Scribner",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2016-06-26"
-        ],
-        "pages": "432"
+        "dates": ["2016-06-26"]
       },
       {
         "title": "SLEEPING BEAUTIES",
@@ -2382,12 +1756,8 @@
         "primary_isbn10": "150116340X",
         "publisher": "Scribner",
         "weeks_on_list": 1,
-        "genre": "Horror",
         "book_count": 1,
-        "dates": [
-          "2017-10-15"
-        ],
-        "pages": "720"
+        "dates": ["2017-10-15"]
       },
       {
         "title": "THE OUTSIDER",
@@ -2395,12 +1765,8 @@
         "primary_isbn10": "1501180983",
         "publisher": "Scribner",
         "weeks_on_list": 1,
-        "genre": "Horror",
         "book_count": 1,
-        "dates": [
-          "2018-06-10"
-        ],
-        "pages": "192"
+        "dates": ["2018-06-10"]
       },
       {
         "title": "THE INSTITUTE",
@@ -2411,10 +1777,7 @@
         "genre": "Horror",
         "pages": "576",
         "book_count": 2,
-        "dates": [
-          "2019-09-29",
-          "2019-10-06"
-        ]
+        "dates": ["2019-09-29", "2019-10-06"]
       },
       {
         "title": "BILLY SUMMERS",
@@ -2425,10 +1788,7 @@
         "genre": "Suspense/Thriller",
         "pages": "528",
         "book_count": 2,
-        "dates": [
-          "2021-08-22",
-          "2021-08-29"
-        ]
+        "dates": ["2021-08-22", "2021-08-29"]
       },
       {
         "title": "FAIRY TALE",
@@ -2436,12 +1796,8 @@
         "primary_isbn10": "1668002175",
         "publisher": "Scribner",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2022-09-25"
-        ],
-        "pages": "608"
+        "dates": ["2022-09-25"]
       },
       {
         "title": "HOLLY",
@@ -2449,12 +1805,8 @@
         "primary_isbn10": "1668016133",
         "publisher": "Scribner",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2023-09-24"
-        ],
-        "pages": "464"
+        "dates": ["2023-09-24"]
       }
     ],
     "count": 15,
@@ -2475,9 +1827,7 @@
         "genre": "Suspense/Thriller",
         "pages": 376,
         "book_count": 1,
-        "dates": [
-          "2013-10-27"
-        ]
+        "dates": ["2013-10-27"]
       },
       {
         "title": "GATHERING PREY",
@@ -2485,12 +1835,8 @@
         "primary_isbn10": "None",
         "publisher": "Putnam",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2015-05-17"
-        ],
-        "pages": "519"
+        "dates": ["2015-05-17"]
       },
       {
         "title": "EXTREME PREY",
@@ -2498,12 +1844,8 @@
         "primary_isbn10": "None",
         "publisher": "Putnam",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2016-05-15"
-        ],
-        "pages": "448"
+        "dates": ["2016-05-15"]
       },
       {
         "title": "ESCAPE CLAUSE",
@@ -2514,9 +1856,7 @@
         "genre": "Suspense/Thriller",
         "pages": "400",
         "book_count": 1,
-        "dates": [
-          "2016-11-06"
-        ]
+        "dates": ["2016-11-06"]
       },
       {
         "title": "GOLDEN PREY",
@@ -2524,12 +1864,8 @@
         "primary_isbn10": "0399184589",
         "publisher": "Putnam",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2017-05-14"
-        ],
-        "pages": "400"
+        "dates": ["2017-05-14"]
       },
       {
         "title": "TWISTED PREY",
@@ -2537,12 +1873,8 @@
         "primary_isbn10": "073521736X",
         "publisher": "Putnam",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2018-05-13"
-        ],
-        "pages": "400"
+        "dates": ["2018-05-13"]
       },
       {
         "title": "HOLY GHOST",
@@ -2553,9 +1885,7 @@
         "genre": "Suspense/Thriller",
         "pages": 432,
         "book_count": 1,
-        "dates": [
-          "2018-10-28"
-        ]
+        "dates": ["2018-10-28"]
       },
       {
         "title": "NEON PREY",
@@ -2563,25 +1893,17 @@
         "primary_isbn10": "0525536590",
         "publisher": "Putnam",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2019-05-12"
-        ],
-        "pages": "400"
+        "dates": ["2019-05-12"]
       },
       {
         "title": "BLOODY GENIUS",
         "author": "John Sandford",
         "primary_isbn10": "None",
-        "publisher": "Putnam",
+        "publisher": "Putman",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2019-10-20"
-        ],
-        "pages": "480"
+        "dates": ["2019-10-20"]
       },
       {
         "title": "MASKED PREY",
@@ -2589,12 +1911,8 @@
         "primary_isbn10": "None",
         "publisher": "Putnam",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2020-05-03"
-        ],
-        "pages": "528"
+        "dates": ["2020-05-03"]
       },
       {
         "title": "OCEAN PREY",
@@ -2605,9 +1923,7 @@
         "genre": "Mystery/Crime",
         "pages": "432",
         "book_count": 1,
-        "dates": [
-          "2021-05-02"
-        ]
+        "dates": ["2021-05-02"]
       },
       {
         "title": "THE INVESTIGATOR",
@@ -2615,12 +1931,8 @@
         "primary_isbn10": "0593328698",
         "publisher": "Putnam",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2022-05-01"
-        ],
-        "pages": "416"
+        "dates": ["2022-05-01"]
       },
       {
         "title": "RIGHTEOUS PREY",
@@ -2628,12 +1940,8 @@
         "primary_isbn10": "0593422481",
         "publisher": "Putnam",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2022-10-23"
-        ],
-        "pages": "416"
+        "dates": ["2022-10-23"]
       },
       {
         "title": "DARK ANGEL",
@@ -2641,12 +1949,8 @@
         "primary_isbn10": "0593422422",
         "publisher": "Putnam",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2023-04-30"
-        ],
-        "pages": "416"
+        "dates": ["2023-04-30"]
       },
       {
         "title": "JUDGMENT PREY",
@@ -2654,12 +1958,8 @@
         "primary_isbn10": "0593542827",
         "publisher": "Putnam",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2023-10-22"
-        ],
-        "pages": "400"
+        "dates": ["2023-10-22"]
       }
     ],
     "count": 15,
@@ -2677,12 +1977,8 @@
         "primary_isbn10": "0316097411",
         "publisher": "Grand Central",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
-        "pages": 416,
         "book_count": 1,
-        "dates": [
-          "2012-01-22"
-        ]
+        "dates": ["2012-01-22"]
       },
       {
         "title": "12TH OF NEVER",
@@ -2690,12 +1986,8 @@
         "primary_isbn10": "",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
-        "pages": 432,
         "book_count": 1,
-        "dates": [
-          "2013-05-19"
-        ]
+        "dates": ["2013-05-19"]
       },
       {
         "title": "UNLUCKY 13",
@@ -2706,10 +1998,7 @@
         "genre": "Suspense/Thriller",
         "pages": "416",
         "book_count": 2,
-        "dates": [
-          "2014-05-25",
-          "2014-06-01"
-        ]
+        "dates": ["2014-05-25", "2014-06-01"]
       },
       {
         "title": "14TH DEADLY SIN",
@@ -2717,12 +2006,8 @@
         "primary_isbn10": "031640876X",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
-        "pages": 336,
         "book_count": 1,
-        "dates": [
-          "2015-05-24"
-        ]
+        "dates": ["2015-05-24"]
       },
       {
         "title": "15TH AFFAIR",
@@ -2730,12 +2015,8 @@
         "primary_isbn10": "031629005X",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2016-05-22"
-        ],
-        "pages": "400"
+        "dates": ["2016-05-22"]
       },
       {
         "title": "16TH SEDUCTION",
@@ -2743,12 +2024,8 @@
         "primary_isbn10": "031655345X",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2017-05-21"
-        ],
-        "pages": "384"
+        "dates": ["2017-05-21"]
       },
       {
         "title": "THE 17TH SUSPECT",
@@ -2759,10 +2036,7 @@
         "genre": "Suspense/Thriller",
         "pages": "368",
         "book_count": 2,
-        "dates": [
-          "2018-05-20",
-          "2018-05-27"
-        ]
+        "dates": ["2018-05-20", "2018-05-27"]
       },
       {
         "title": "THE 18TH ABDUCTION",
@@ -2770,12 +2044,8 @@
         "primary_isbn10": "0316528447",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2019-05-19"
-        ],
-        "pages": "416"
+        "dates": ["2019-05-19"]
       },
       {
         "title": "THE 19TH CHRISTMAS",
@@ -2783,12 +2053,8 @@
         "primary_isbn10": "031649402X",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2019-10-27"
-        ],
-        "pages": "368"
+        "dates": ["2019-10-27"]
       },
       {
         "title": "THE 20TH VICTIM",
@@ -2796,12 +2062,8 @@
         "primary_isbn10": "031649495X",
         "publisher": "Little Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2020-05-24"
-        ],
-        "pages": "448"
+        "dates": ["2020-05-24"]
       },
       {
         "title": "21ST BIRTHDAY",
@@ -2809,12 +2071,8 @@
         "primary_isbn10": "0759555699",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2021-05-23"
-        ],
-        "pages": "432"
+        "dates": ["2021-05-23"]
       },
       {
         "title": "THE 23RD MIDNIGHT",
@@ -2822,12 +2080,8 @@
         "primary_isbn10": "0316402982",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2023-05-21"
-        ],
-        "pages": "352"
+        "dates": ["2023-05-21"]
       }
     ],
     "count": 14,
@@ -2840,17 +2094,13 @@
   "Janet Evanovich": {
     "books": [
       {
-        "title": "SMOKIN' SEVENTEEN",
+        "title": "SMOKIN\u2019 SEVENTEEN",
         "author": "Janet Evanovich",
         "primary_isbn10": "0345527690",
         "publisher": "Random House",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2011-07-10"
-        ],
-        "pages": "353"
+        "dates": ["2011-07-10"]
       },
       {
         "title": "EXPLOSIVE EIGHTEEN",
@@ -2858,12 +2108,8 @@
         "primary_isbn10": "None",
         "publisher": "Random House Publishing",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2011-12-11"
-        ],
-        "pages": "352"
+        "dates": ["2011-12-11"]
       },
       {
         "title": "NOTORIOUS NINETEEN",
@@ -2871,12 +2117,8 @@
         "primary_isbn10": "0345527755",
         "publisher": "Random House Publishing",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2012-12-09"
-        ],
-        "pages": "320"
+        "dates": ["2012-12-09"]
       },
       {
         "title": "TAKEDOWN TWENTY",
@@ -2884,12 +2126,8 @@
         "primary_isbn10": "0345542908",
         "publisher": "Bantam",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2013-12-08"
-        ],
-        "pages": ""
+        "dates": ["2013-12-08"]
       },
       {
         "title": "TOP SECRET TWENTY-ONE",
@@ -2897,12 +2135,8 @@
         "primary_isbn10": "0345542940",
         "publisher": "Bantam",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2014-07-06"
-        ],
-        "pages": "352"
+        "dates": ["2014-07-06"]
       },
       {
         "title": "TRICKY TWENTY-TWO",
@@ -2910,12 +2144,8 @@
         "primary_isbn10": "0345542983",
         "publisher": "Bantam",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2015-12-06"
-        ],
-        "pages": "352"
+        "dates": ["2015-12-06"]
       },
       {
         "title": "TURBO TWENTY-THREE",
@@ -2923,12 +2153,10 @@
         "primary_isbn10": "0345543025",
         "publisher": "Bantam",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
+        "genre": "Suspense/Thriller",
         "pages": "344",
         "book_count": 1,
-        "dates": [
-          "2016-12-04"
-        ]
+        "dates": ["2016-12-04"]
       },
       {
         "title": "HARDCORE TWENTY-FOUR",
@@ -2936,12 +2164,8 @@
         "primary_isbn10": "0399179208",
         "publisher": "Putnam",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2017-12-03"
-        ],
-        "pages": "304"
+        "dates": ["2017-12-03"]
       },
       {
         "title": "LOOK ALIVE TWENTY-FIVE",
@@ -2952,9 +2176,7 @@
         "genre": "Mystery/Crime",
         "pages": "336",
         "book_count": 1,
-        "dates": [
-          "2018-12-02"
-        ]
+        "dates": ["2018-12-02"]
       },
       {
         "title": "TWISTED TWENTY-SIX",
@@ -2962,12 +2184,8 @@
         "primary_isbn10": "None",
         "publisher": "Putnam",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2019-12-01"
-        ],
-        "pages": "320"
+        "dates": ["2019-12-01"]
       },
       {
         "title": "FORTUNE AND GLORY",
@@ -2975,12 +2193,8 @@
         "primary_isbn10": "1982154861",
         "publisher": "Atria",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2020-11-22"
-        ],
-        "pages": "304"
+        "dates": ["2020-11-22"]
       },
       {
         "title": "GAME ON",
@@ -2988,12 +2202,8 @@
         "primary_isbn10": "198215490X",
         "publisher": "Atria",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2021-11-21"
-        ],
-        "pages": "367"
+        "dates": ["2021-11-21"]
       },
       {
         "title": "DIRTY THIRTY",
@@ -3001,12 +2211,8 @@
         "primary_isbn10": "1668003120",
         "publisher": "Atria",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2023-11-19"
-        ],
-        "pages": "336"
+        "dates": ["2023-11-19"]
       }
     ],
     "count": 13,
@@ -3024,12 +2230,8 @@
         "primary_isbn10": "0440339359",
         "publisher": "Delacorte",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2011-10-16"
-        ],
-        "pages": "608"
+        "dates": ["2011-10-16"]
       },
       {
         "title": "A WANTED MAN",
@@ -3037,12 +2239,8 @@
         "primary_isbn10": "0440339367",
         "publisher": "Random House Publishing",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2012-09-30"
-        ],
-        "pages": "304"
+        "dates": ["2012-09-30"]
       },
       {
         "title": "NEVER GO BACK",
@@ -3050,12 +2248,8 @@
         "primary_isbn10": "0440339375",
         "publisher": "Delacorte",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2013-09-22"
-        ],
-        "pages": "416"
+        "dates": ["2013-09-22"]
       },
       {
         "title": "PERSONAL",
@@ -3063,12 +2257,8 @@
         "primary_isbn10": "0804178763",
         "publisher": "Delacorte",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2014-09-21"
-        ],
-        "pages": "544"
+        "dates": ["2014-09-21"]
       },
       {
         "title": "MAKE ME",
@@ -3079,9 +2269,7 @@
         "genre": "Suspense/Thriller",
         "pages": 576,
         "book_count": 1,
-        "dates": [
-          "2015-09-27"
-        ]
+        "dates": ["2015-09-27"]
       },
       {
         "title": "NIGHT SCHOOL",
@@ -3089,12 +2277,8 @@
         "primary_isbn10": "080417881X",
         "publisher": "Delacorte",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2016-11-27"
-        ],
-        "pages": "496"
+        "dates": ["2016-11-27"]
       },
       {
         "title": "THE MIDNIGHT LINE",
@@ -3102,12 +2286,8 @@
         "primary_isbn10": "0399593497",
         "publisher": "Delacorte",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2017-11-26"
-        ],
-        "pages": "400"
+        "dates": ["2017-11-26"]
       },
       {
         "title": "PAST TENSE",
@@ -3115,12 +2295,8 @@
         "primary_isbn10": "",
         "publisher": "Delacorte",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2018-11-25"
-        ],
-        "pages": "416"
+        "dates": ["2018-11-25"]
       },
       {
         "title": "BLUE MOON",
@@ -3131,10 +2307,7 @@
         "genre": "Suspense/Thriller",
         "pages": "447",
         "book_count": 2,
-        "dates": [
-          "2019-11-17",
-          "2019-11-24"
-        ]
+        "dates": ["2019-11-17", "2019-11-24"]
       },
       {
         "title": "THE SENTINEL",
@@ -3142,12 +2315,8 @@
         "primary_isbn10": "None",
         "publisher": "Delacorte",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2020-11-15"
-        ],
-        "pages": "464"
+        "dates": ["2020-11-15"]
       },
       {
         "title": "BETTER OFF DEAD",
@@ -3155,12 +2324,8 @@
         "primary_isbn10": "1984818511",
         "publisher": "Delacorte",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2021-11-14"
-        ],
-        "pages": "352"
+        "dates": ["2021-11-14"]
       },
       {
         "title": "THE SECRET",
@@ -3168,12 +2333,8 @@
         "primary_isbn10": "1984818597",
         "publisher": "Delacorte",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2023-11-12"
-        ],
-        "pages": "296"
+        "dates": ["2023-11-12"]
       }
     ],
     "count": 13,
@@ -3235,14 +2396,10 @@
         "title": "HOME FRONT",
         "author": "Kristin Hannah",
         "primary_isbn10": "1429942215",
-        "publisher": "St. Martin's Press",
+        "publisher": "St. Martin\u2019s Press",
         "weeks_on_list": 1,
-        "genre": "Romance",
         "book_count": 1,
-        "dates": [
-          "2012-02-19"
-        ],
-        "pages": "432"
+        "dates": ["2012-02-19"]
       },
       {
         "title": "THE NIGHTINGALE",
@@ -3253,9 +2410,7 @@
         "genre": "Historical Fiction",
         "pages": "608",
         "book_count": 1,
-        "dates": [
-          "2015-12-20"
-        ]
+        "dates": ["2015-12-20"]
       },
       {
         "title": "THE GREAT ALONE",
@@ -3266,12 +2421,7 @@
         "genre": "Historical Fiction",
         "pages": "440",
         "book_count": 4,
-        "dates": [
-          "2018-02-25",
-          "2018-03-04",
-          "2018-03-11",
-          "2018-03-18"
-        ]
+        "dates": ["2018-02-25", "2018-03-04", "2018-03-11", "2018-03-18"]
       },
       {
         "title": "THE FOUR WINDS",
@@ -3306,12 +2456,8 @@
         "primary_isbn10": "None",
         "publisher": "Penguin Group",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2011-04-10"
-        ],
-        "pages": "384"
+        "dates": ["2011-04-10"]
       },
       {
         "title": "SIX YEARS",
@@ -3322,9 +2468,7 @@
         "genre": "Suspense/Thriller",
         "pages": "464",
         "book_count": 1,
-        "dates": [
-          "2013-04-07"
-        ]
+        "dates": ["2013-04-07"]
       },
       {
         "title": "MISSING YOU",
@@ -3335,9 +2479,7 @@
         "genre": "Suspense/Thriller",
         "pages": "480",
         "book_count": 1,
-        "dates": [
-          "2014-04-06"
-        ]
+        "dates": ["2014-04-06"]
       },
       {
         "title": "FOOL ME ONCE",
@@ -3348,10 +2490,7 @@
         "genre": "Suspense/Thriller",
         "pages": "400",
         "book_count": 2,
-        "dates": [
-          "2016-04-10",
-          "2016-04-17"
-        ]
+        "dates": ["2016-04-10", "2016-04-17"]
       },
       {
         "title": "THE BOY FROM THE WOODS",
@@ -3359,12 +2498,8 @@
         "primary_isbn10": "None",
         "publisher": "Grand Central",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2020-04-05"
-        ],
-        "pages": "416"
+        "dates": ["2020-04-05"]
       },
       {
         "title": "WIN",
@@ -3372,12 +2507,8 @@
         "primary_isbn10": "None",
         "publisher": "Grand Central",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2021-04-04"
-        ],
-        "pages": "384"
+        "dates": ["2021-04-04"]
       },
       {
         "title": "THE MATCH",
@@ -3385,16 +2516,8 @@
         "primary_isbn10": "1538748339",
         "publisher": "Grand Central",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
-        "series": [
-          "THE BOY FROM THE WOODS",
-          "THE MATCH"
-        ],
         "book_count": 1,
-        "dates": [
-          "2022-04-03"
-        ],
-        "pages": "528"
+        "dates": ["2022-04-03"]
       },
       {
         "title": "I WILL FIND YOU",
@@ -3402,12 +2525,8 @@
         "primary_isbn10": "1538748401",
         "publisher": "Grand Central",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2023-04-02"
-        ],
-        "pages": "336"
+        "dates": ["2023-04-02"]
       }
     ],
     "count": 9,
@@ -3425,22 +2544,8 @@
         "primary_isbn10": "",
         "publisher": "Minotaur",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE LONG WAY HOME",
-          "A GREAT RECKONING",
-          "GLASS HOUSES",
-          "KINGDOM OF THE BLIND",
-          "A BETTER MAN",
-          "ALL THE DEVILS ARE HERE",
-          "THE MADNESS OF CROWDS",
-          "A WORLD OF CURIOSITIES"
-        ],
         "book_count": 1,
-        "dates": [
-          "2014-09-14"
-        ],
-        "pages": "400"
+        "dates": ["2014-09-14"]
       },
       {
         "title": "A GREAT RECKONING",
@@ -3448,22 +2553,8 @@
         "primary_isbn10": "1250022126",
         "publisher": "Minotaur",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE LONG WAY HOME",
-          "A GREAT RECKONING",
-          "GLASS HOUSES",
-          "KINGDOM OF THE BLIND",
-          "A BETTER MAN",
-          "ALL THE DEVILS ARE HERE",
-          "THE MADNESS OF CROWDS",
-          "A WORLD OF CURIOSITIES"
-        ],
         "book_count": 1,
-        "dates": [
-          "2016-09-18"
-        ],
-        "pages": "592"
+        "dates": ["2016-09-18"]
       },
       {
         "title": "GLASS HOUSES",
@@ -3471,22 +2562,8 @@
         "primary_isbn10": "146687368X",
         "publisher": "Minotaur",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE LONG WAY HOME",
-          "A GREAT RECKONING",
-          "GLASS HOUSES",
-          "KINGDOM OF THE BLIND",
-          "A BETTER MAN",
-          "ALL THE DEVILS ARE HERE",
-          "THE MADNESS OF CROWDS",
-          "A WORLD OF CURIOSITIES"
-        ],
         "book_count": 1,
-        "dates": [
-          "2017-09-17"
-        ],
-        "pages": "400"
+        "dates": ["2017-09-17"]
       },
       {
         "title": "KINGDOM OF THE BLIND",
@@ -3494,22 +2571,8 @@
         "primary_isbn10": "1466873698",
         "publisher": "Minotaur",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE LONG WAY HOME",
-          "A GREAT RECKONING",
-          "GLASS HOUSES",
-          "KINGDOM OF THE BLIND",
-          "A BETTER MAN",
-          "ALL THE DEVILS ARE HERE",
-          "THE MADNESS OF CROWDS",
-          "A WORLD OF CURIOSITIES"
-        ],
         "book_count": 1,
-        "dates": [
-          "2018-12-16"
-        ],
-        "pages": "400"
+        "dates": ["2018-12-16"]
       },
       {
         "title": "A BETTER MAN",
@@ -3517,22 +2580,8 @@
         "primary_isbn10": "None",
         "publisher": "Minotaur",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE LONG WAY HOME",
-          "A GREAT RECKONING",
-          "GLASS HOUSES",
-          "KINGDOM OF THE BLIND",
-          "A BETTER MAN",
-          "ALL THE DEVILS ARE HERE",
-          "THE MADNESS OF CROWDS",
-          "A WORLD OF CURIOSITIES"
-        ],
         "book_count": 1,
-        "dates": [
-          "2019-09-15"
-        ],
-        "pages": "448"
+        "dates": ["2019-09-15"]
       },
       {
         "title": "ALL THE DEVILS ARE HERE",
@@ -3540,22 +2589,8 @@
         "primary_isbn10": "1250145252",
         "publisher": "Minotaur",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE LONG WAY HOME",
-          "A GREAT RECKONING",
-          "GLASS HOUSES",
-          "KINGDOM OF THE BLIND",
-          "A BETTER MAN",
-          "ALL THE DEVILS ARE HERE",
-          "THE MADNESS OF CROWDS",
-          "A WORLD OF CURIOSITIES"
-        ],
         "book_count": 1,
-        "dates": [
-          "2020-09-20"
-        ],
-        "pages": "448"
+        "dates": ["2020-09-20"]
       },
       {
         "title": "THE MADNESS OF CROWDS",
@@ -3563,35 +2598,17 @@
         "primary_isbn10": "1250145287",
         "publisher": "Minotaur",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE LONG WAY HOME",
-          "A GREAT RECKONING",
-          "GLASS HOUSES",
-          "KINGDOM OF THE BLIND",
-          "A BETTER MAN",
-          "ALL THE DEVILS ARE HERE",
-          "THE MADNESS OF CROWDS",
-          "A WORLD OF CURIOSITIES"
-        ],
         "book_count": 1,
-        "dates": [
-          "2021-09-12"
-        ],
-        "pages": "448"
+        "dates": ["2021-09-12"]
       },
       {
         "title": "STATE OF TERROR",
         "author": "Hillary Rodham Clinton and Louise Penny",
         "primary_isbn10": "198217367X",
-        "publisher": "St. Martin's'",
+        "publisher": "Simon & Schuster, St. Martin\u2019s",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
         "book_count": 1,
-        "dates": [
-          "2021-10-31"
-        ],
-        "pages": "512"
+        "dates": ["2021-10-31"]
       },
       {
         "title": "A WORLD OF CURIOSITIES",
@@ -3599,22 +2616,8 @@
         "primary_isbn10": "1250145317",
         "publisher": "Minotaur",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE LONG WAY HOME",
-          "A GREAT RECKONING",
-          "GLASS HOUSES",
-          "KINGDOM OF THE BLIND",
-          "A BETTER MAN",
-          "ALL THE DEVILS ARE HERE",
-          "THE MADNESS OF CROWDS",
-          "A WORLD OF CURIOSITIES"
-        ],
         "book_count": 1,
-        "dates": [
-          "2022-12-18"
-        ],
-        "pages": "394"
+        "dates": ["2022-12-18"]
       }
     ],
     "count": 9,
@@ -3653,11 +2656,7 @@
         "genre": "Fantasy",
         "pages": "640",
         "book_count": 3,
-        "dates": [
-          "2023-11-26",
-          "2023-12-03",
-          "2023-12-10"
-        ]
+        "dates": ["2023-11-26", "2023-12-03", "2023-12-10"]
       }
     ],
     "count": 9,
@@ -3695,7 +2694,7 @@
     "birth_year": 1969,
     "university": "Carleton University",
     "major": "English",
-    "career": "Technical Writer"
+    "career": "Technical Writing"
   },
   "Bill Clinton": {
     "books": [
@@ -3726,10 +2725,7 @@
         "genre": "Suspense/Thriller",
         "pages": "608",
         "book_count": 2,
-        "dates": [
-          "2021-06-27",
-          "2021-07-04"
-        ]
+        "dates": ["2021-06-27", "2021-07-04"]
       }
     ],
     "count": 8,
@@ -3750,11 +2746,7 @@
         "genre": "Suspense/Thriller",
         "pages": "448",
         "book_count": 3,
-        "dates": [
-          "2011-02-13",
-          "2011-02-20",
-          "2011-02-27"
-        ]
+        "dates": ["2011-02-13", "2011-02-20", "2011-02-27"]
       },
       {
         "title": "NOW YOU SEE HER",
@@ -3762,12 +2754,8 @@
         "primary_isbn10": "031612723X",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
-        "pages": 384,
         "book_count": 1,
-        "dates": [
-          "2011-07-17"
-        ]
+        "dates": ["2011-07-17"]
       },
       {
         "title": "GONE",
@@ -3775,12 +2763,8 @@
         "primary_isbn10": "031621101X",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
-        "pages": 400,
         "book_count": 1,
-        "dates": [
-          "2013-10-20"
-        ]
+        "dates": ["2013-10-20"]
       },
       {
         "title": "ALERT",
@@ -3788,12 +2772,8 @@
         "primary_isbn10": "0316407186",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
-        "pages": 384,
         "book_count": 1,
-        "dates": [
-          "2015-08-23"
-        ]
+        "dates": ["2015-08-23"]
       },
       {
         "title": "BULLSEYE",
@@ -3801,12 +2781,8 @@
         "primary_isbn10": "0316284556",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Suspense/Thriller",
         "book_count": 1,
-        "dates": [
-          "2016-08-21"
-        ],
-        "pages": "302"
+        "dates": ["2016-08-21"]
       }
     ],
     "count": 7,
@@ -3873,9 +2849,7 @@
         "genre": "Mystery/Crime",
         "pages": "656",
         "book_count": 1,
-        "dates": [
-          "2018-10-07"
-        ]
+        "dates": ["2018-10-07"]
       },
       {
         "title": "THE RUNNING GRAVE",
@@ -3883,12 +2857,8 @@
         "primary_isbn10": "0316572136",
         "publisher": "Mulholland",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "pages": 960,
         "book_count": 1,
-        "dates": [
-          "2023-10-15"
-        ]
+        "dates": ["2023-10-15"]
       }
     ],
     "count": 7,
@@ -3935,21 +2905,8 @@
         "primary_isbn10": "0062320246",
         "publisher": "Harper",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE BLACK WIDOW",
-          "HOUSE OF SPIES",
-          "THE OTHER WOMAN",
-          "THE NEW GIRL",
-          "THE ORDER",
-          "THE CELLIST",
-          "THE COLLECTOR"
-        ],
         "book_count": 1,
-        "dates": [
-          "2016-07-31"
-        ],
-        "pages": "592"
+        "dates": ["2016-07-31"]
       },
       {
         "title": "HOUSE OF SPIES",
@@ -3957,21 +2914,8 @@
         "primary_isbn10": "0062354361",
         "publisher": "Harper",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE BLACK WIDOW",
-          "HOUSE OF SPIES",
-          "THE OTHER WOMAN",
-          "THE NEW GIRL",
-          "THE ORDER",
-          "THE CELLIST",
-          "THE COLLECTOR"
-        ],
         "book_count": 1,
-        "dates": [
-          "2017-07-30"
-        ],
-        "pages": "544"
+        "dates": ["2017-07-30"]
       },
       {
         "title": "THE OTHER WOMAN",
@@ -3979,21 +2923,8 @@
         "primary_isbn10": "0062834886",
         "publisher": "HarperCollins",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE BLACK WIDOW",
-          "HOUSE OF SPIES",
-          "THE OTHER WOMAN",
-          "THE NEW GIRL",
-          "THE ORDER",
-          "THE CELLIST",
-          "THE COLLECTOR"
-        ],
         "book_count": 1,
-        "dates": [
-          "2018-08-05"
-        ],
-        "pages": "304"
+        "dates": ["2018-08-05"]
       },
       {
         "title": "THE NEW GIRL",
@@ -4001,21 +2932,8 @@
         "primary_isbn10": "0062834894",
         "publisher": "Harper",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE BLACK WIDOW",
-          "HOUSE OF SPIES",
-          "THE OTHER WOMAN",
-          "THE NEW GIRL",
-          "THE ORDER",
-          "THE CELLIST",
-          "THE COLLECTOR"
-        ],
         "book_count": 1,
-        "dates": [
-          "2019-08-04"
-        ],
-        "pages": "368"
+        "dates": ["2019-08-04"]
       },
       {
         "title": "THE ORDER",
@@ -4023,21 +2941,8 @@
         "primary_isbn10": "0062834908",
         "publisher": "Harper",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE BLACK WIDOW",
-          "HOUSE OF SPIES",
-          "THE OTHER WOMAN",
-          "THE NEW GIRL",
-          "THE ORDER",
-          "THE CELLIST",
-          "THE COLLECTOR"
-        ],
         "book_count": 1,
-        "dates": [
-          "2020-08-02"
-        ],
-        "pages": "464"
+        "dates": ["2020-08-02"]
       },
       {
         "title": "THE CELLIST",
@@ -4045,21 +2950,8 @@
         "primary_isbn10": "0062834916",
         "publisher": "HarperCollins",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE BLACK WIDOW",
-          "HOUSE OF SPIES",
-          "THE OTHER WOMAN",
-          "THE NEW GIRL",
-          "THE ORDER",
-          "THE CELLIST",
-          "THE COLLECTOR"
-        ],
         "book_count": 1,
-        "dates": [
-          "2021-08-01"
-        ],
-        "pages": "592"
+        "dates": ["2021-08-01"]
       },
       {
         "title": "THE COLLECTOR",
@@ -4067,21 +2959,8 @@
         "primary_isbn10": "0062834932",
         "publisher": "Harper",
         "weeks_on_list": 1,
-        "genre": "Mystery/Crime",
-        "series": [
-          "THE BLACK WIDOW",
-          "HOUSE OF SPIES",
-          "THE OTHER WOMAN",
-          "THE NEW GIRL",
-          "THE ORDER",
-          "THE CELLIST",
-          "THE COLLECTOR"
-        ],
         "book_count": 1,
-        "dates": [
-          "2023-08-06"
-        ],
-        "pages": "320"
+        "dates": ["2023-08-06"]
       }
     ],
     "count": 7,
@@ -4099,12 +2978,8 @@
         "primary_isbn10": "0316420018",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Historical Fiction",
         "book_count": 1,
-        "dates": [
-          "2019-07-07"
-        ],
-        "pages": "448"
+        "dates": ["2019-07-07"]
       },
       {
         "title": "28 SUMMERS",
@@ -4115,10 +2990,7 @@
         "genre": "Romance",
         "pages": "448",
         "book_count": 2,
-        "dates": [
-          "2020-07-05",
-          "2020-07-12"
-        ]
+        "dates": ["2020-07-05", "2020-07-12"]
       },
       {
         "title": "TROUBLES IN PARADISE",
@@ -4126,12 +2998,8 @@
         "primary_isbn10": "0316435619",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Romance",
         "book_count": 1,
-        "dates": [
-          "2020-10-25"
-        ],
-        "pages": "368"
+        "dates": ["2020-10-25"]
       },
       {
         "title": "THE HOTEL NANTUCKET",
@@ -4139,12 +3007,8 @@
         "primary_isbn10": "0316258679",
         "publisher": "Little, Brown",
         "weeks_on_list": 1,
-        "genre": "Romance",
         "book_count": 1,
-        "dates": [
-          "2022-07-03"
-        ],
-        "pages": "416"
+        "dates": ["2022-07-03"]
       },
       {
         "title": "THE FIVE-STAR WEEKEND",
@@ -4155,10 +3019,7 @@
         "genre": "Romance",
         "pages": "512",
         "book_count": 2,
-        "dates": [
-          "2023-07-02",
-          "2023-07-09"
-        ]
+        "dates": ["2023-07-02", "2023-07-09"]
       }
     ],
     "count": 7,
@@ -4179,9 +3040,7 @@
         "genre": "Romance",
         "pages": "416",
         "book_count": 1,
-        "dates": [
-          "2016-02-07"
-        ]
+        "dates": ["2016-02-07"]
       },
       {
         "title": "THE MISTRESS",
@@ -4189,12 +3048,8 @@
         "primary_isbn10": "0425285359",
         "publisher": "Delacorte",
         "weeks_on_list": 1,
-        "genre": "Romance",
         "book_count": 1,
-        "dates": [
-          "2017-01-22"
-        ],
-        "pages": "272"
+        "dates": ["2017-01-22"]
       },
       {
         "title": "ACCIDENTAL HEROES",
@@ -4202,12 +3057,8 @@
         "primary_isbn10": "110188410X",
         "publisher": "Delacorte",
         "weeks_on_list": 1,
-        "genre": "Romance",
         "book_count": 1,
-        "dates": [
-          "2018-04-08"
-        ],
-        "pages": "320"
+        "dates": ["2018-04-08"]
       },
       {
         "title": "THE CAST",
@@ -4218,9 +3069,7 @@
         "genre": "Romance",
         "pages": "352",
         "book_count": 1,
-        "dates": [
-          "2018-06-03"
-        ]
+        "dates": ["2018-06-03"]
       },
       {
         "title": "TURNING POINT",
@@ -4228,12 +3077,8 @@
         "primary_isbn10": "0399179364",
         "publisher": "Delacorte",
         "weeks_on_list": 1,
-        "genre": "Romance",
         "book_count": 1,
-        "dates": [
-          "2019-01-27"
-        ],
-        "pages": "336"
+        "dates": ["2019-01-27"]
       },
       {
         "title": "ROYAL",
@@ -4244,9 +3089,7 @@
         "genre": "Romance",
         "pages": "384",
         "book_count": 1,
-        "dates": [
-          "2020-09-06"
-        ]
+        "dates": ["2020-09-06"]
       }
     ],
     "count": 6,

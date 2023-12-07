@@ -3,6 +3,7 @@ let data;
 let nodes = {};
 let links = {};
 let books = {};
+let shelves = {};
 let largePublishers = {
   "Hachette Book Group": [
     "Little, Brown",
@@ -52,11 +53,11 @@ let largePublishers = {
   ],
 };
 let largePublisherHues = {
-  "Hachette Book Group": [201, 60, 80],
   "Penguin Random House": [12, 96, 80],
-  "Harper Collins": [15, 96, 80],
-  "Simon & Schuster": [206, 63, 54],
+  "Hachette Book Group": [201, 60, 80],
   "Macmillan Publishers": [0, 99, 70],
+  "Simon & Schuster": [206, 63, 54],
+  "Harper Collins": [0, 96, 80],
   "Other Publishers": [327, 50, 85],
 };
 let largeGenres = {
@@ -65,8 +66,8 @@ let largeGenres = {
   Romance: [341, 80, 80],
   "Mystery/Crime": [12, 90, 35],
   "Other Genres": [20, 30, 86],
-  Fantasy: [341, 80, 80],
-  Horror: [341, 80, 80],
+  // Fantasy: [341, 80, 80],
+  // Horror: [341, 80, 80],
 };
 let majors = {
   English: [220, 70, 85],
@@ -74,7 +75,7 @@ let majors = {
   "Other Majors": [20, 30, 87],
   "Humanities and Social Sciences": [350, 80, 40],
   "Political Science": [225, 74, 30],
-  Journalism: [220, 70, 80],
+  Journalism: [235, 70, 80],
   Art: [341, 75, 84],
   // Zoology: [220, 70, 85],
   // Law: [225, 74, 30],
@@ -83,11 +84,53 @@ let bookTokHues = {
   "not #BookTok": [201, 60, 80],
   "#BookTok": [0, 99, 70],
 };
+// let careerGroups = {
+//   Advertising: ["Advertising"],
+//   "Job unrelated to writing": [
+//     "Temp Jobs",
+//     "Lineman",
+//     "Politician",
+//     "Travel Guide",
+//     "Teacher",
+//     "Counselor",
+//     "Lawyer",
+//     "Zoologist",
+//   ],
+//   Media: [
+//     "Magazine publishing and marketing",
+//     "Presentation Director",
+//     "Studio Assistant",
+//   ],
+//   Journalist: ["Journalist"],
+// };
+const careerGroups = {
+  Advertising: ["Advertising"],
+  // "Fiction Writing": ["Author", "Novelist", "Poet"],
+  "NonFiction Writing": ["Journalist", "Technical Writer", "Biographer"],
+  "Law and Politics": ["Lawyer", "Politician"],
+  Media: [
+    "Magazine publishing and marketing",
+    "Presentation Director",
+    "Studio Assistant",
+  ],
+  Education: ["Teacher", "Counselor"],
+  // Science: ["Zoologist"],
+  Miscellaneous: [
+    "Temp Jobs",
+    "Lineman",
+    "Travel Guide",
+    "Zoologist",
+    "None",
+    // "Magazine publishing and marketing",
+    // "Presentation Director",
+    // "Studio Assistant",
+  ],
+};
 
 let nodeXOffsets = {};
-let nodeHeight = 2;
+let nodeHeight = 13;
 let linkOffset = 4;
-let spaceBetween = 15;
+let spaceBetween = 12;
 let sankey_y = 100;
 let sankey_x = 550;
 let bookshelf_x = 250;
@@ -101,40 +144,22 @@ function preload() {
 const hueDeterminant = "publisher";
 
 function setup() {
+  colorMode(HSL);
+  strokeCap(SQUARE);
+  createCanvas(2200, 2200, SVG);
+
   getNode("James Patterson", "author");
   getNode("English", "major");
-  getNode("English", "major");
-  // let allGenres = {};
-  // Object.values(authors).forEach((author) => {
-  //   author.books.forEach((book) => {
-  //     const genre = book.genre || "None";
-  //     allGenres[genre] = (allGenres[genre] || 0) + 1;
-  //   });
-  // });
-  // for (let major in majors) {
-  //   for (let genre in allGenres) {
-  //     let haveBook;
-  //     for (let author in authors) {
-  //       authors[author]["books"].forEach((book) => {
-  //         let authorMajor =
-  //           authors[author]["major"] in majors
-  //             ? authors[author]["major"]
-  //             : "Other Majors";
+  for (let career in careerGroups) {
+    getNode(career, "career");
+  }
+  for (let genre in largeGenres) {
+    getNode(genre, "genre");
+  }
+  for (let publisher in largePublisherHues) {
+    getNode(publisher, "publisher");
+  }
 
-  //         if (authorMajor == major && book["genre"] == genre) {
-  //           haveBook = true;
-  //         }
-  //       });
-  //     }
-  //     if (haveBook) {
-  //       getNode(`${major}${genre}`, "genre");
-  //     }
-  //   }
-  // }
-  // getNode("Political Science", "major");
-  // getNode("Humanities and Social Sciences", "major");
-
-  console.log(authors);
   for (let author in authors) {
     if (!(authors[author]["major"] in majors)) {
       authors[author]["major"] = "Other Majors";
@@ -143,224 +168,152 @@ function setup() {
 
     let authorNode = getNode(author, "author");
     let majorNode = getNode(authors[author]["major"], "major");
-    for (let i = 0; i < 10; i++) {
-      getLink(authorNode, majorNode, hue);
-      authorNode.links++;
-      majorNode.links++;
+    getLink(authorNode, majorNode, hue);
+    authorNode.links++;
+    majorNode.links++;
+
+    let career = authors[author]["career"];
+    for (bigCategories in careerGroups) {
+      if (careerGroups[bigCategories].includes(career)) {
+        career = bigCategories;
+      }
     }
 
-    ///////genre
-    const genreCounts = {};
-    const genrePublisherCounts = {};
-    const totalBooks = authors[author]["books"].length;
-    authors[author]["books"].forEach((book) => {
-      let genre = book.genre || "None";
-      // if (!(genre in largeGenres)) {
-      //   genre = "Other Genres";
-      // }
-      let publisher = book.publisher || "Unknown";
-      for (bigFive in largePublishers) {
-        if (largePublishers[bigFive].includes(publisher)) {
-          publisher = bigFive;
-        }
-      }
-      if (!genrePublisherCounts[genre]) {
-        genrePublisherCounts[genre] = {};
-      }
-      genrePublisherCounts[genre][publisher] =
-        (genrePublisherCounts[genre][publisher] || 0) +
-        10 / authors[author]["books"].length;
+    let carrerNode = getNode(career, "career");
+    getLink(majorNode, carrerNode, hue);
+    carrerNode.links++;
 
-      genreCounts[publisher] =
-        (genreCounts[publisher] || 0) + 10 / authors[author]["books"].length;
-    });
-    Object.keys(genreCounts).forEach((genre) => {
-      genreCounts[genre] = Math.round(genreCounts[genre]);
-    });
-
-    const currentTotal = Object.values(genreCounts).reduce(
-      (sum, proportion) => sum + proportion,
-      0
-    );
-    const adjustment = 10 - currentTotal;
-    if (adjustment !== 0) {
-      const firstGenre = Object.keys(genreCounts)[0];
-      genreCounts[firstGenre] += adjustment;
+    let genre = authors[author]["books"][0]["genre"];
+    if (!(genre in largeGenres)) {
+      genre = "Other Genres";
     }
 
-    for (let genre in genreCounts) {
-      if (genreCounts[genre] < 1) {
-        continue;
+    let publisher = authors[author]["books"][0]["publisher"];
+    for (bigFive in largePublishers) {
+      if (largePublishers[bigFive].includes(publisher)) {
+        publisher = bigFive;
       }
-      let genreNode = getNode(`${genre}`, "genre");
-      // let genreNode = getNode(`${authors[author]["major"]}${genre}`, "genre");
-      for (let i = 0; i < genreCounts[genre]; i++) {
-        // hue = [0, 0, 0];
-        getLink(majorNode, genreNode, hue);
-        genreNode.links++;
-      }
-
-      // Object.keys(genrePublisherCounts[genre]).forEach((publisher) => {
-      //   genrePublisherCounts[genre][publisher] = Math.round(
-      //     (genrePublisherCounts[genre][publisher] * genreCounts[genre]) / 10
-      //   );
-      // });
-      // const currentTotal = Object.values(genrePublisherCounts[genre]).reduce(
-      //   (sum, proportion) => sum + proportion,
-      //   0
-      // );
-      // const adjustment = genreCounts[genre] - currentTotal;
-      // if (adjustment !== 0) {
-      //   const firstPublisher = Object.keys(genrePublisherCounts[genre])[0];
-      //   genrePublisherCounts[genre][firstPublisher] += adjustment;
-      // }
-      // for (let publisher in genrePublisherCounts[genre]) {
-      //   let publisherNode = getNode(publisher, "publisher");
-      //   for (let i = 0; i < genrePublisherCounts[genre][publisher]; i++) {
-      //     let publisherHue = largePublisherHues[publisher];
-      //     if (!(publisher in largePublisherHues)) {
-      //       publisherHue = largePublisherHues["Other Publishers"];
-      //     }
-      //     getLink(genreNode, publisherNode, publisherHue);
-      //     publisherNode.links++;
-      //   }
-      // }
-      // for (let publisher in genrePublisherCounts[genre]) {
-      //   let publisherNode = getNode(`${publisher}`, "publisher");
-      //   for (let i = 0; i < genrePublisherCounts[genre][publisher]; i++) {
-      //     let publisherHue = largePublisherHues[publisher];
-      //     if (!(publisher in largePublisherHues)) {
-      //       publisherHue = largePublisherHues["Other Publishers"];
-      //     }
-      //     getLink(genreNode, publisherNode, publisherHue);
-      //     publisherNode.links++;
-      //   }
-      // }
-      // let publisher = genreCounts[genre]["publisher"];
-      // for (bigFive in largePublishers) {
-      //   if (largePublishers[bigFive].includes(publisher)) {
-      //     publisher = bigFive;
-      //   }
-      // }
-
-      // let publisherNode = getNode(publisher, "publisher");
-      // getLink(genreNode, publisherNode, hue);
     }
-
-    ////// publisher
-    // const publisherCounts = {};
-    // authors[author]["books"].forEach((book) => {
-    //   let publisher = book.publisher || "None";
-    //   for (bigFive in largePublishers) {
-    //     if (largePublishers[bigFive].includes(publisher)) {
-    //       publisher = bigFive;
-    //     }
-    //   }
-
-    //   publisherCounts[publisher] = (publisherCounts[publisher] || 0) + 1;
-    // });
-    // const publisherProportions = {};
-    // Object.entries(publisherCounts).forEach(([publisher, count]) => {
-    //   publisherProportions[publisher] = Math.round(
-    //     (count / authors[author]["books"].length) * 5
-    //   );
-    // });
-    // for (let publisher in publisherProportions) {
-    //   if (publisherProportions[publisher] < 1) {
-    //     continue;
-    //   }
-    //   console.log(author, publisherProportions, publisher);
-    //   let publisherNode = getNode(publisher, "publisher");
-    //   for (let i = 0; i < publisherProportions[publisher]; i++) {
-    //     getLink(genreNode, publisherNode, hue);
-    //     publisherNode.links++;
-    //   }
+    if (!(publisher in largePublisherHues)) {
+      publisher = "Other Publishers";
+    }
+    // let genreHue = largeGenres[genre];
+    // if (!(genre in largeGenres)) {
+    //   genreHue = largeGenres["Other Genres"];
     // }
+    let publisherHue = largePublisherHues[publisher];
+    if (!(publisher in largePublisherHues)) {
+      publisherHue = largePublisherHues["Other Publishers"];
+    }
+
+    let genreNode = getNode(genre, "genre");
+    getLink(carrerNode, genreNode, publisherHue);
+    genreNode.links++;
+
+    let publisherNode = getNode(publisher, "publisher");
+    getLink(genreNode, publisherNode, publisherHue);
+    publisherNode.links++;
+
+    getShelf(author, authors[author], authorNode, hue);
+    // console.log(shelves);
   }
-
-  colorMode(HSL);
-  strokeCap(SQUARE);
-  createCanvas(2200, 2200, SVG);
-  let startDate = new Date("2011-02");
-  let endDate = new Date("2023-12");
-
-  // getNode("2011", "year");
-  // for (let genre in largeGenres) {
-  //   getNode(genre, "genre");
-  // }
-  // for (let publisher in largePublishers) {
-  //   getNode(publisher, "publisher");
-  // }
-
-  // // getNode("Romance", "genre");
-  // // getNode("Mystery/Crime", "genre");
-  // // getNode("Historical Fiction", "genre");
-  // // getNode("Fantasy", "genre");
-
-  // // Parse the CSV data and create nodes and links
-  // for (let row of data.rows) {
-  //   let year = row.get("date").split("-")[0];
-  //   let title = row.get("title");
-  //   let pages = parseInt(row.get("pages"));
-  //   let weeksOnList = parseInt(row.get("weeks_on_list"));
-  //   let genre = row.get("genre");
-  //   let publisher = row.get("publisher");
-  //   let author = row.get("author");
-  //   let bookTok = bookTokAuthors.includes(author) ? "#BookTok" : "not #BookTok";
-
-  //   // let currentDate = new Date(year);
-  //   // let hue = [map(currentDate, startDate, endDate, 0, 250), 40, 80];
-  //   let currentDate = parseInt(year);
-  //   let hue = [map(currentDate, 2011, 2023, 0, 250), 50, 85];
-
-  //   for (bigFive in largePublishers) {
-  //     if (largePublishers[bigFive].includes(publisher)) {
-  //       publisher = bigFive;
-  //     }
-  //   }
-  //   if (!(publisher in largePublishers)) {
-  //     publisher = "Other Publishers";
-  //   }
-  //   if (!(genre in largeGenres)) {
-  //     genre = "Other Genres";
-  //   }
-
-  //   switch (hueDeterminant) {
-  //     case "genre":
-  //       hue = largeGenres[genre];
-  //       break;
-  //     case "publisher":
-  //       hue = largePublisherHues[publisher];
-  //   }
-
-  //   let yearNode = getNode(year, "year", title);
-  //   let genreNode = getNode(genre, "genre");
-  //   let publisherNode = getNode(publisher, "publisher");
-  //   let authorNode = getNode(author, "author");
-  //   // let bookTokNode = getNode(bookTok, "bookTok");
-
-  //   getLink(yearNode, genreNode, hue);
-  //   getLink(genreNode, publisherNode, hue);
-  //   getLink(publisherNode, authorNode, hue);
-  //   // getLink(authorNode, bookTokNode, bookTokHues[bookTok]);
-  //   // getLink(publisherNode, bookTokNode, bookTokHues[bookTok]);
-
-  //   yearNode.links++;
-  //   genreNode.links++;
-  //   publisherNode.links++;
-  //   authorNode.links++;
-  //   // bookTokNode.links++;
-
-  //   getBook(title, author, pages, weeksOnList, hue, yearNode, bookTok);
-  // }
 
   // Update link ordering
   for (let type in links) {
     let [sourceType, targetType] = type.split("-");
-    if (sourceType == "major") {
-      continue;
+    // if (sourceType == "major") {
+    //   continue;
+    // }
+    let names;
+    let careerNames;
+    let genreNames;
+    switch (sourceType) {
+      case "major":
+        names = Object.keys(majors);
+        careerNames = Object.keys(careerGroups);
+        links[type].sort((a, b) => {
+          let chk = names.indexOf(a.source.name) - names.indexOf(b.source.name);
+          if (chk == 0) {
+            chk =
+              careerNames.indexOf(a.target.name) -
+              careerNames.indexOf(b.target.name);
+          }
+          return chk;
+        });
+        break;
+      case "career":
+        names = Object.keys(largePublisherHues);
+        careerNames = Object.keys(careerGroups);
+        genreNames = Object.keys(largeGenres);
+        links[type].sort((a, b) => {
+          let aPublisher;
+          let bPublisher;
+          for (let publisher in largePublisherHues) {
+            if (
+              a.hue[0] === largePublisherHues[publisher][0] &&
+              a.hue[1] === largePublisherHues[publisher][1]
+            ) {
+              aPublisher = publisher;
+            }
+            if (
+              b.hue[0] === largePublisherHues[publisher][0] &&
+              b.hue[1] === largePublisherHues[publisher][1]
+            ) {
+              bPublisher = publisher;
+            }
+          }
+
+          let chk = names.indexOf(aPublisher) - names.indexOf(bPublisher);
+          if (chk == 0) {
+            chk =
+              careerNames.indexOf(a.source.name) -
+              careerNames.indexOf(b.source.name);
+
+            if (chk == 0) {
+              chk =
+                genreNames.indexOf(a.target.name) -
+                genreNames.indexOf(b.target.name);
+            }
+          }
+          return chk;
+        });
+        break;
+      case "genre":
+        names = Object.keys(largePublisherHues);
+        careerNames = Object.keys(careerGroups);
+        genreNames = Object.keys(largeGenres);
+        links[type].sort((a, b) => {
+          let aCareer;
+          let bCareer;
+          for (let career in careerGroups) {
+            if (
+              a.hue[0] === careerGroups[career][0] &&
+              a.hue[1] === careerGroups[career][1]
+            ) {
+              aCareer = career;
+            }
+            if (
+              b.hue[0] === careerGroups[career][0] &&
+              b.hue[1] === careerGroups[career][1]
+            ) {
+              bCareer = career;
+            }
+          }
+          let chk = names.indexOf(a.target.name) - names.indexOf(b.target.name);
+          if (chk == 0) {
+            chk =
+              genreNames.indexOf(a.source.name) -
+              genreNames.indexOf(b.source.name);
+            if (chk == 0) {
+              chk = careerNames.indexOf(aCareer) - careerNames.indexOf(bCareer);
+            }
+          }
+          return chk;
+        });
+        break;
+      default:
+        names = Object.keys(majors);
     }
-    links[type].sort((a, b) => b.count - a.count);
   }
   for (let type in links) {
     let [sourceType, targetType] = type.split("-");
@@ -411,7 +364,7 @@ function setup() {
 function draw() {
   background("#FFFCF6");
   strokeCap(SQUARE);
-  // textAlign(LEFT, TOP);
+  textAlign(LEFT, CENTER);
   // textFont(titleFont, 50);
   // text("Sold Out: What Makes a Bestseller", 120, 120);
 
@@ -430,9 +383,11 @@ function draw() {
   }
 
   // Draw books
-  for (let year of Object.keys(books)) {
-    for (let book of books[year]) {
-      book.display();
-    }
+  for (let author of Object.keys(shelves)) {
+    shelves[author].display();
   }
+}
+
+function mousePressed() {
+  save("mySVG.svg");
 }

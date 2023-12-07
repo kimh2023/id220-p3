@@ -89,16 +89,16 @@ class Link {
     // Draw a Bezier curve to represent the flow
 
     stroke(...this.hue, 0.8);
-    strokeWeight(strokeW);
+    strokeWeight(strokeW + 0.4);
     noFill();
     bezier(
-      this.source.x + this.source.width,
+      this.source.x + this.source.width + 4,
       sourceY,
-      this.source.x + this.source.width + 160,
+      this.source.x + this.source.width + 180,
       sourceY,
-      this.target.x - 160,
+      this.target.x - 180,
       targetY,
-      this.target.x,
+      this.target.x - 4,
       targetY
     );
   }

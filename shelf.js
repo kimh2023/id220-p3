@@ -81,7 +81,7 @@ class Shelf {
   displayQuill() {
     let normalizedColor = [this.hue[0], 60, this.hue[2]];
     let rectangleSize = 10;
-    let startX = 380;
+    let startX = 390;
     let startY = 1420;
     let height = 40;
     let centerY = startY + height / 2;

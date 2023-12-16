@@ -123,12 +123,12 @@ let nodeXOffsets = {};
 let nodeHeight = 15;
 let linkOffset = 4;
 let spaceBetween = 14;
-const sankey_x = 410;
-const sankey_y = 270;
+const sankey_x = 420;
+const sankey_y = 265;
 const canvas_x = 2100;
-const canvas_y = 1550;
+const canvas_y = 1560;
 const shelf_width = 310;
-const linkOpacity = 0.65;
+const linkOpacity = 0.75;
 const HTRSpace = 190;
 
 function preload() {
@@ -359,15 +359,15 @@ function draw() {
   noStroke();
   textAlign(RIGHT, TOP);
   textFont(titleFont, 120);
-  text("The New York Times", canvas_x - 135, 80);
+  text("The New York Times", canvas_x - 145, 80);
   textFont(subtitleFont, 28);
-  text("#1 BESTSELLING AUTHORS, RANKED", canvas_x - 100, 250);
+  text("#1 BESTSELLING AUTHORS, RANKED", canvas_x - 110, 250);
   textAlign(LEFT, TOP);
   textFont(bodyFontLight, 20);
   text(
     "Crafting a bestseller is difficult, but there’s more — becoming a #1 New York Times Best-\nselling author is even more of a challenge. I wondered about the life paths that would \nlead to this extraordinary accomplishment. Here, I looked at 30 authors who have been \nranked #1 the most often on the Combined Print & E-Book Fiction list",
-    100,
-    115
+    110,
+    109
   );
 
   // Draw links
@@ -391,15 +391,15 @@ function draw() {
       // divider
       stroke(0, 0, 0);
       drawingContext.setLineDash();
-      line(center_x - 106, 1068, center_x + 106, 1068);
+      line(center_x - 106, 1073, center_x + 106, 1073);
 
       // text
       noStroke();
       textAlign(CENTER, TOP);
       textFont(bodyFontBold, 18);
-      text(nodeTypeExplanations[nodeType][0], center_x, 1040);
+      text(nodeTypeExplanations[nodeType][0], center_x, 1044);
       textFont(bodyFontLight, 13);
-      text(nodeTypeExplanations[nodeType][1], center_x, 1080);
+      text(nodeTypeExplanations[nodeType][1], center_x, 1084);
     }
     for (let node of nodes[nodeType]) {
       node.display();
@@ -431,11 +431,11 @@ function howToRead() {
   noStroke();
   textAlign(LEFT, TOP);
   textFont(bodyFontBold, 29);
-  text("HOW TO READ", 100, 1248);
+  text("HOW TO READ", 110, 1248);
 
-  const common_y = 1298;
+  const common_y = 1295;
   textFont(bodyFontBold, 18);
-  text("Author’s Fountain Pen", 100, common_y);
+  text("Author’s Fountain Pen", 110, common_y);
   text("University Major", 790, common_y);
   text("Publisher", 1460, common_y);
 
@@ -448,9 +448,9 @@ function howToRead() {
       i = 0;
     }
     fill(...majors[major], linkOpacity);
-    rect(x, 1334 + i * 30, 66, 17);
+    rect(x, 1337 + i * 30, 66, 17);
     fill(0, 0, 0);
-    text(major, x + 76, 1334 + i * 30 + 2);
+    text(major, x + 76, 1337 + i * 30 + 2);
     i++;
   }
 
@@ -462,9 +462,9 @@ function howToRead() {
       i = 0;
     }
     fill(...largePublisherHues[publisher], linkOpacity);
-    rect(x, 1334 + i * 30, 66, 17);
+    rect(x, 1337 + i * 30, 66, 17);
     fill(0, 0, 0);
-    text(publisher, x + 76, 1334 + i * 30 + 2);
+    text(publisher, x + 76, 1337 + i * 30 + 2);
     i++;
   }
 
@@ -473,7 +473,7 @@ function howToRead() {
   // const currentShelf = shelves["Janet Evanovich"];
   const bestSellerX = 178;
   const authorAgeX = 310;
-  const ageY = 1490;
+  const ageY = 1480;
   fill(0, 0, 60);
   noStroke();
   textAlign(CENTER, CENTER);
@@ -481,19 +481,19 @@ function howToRead() {
   text("#1 bestsellers", bestSellerX, 1345);
   text("author’s age when reaching #1", authorAgeX, 1370);
   text("80", 140 - 20, ageY);
-  text("40", 380 - 10 + 20, ageY);
-  text("author’s age", (140 + 380 - 10) / 2, ageY + 17);
+  text("40", 390 - 10 + 20, ageY);
+  text("author’s age", (140 + 390 - 10) / 2, ageY + 17);
 
   text(
     `log of the number of weeks
   the book was in #1`,
-    380 + HTRSpace - 10,
+    390 + HTRSpace - 10,
     1420 - 55
   );
   text(
     `radius of the circle is
     number of pages in the book`,
-    380 + HTRSpace,
+    390 + HTRSpace,
     1420 + 40 / 2 + 60
   );
 
@@ -506,12 +506,12 @@ function howToRead() {
   line(bestSellerX + 65, 1395, bestSellerX + 65, 1410);
 
   line(authorAgeX, 1370 + 15, authorAgeX, 1430);
-  line(380 + HTRSpace, 1420 + 40 / 2, 380 + HTRSpace, 1420 + 40 / 2 + 40);
-  line(380 + HTRSpace - 10, 1420 - 2, 380 + HTRSpace - 10, 1420 - 28);
+  line(390 + HTRSpace, 1420 + 40 / 2, 390 + HTRSpace, 1420 + 40 / 2 + 40);
+  line(390 + HTRSpace - 10, 1420 - 2, 390 + HTRSpace - 10, 1420 - 28);
 
   drawingContext.setLineDash();
   line(authorAgeX - 55, 1430, authorAgeX + 55, 1430);
-  line(HTRSpace, ageY, 380 - 10, ageY);
+  line(140, ageY, 390 - 10, ageY);
 
   currentShelf.displayQuill(); // place here so text formatting is applied
 }

@@ -470,10 +470,11 @@ function howToRead() {
 
   // Example Quill
   const currentShelf = shelves["Kristin Hannah"];
+  const shelfX = 1410;
   // const currentShelf = shelves["Janet Evanovich"];
-  const bestSellerX = 178;
-  const authorAgeX = 310;
-  const ageY = 1480;
+  const bestSellerX = 188;
+  const authorAgeX = 320;
+  const ageY = shelfX + 60;
   fill(0, 0, 60);
   noStroke();
   textAlign(CENTER, CENTER);
@@ -488,29 +489,29 @@ function howToRead() {
     `log of the number of weeks
   the book was in #1`,
     390 + HTRSpace - 10,
-    1420 - 55
+    shelfX - 55
   );
   text(
     `radius of the circle is
     number of pages in the book`,
     390 + HTRSpace,
-    1420 + 40 / 2 + 60
+    shelfX + 40 / 2 + 60
   );
 
   drawingContext.setLineDash([5, 5]);
   stroke(0, 0, 70);
   strokeWeight(1.5);
-  line(bestSellerX, 1345 + 15, bestSellerX, 1395);
-  line(bestSellerX - 65, 1395, bestSellerX + 65, 1395);
-  line(bestSellerX - 65, 1395, bestSellerX - 65, 1410);
-  line(bestSellerX + 65, 1395, bestSellerX + 65, 1410);
+  line(bestSellerX, 1345 + 15, bestSellerX, shelfX - 17);
+  line(bestSellerX - 65, shelfX - 17, bestSellerX + 65, shelfX - 17);
+  line(bestSellerX - 65, shelfX - 17, bestSellerX - 65, shelfX - 10);
+  line(bestSellerX + 65, shelfX - 17, bestSellerX + 65, shelfX - 10);
 
-  line(authorAgeX, 1370 + 15, authorAgeX, 1430);
-  line(390 + HTRSpace, 1420 + 40 / 2, 390 + HTRSpace, 1420 + 40 / 2 + 40);
-  line(390 + HTRSpace - 10, 1420 - 2, 390 + HTRSpace - 10, 1420 - 28);
+  line(authorAgeX, 1370 + 15, authorAgeX, shelfX + 10);
+  line(390 + HTRSpace, 1400 + 40 / 2, 390 + HTRSpace, 1400 + 40 / 2 + 40);
+  line(390 + HTRSpace - 10, 1400 - 2, 390 + HTRSpace - 10, 1400 - 28);
 
   drawingContext.setLineDash();
-  line(authorAgeX - 55, 1430, authorAgeX + 55, 1430);
+  line(authorAgeX - 55, shelfX + 10, authorAgeX + 55, shelfX + 10);
   line(140, ageY, 390 - 10, ageY);
 
   currentShelf.displayQuill(); // place here so text formatting is applied

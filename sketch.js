@@ -495,7 +495,7 @@ function howToRead() {
     `radius of the circle is
     number of pages in the book`,
     390 + HTRSpace,
-    shelfX + 40 / 2 + 60
+    shelfX + 40 / 2 + 53
   );
 
   drawingContext.setLineDash([5, 5]);
@@ -507,8 +507,8 @@ function howToRead() {
   line(bestSellerX + 65, shelfX - 17, bestSellerX + 65, shelfX - 10);
 
   line(authorAgeX, 1370 + 15, authorAgeX, shelfX + 10);
-  line(390 + HTRSpace, 1400 + 40 / 2, 390 + HTRSpace, 1400 + 40 / 2 + 40);
-  line(390 + HTRSpace - 10, 1400 - 2, 390 + HTRSpace - 10, 1400 - 28);
+  line(390 + HTRSpace, shelfX + 40 / 2, 390 + HTRSpace, shelfX + 40 / 2 + 32);
+  line(390 + HTRSpace - 10, shelfX - 2, 390 + HTRSpace - 10, shelfX - 26);
 
   drawingContext.setLineDash();
   line(authorAgeX - 55, shelfX + 10, authorAgeX + 55, shelfX + 10);

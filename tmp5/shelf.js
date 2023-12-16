@@ -22,9 +22,8 @@ class Shelf {
     this.hue = hue;
   }
   display() {
-    fill(...this.hue);
-    strokeWeight(1);
-    stroke(...this.hue);
+    strokeWeight(2);
+    stroke(this.hue[0], 80, this.hue[2]);
 
     // stem
     const startYear = new Date(this.authorInfo["birth_year"] + 40, 0, 1);
@@ -40,7 +39,7 @@ class Shelf {
 
     // base
     noStroke();
-    fill(...this.hue, 0.1);
+    fill(this.hue[0], 60, this.hue[2], 0.07);
     rect(
       this.authorNode.x - 270,
       this.authorNode.y,
@@ -49,7 +48,7 @@ class Shelf {
     );
     // fill(0, 0, 0);
     // rect(this.authorNode.x - 10, this.authorNode.y, 10, this.authorNode.height);
-    fill(...this.hue);
+    fill(this.hue[0], 80, this.hue[2]);
     rect(
       this.authorNode.x - 5,
       this.authorNode.y,
@@ -58,7 +57,7 @@ class Shelf {
     );
 
     // books
-    fill(...this.hue, 0.5);
+    fill(this.hue[0], 50, this.hue[2], 0.5);
     for (let book of this.authorInfo["books"]) {
       checkDate = new Date(book["dates"][0]);
       timeLength = map(checkDate, startYear, endDate, 0, 130);
@@ -69,7 +68,7 @@ class Shelf {
         Number(book["pages"]) / 100
       );
       strokeWeight(0.5);
-      stroke(...this.hue);
+      stroke(this.hue[0], 80, 70);
       drawArrow(
         this.authorNode.x - 5 - timeLength,
         this.authorNode.y + this.authorNode.height / 2,

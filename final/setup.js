@@ -9,7 +9,7 @@ function getNode(name, type, title) {
   }
 
   if (!(type in nodeXOffsets)) {
-    nodeXOffsets[type] = Object.keys(nodeXOffsets).length * 300 + sankey_x; // Adjust the spacing as needed
+    nodeXOffsets[type] = Object.keys(nodeXOffsets).length * 350 + sankey_x; // Adjust the spacing as needed
   }
 
   let newNode = new Node(name, type, title);
@@ -37,8 +37,18 @@ class Node {
 
     fill(0);
     textAlign(LEFT, CENTER);
-    textSize(12);
-    text(this.name, this.x + this.width + 10, this.y + this.height / 2);
+
+    if (this.type == "author") {
+      textFont(bodyFontLight, 14);
+      text(
+        this.name,
+        sankey_x - shelf_width + 30,
+        this.y + this.height / 2 - 2
+      );
+    } else {
+      textFont(bodyFontBold, 14);
+      text(this.name, this.x + this.width + 10, this.y + this.height / 2 - 1);
+    }
   }
 }
 
@@ -88,15 +98,15 @@ class Link {
       linkOffset / 2;
     // Draw a Bezier curve to represent the flow
 
-    stroke(...this.hue, 0.7);
+    stroke(...this.hue, linkOpacity);
     strokeWeight(strokeW + 0.4);
     noFill();
     bezier(
       this.source.x + this.source.width + 4,
       sourceY,
-      this.source.x + this.source.width + 180,
+      this.source.x + this.source.width + 210,
       sourceY,
-      this.target.x - 180,
+      this.target.x - 210,
       targetY,
       this.target.x - 4,
       targetY

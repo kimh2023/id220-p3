@@ -66,8 +66,6 @@ let largeGenres = {
   Romance: [341, 80, 80],
   "Mystery/Crime": [12, 90, 35],
   "Other Genres": [20, 30, 86],
-  // Fantasy: [341, 80, 80],
-  // Horror: [341, 80, 80],
 };
 let majors = {
   English: [220, 22, 100],
@@ -77,8 +75,6 @@ let majors = {
   "Political Science": [225, 85, 50],
   Journalism: [235, 30, 95],
   Art: [341, 25, 96],
-  // Zoology: [220, 70, 85],
-  // Law: [225, 74, 30],
 };
 let bookTokHues = {
   "not #BookTok": [201, 60, 80],
@@ -96,19 +92,51 @@ const careerGroups = {
   Education: ["Teacher", "Counselor"],
   Miscellaneous: ["Temp Jobs", "Lineman", "Travel Guide", "Zoologist", "None"],
 };
+const nodeTypeExplanations = {
+  major: [
+    "University Major",
+    `What do authors major in while at university? 
+  Though English seems like a good guess, 
+  other majors like journalism and 
+  political science also appears frequently. `,
+  ],
+  career: [
+    "Prior Occupation",
+    `Before their big break, a lot of authors
+    were writing for money, whether in
+    Advertising, Journalism, or Technical Writing.`,
+  ],
+  genre: [
+    "#1 Debut Genre",
+    `Getting first place on the bestseller lists
+  is easier for a suspense/thriller writer.`,
+  ],
+  publisher: [
+    "#1 Debut Publisher",
+    `Best to go safe when choosing your publisher.
+  Out of the 30 authors, only two didn’t make their first
+  place debut with one of the Big 5 publishers.`,
+  ],
+};
 
 let nodeXOffsets = {};
-let nodeHeight = 13;
+let nodeHeight = 15;
 let linkOffset = 4;
-let spaceBetween = 12;
-let sankey_y = 100;
-let sankey_x = 550;
-let bookshelf_x = 250;
+let spaceBetween = 14;
+const sankey_x = 410;
+const sankey_y = 270;
+const canvas_x = 2100;
+const canvas_y = 1550;
+const shelf_width = 310;
+const linkOpacity = 0.65;
+const HTRSpace = 190;
 
 function preload() {
-  data = loadTable("all_months.csv", "csv", "header");
   authors = loadJSON("all_authors.json");
-  titleFont = loadFont("./assets/Ogg-Regular.ttf");
+  titleFont = loadFont("./assets/OPTIEngraversOldEnglish.otf");
+  subtitleFont = loadFont("./assets/Futura-Medium-Italic.ttf");
+  bodyFontLight = loadFont("./assets/Helvetica-Light.ttf");
+  bodyFontBold = loadFont("./assets/Helvetica-Bold.ttf");
 }
 
 const hueDeterminant = "publisher";
@@ -116,7 +144,7 @@ const hueDeterminant = "publisher";
 function setup() {
   colorMode(HSB);
   strokeCap(SQUARE);
-  createCanvas(1550, 2100, SVG);
+  createCanvas(canvas_x, canvas_y, SVG);
 
   getNode("James Patterson", "author");
   getNode("English", "major");
@@ -184,12 +212,8 @@ function setup() {
     getShelf(author, authors[author], authorNode, hue);
   }
 
-  // Update link ordering
   for (let type in links) {
     let [sourceType, targetType] = type.split("-");
-    // if (sourceType == "major") {
-    //   continue;
-    // }
     let names;
     let careerNames;
     let genreNames;
@@ -329,12 +353,25 @@ function setup() {
 
 function draw() {
   background("#FFFCF6");
-  strokeCap(SQUARE);
-  textAlign(LEFT, CENTER);
-  // textFont(titleFont, 50);
-  // text("Sold Out: What Makes a Bestseller", 120, 120);
+
+  //title
+  fill(0, 0, 0);
+  noStroke();
+  textAlign(RIGHT, TOP);
+  textFont(titleFont, 120);
+  text("The New York Times", canvas_x - 135, 80);
+  textFont(subtitleFont, 28);
+  text("#1 BESTSELLING AUTHORS, RANKED", canvas_x - 100, 250);
+  textAlign(LEFT, TOP);
+  textFont(bodyFontLight, 20);
+  text(
+    "Crafting a bestseller is difficult, but there’s more — becoming a #1 New York Times Best-\nselling author is even more of a challenge. I wondered about the life paths that would \nlead to this extraordinary accomplishment. Here, I looked at 30 authors who have been \nranked #1 the most often on the Combined Print & E-Book Fiction list",
+    100,
+    115
+  );
 
   // Draw links
+  strokeCap(SQUARE);
   for (let linkType of Object.keys(links)) {
     for (let link of links[linkType]) {
       link.display();
@@ -343,6 +380,27 @@ function draw() {
 
   // Draw nodes
   for (let nodeType of Object.keys(nodes)) {
+    if (nodeType !== "author") {
+      const center_x = nodes[nodeType][0].x + nodes[nodeType][0].width / 2;
+      // dashed line
+      drawingContext.setLineDash([5, 5]);
+      stroke(0, 0, 70);
+      strokeWeight(1.5);
+      line(center_x, 940, center_x, 1020);
+
+      // divider
+      stroke(0, 0, 0);
+      drawingContext.setLineDash();
+      line(center_x - 106, 1068, center_x + 106, 1068);
+
+      // text
+      noStroke();
+      textAlign(CENTER, TOP);
+      textFont(bodyFontBold, 18);
+      text(nodeTypeExplanations[nodeType][0], center_x, 1040);
+      textFont(bodyFontLight, 13);
+      text(nodeTypeExplanations[nodeType][1], center_x, 1080);
+    }
     for (let node of nodes[nodeType]) {
       node.display();
     }
@@ -352,8 +410,108 @@ function draw() {
   for (let author of Object.keys(shelves)) {
     shelves[author].display();
   }
+
+  // How to Read Section
+  howToRead();
 }
 
 function mousePressed() {
   save("mySVG.svg");
+}
+
+function howToRead() {
+  drawingContext.setLineDash([5, 5]);
+  stroke(0, 0, 70);
+  strokeWeight(1.5);
+  line(0, 1200, canvas_x, 1200);
+
+  drawingContext.setLineDash();
+
+  fill(0, 0, 0);
+  noStroke();
+  textAlign(LEFT, TOP);
+  textFont(bodyFontBold, 29);
+  text("HOW TO READ", 100, 1248);
+
+  const common_y = 1298;
+  textFont(bodyFontBold, 18);
+  text("Author’s Fountain Pen", 100, common_y);
+  text("University Major", 790, common_y);
+  text("Publisher", 1460, common_y);
+
+  textFont(bodyFontBold, 14);
+  let i = 0;
+  let x = 790;
+  for (let major of Object.keys(majors)) {
+    if (i > 3) {
+      x += 330;
+      i = 0;
+    }
+    fill(...majors[major], linkOpacity);
+    rect(x, 1334 + i * 30, 66, 17);
+    fill(0, 0, 0);
+    text(major, x + 76, 1334 + i * 30 + 2);
+    i++;
+  }
+
+  i = 0;
+  x = 1460;
+  for (let publisher of Object.keys(largePublisherHues)) {
+    if (i > 2) {
+      x += 330;
+      i = 0;
+    }
+    fill(...largePublisherHues[publisher], linkOpacity);
+    rect(x, 1334 + i * 30, 66, 17);
+    fill(0, 0, 0);
+    text(publisher, x + 76, 1334 + i * 30 + 2);
+    i++;
+  }
+
+  // Example Quill
+  const currentShelf = shelves["Kristin Hannah"];
+  // const currentShelf = shelves["Janet Evanovich"];
+  const bestSellerX = 178;
+  const authorAgeX = 310;
+  const ageY = 1490;
+  fill(0, 0, 60);
+  noStroke();
+  textAlign(CENTER, CENTER);
+  textFont(bodyFontBold, 14);
+  text("#1 bestsellers", bestSellerX, 1345);
+  text("author’s age when reaching #1", authorAgeX, 1370);
+  text("80", 140 - 20, ageY);
+  text("40", 380 - 10 + 20, ageY);
+  text("author’s age", (140 + 380 - 10) / 2, ageY + 17);
+
+  text(
+    `log of the number of weeks
+  the book was in #1`,
+    380 + HTRSpace - 10,
+    1420 - 55
+  );
+  text(
+    `radius of the circle is
+    number of pages in the book`,
+    380 + HTRSpace,
+    1420 + 40 / 2 + 60
+  );
+
+  drawingContext.setLineDash([5, 5]);
+  stroke(0, 0, 70);
+  strokeWeight(1.5);
+  line(bestSellerX, 1345 + 15, bestSellerX, 1395);
+  line(bestSellerX - 65, 1395, bestSellerX + 65, 1395);
+  line(bestSellerX - 65, 1395, bestSellerX - 65, 1410);
+  line(bestSellerX + 65, 1395, bestSellerX + 65, 1410);
+
+  line(authorAgeX, 1370 + 15, authorAgeX, 1430);
+  line(380 + HTRSpace, 1420 + 40 / 2, 380 + HTRSpace, 1420 + 40 / 2 + 40);
+  line(380 + HTRSpace - 10, 1420 - 2, 380 + HTRSpace - 10, 1420 - 28);
+
+  drawingContext.setLineDash();
+  line(authorAgeX - 55, 1430, authorAgeX + 55, 1430);
+  line(HTRSpace, ageY, 380 - 10, ageY);
+
+  currentShelf.displayQuill(); // place here so text formatting is applied
 }

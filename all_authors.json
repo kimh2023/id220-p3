@@ -250,7 +250,8 @@
         "book_count": 1,
         "dates": [
           "2016-04-03"
-        ]
+        ],
+        "pages": "448"
       },
       {
         "title": "15TH AFFAIR",
@@ -262,7 +263,8 @@
         "book_count": 1,
         "dates": [
           "2016-05-22"
-        ]
+        ],
+        "pages": "400"
       },
       {
         "title": "THE GAMES",
@@ -274,7 +276,8 @@
         "book_count": 1,
         "dates": [
           "2016-07-17"
-        ]
+        ],
+        "pages": "400"
       },
       {
         "title": "BULLSEYE",
@@ -286,7 +289,8 @@
         "book_count": 1,
         "dates": [
           "2016-08-21"
-        ]
+        ],
+        "pages": "368"
       },
       {
         "title": "CROSS THE LINE",
@@ -298,7 +302,8 @@
         "book_count": 1,
         "dates": [
           "2016-12-11"
-        ]
+        ],
+        "pages": "400"
       },
       {
         "title": "NEVER NEVER",
@@ -337,7 +342,8 @@
         "book_count": 1,
         "dates": [
           "2017-05-21"
-        ]
+        ],
+        "pages": "384"
       },
       {
         "title": "THE PEOPLE VS. ALEX CROSS",
@@ -350,7 +356,8 @@
         "dates": [
           "2017-12-10",
           "2018-01-14"
-        ]
+        ],
+        "pages": "448"
       },
       {
         "title": "THE 17TH SUSPECT",
@@ -394,7 +401,8 @@
         "book_count": 1,
         "dates": [
           "2018-09-30"
-        ]
+        ],
+        "pages": "368"
       },
       {
         "title": "THE 18TH ABDUCTION",
@@ -406,7 +414,8 @@
         "book_count": 1,
         "dates": [
           "2019-05-19"
-        ]
+        ],
+        "pages": "416"
       },
       {
         "title": "THE 19TH CHRISTMAS",
@@ -418,7 +427,8 @@
         "book_count": 1,
         "dates": [
           "2019-10-27"
-        ]
+        ],
+        "pages": "384"
       },
       {
         "title": "BLINDSIDE",
@@ -430,7 +440,8 @@
         "book_count": 1,
         "dates": [
           "2020-03-15"
-        ]
+        ],
+        "pages": "400"
       },
       {
         "title": "THE 20TH VICTIM",
@@ -442,7 +453,8 @@
         "book_count": 1,
         "dates": [
           "2020-05-24"
-        ]
+        ],
+        "pages": "448"
       },
       {
         "title": "THE SUMMER HOUSE",
@@ -454,7 +466,8 @@
         "book_count": 1,
         "dates": [
           "2020-06-28"
-        ]
+        ],
+        "pages": "464"
       },
       {
         "title": "THE RUSSIAN",
@@ -466,7 +479,8 @@
         "book_count": 1,
         "dates": [
           "2021-02-14"
-        ]
+        ],
+        "pages": "479"
       },
       {
         "title": "21ST BIRTHDAY",
@@ -478,7 +492,8 @@
         "book_count": 1,
         "dates": [
           "2021-05-23"
-        ]
+        ],
+        "pages": "512"
       },
       {
         "title": "THE PRESIDENT'S DAUGHTER",
@@ -504,7 +519,8 @@
         "book_count": 1,
         "dates": [
           "2022-03-27"
-        ]
+        ],
+        "pages": "448"
       },
       {
         "title": "THE 23RD MIDNIGHT",
@@ -516,7 +532,8 @@
         "book_count": 1,
         "dates": [
           "2023-05-21"
-        ]
+        ],
+        "pages": "355"
       },
       {
         "title": "CROSS DOWN",
@@ -528,10 +545,16 @@
         "book_count": 1,
         "dates": [
           "2023-06-25"
-        ]
+        ],
+        "pages": "464"
       }
     ],
-    "count": 55
+    "count": 55,
+    "gender": "male",
+    "birth_year": 1947,
+    "university": "Manhattan College",
+    "major": "English",
+    "career": "Advertising"
   },
   "John Grisham": {
     "books": [
@@ -545,7 +568,8 @@
         "book_count": 1,
         "dates": [
           "2011-11-13"
-        ]
+        ],
+        "pages": "480"
       },
       {
         "title": "THE RACKETEER",
@@ -592,7 +616,8 @@
           "2014-11-09",
           "2014-12-21",
           "2015-01-04"
-        ]
+        ],
+        "pages": "384"
       },
       {
         "title": "ROGUE LAWYER",
@@ -685,7 +710,8 @@
         "dates": [
           "2019-11-03",
           "2019-12-22"
-        ]
+        ],
+        "pages": "384"
       },
       {
         "title": "CAMINO WINDS",
@@ -755,7 +781,8 @@
         "book_count": 1,
         "dates": [
           "2022-06-19"
-        ]
+        ],
+        "pages": "320"
       },
       {
         "title": "THE EXCHANGE",
@@ -771,7 +798,12 @@
         ]
       }
     ],
-    "count": 47
+    "count": 47,
+    "gender": "male",
+    "birth_year": 1955,
+    "university": "Mississippi State University",
+    "major": "Business & Commerce",
+    "career": "Lawyer"
   },
   "Delia Owens": {
     "books": [
@@ -832,7 +864,12 @@
         ]
       }
     ],
-    "count": 44
+    "count": 44,
+    "gender": "female",
+    "birth_year": 1949,
+    "university": "University of Georgia",
+    "major": "Zoology",
+    "career": "Zoologist"
   },
   "Nora Roberts": {
     "books": [
@@ -846,7 +883,8 @@
         "book_count": 1,
         "dates": [
           "2011-03-13"
-        ]
+        ],
+        "pages": "384"
       },
       {
         "title": "CELEBRITY IN DEATH",
@@ -858,7 +896,8 @@
         "book_count": 1,
         "dates": [
           "2012-03-11"
-        ]
+        ],
+        "pages": "396"
       },
       {
         "title": "THE PERFECT HOPE",
@@ -870,7 +909,8 @@
         "book_count": 1,
         "dates": [
           "2012-11-25"
-        ]
+        ],
+        "pages": "336"
       },
       {
         "title": "CALCULATED IN DEATH",
@@ -882,7 +922,8 @@
         "book_count": 1,
         "dates": [
           "2013-03-17"
-        ]
+        ],
+        "pages": "368"
       },
       {
         "title": "WHISKEY BEACH",
@@ -907,7 +948,8 @@
         "book_count": 1,
         "dates": [
           "2013-11-17"
-        ]
+        ],
+        "pages": "368"
       },
       {
         "title": "CONCEALED IN DEATH",
@@ -945,7 +987,8 @@
         "book_count": 1,
         "dates": [
           "2014-05-04"
-        ]
+        ],
+        "pages": "496"
       },
       {
         "title": "FESTIVE IN DEATH",
@@ -957,7 +1000,8 @@
         "book_count": 1,
         "dates": [
           "2014-09-28"
-        ]
+        ],
+        "pages": "557"
       },
       {
         "title": "BLOOD MAGICK",
@@ -969,7 +1013,8 @@
         "book_count": 1,
         "dates": [
           "2014-11-16"
-        ]
+        ],
+        "pages": "336"
       },
       {
         "title": "THE LIAR",
@@ -1020,7 +1065,8 @@
         "book_count": 1,
         "dates": [
           "2016-07-03"
-        ]
+        ],
+        "pages": "352"
       },
       {
         "title": "APPRENTICE IN DEATH",
@@ -1032,7 +1078,8 @@
         "book_count": 1,
         "dates": [
           "2016-09-25"
-        ]
+        ],
+        "pages": "352"
       },
       {
         "title": "ISLAND OF GLASS",
@@ -1044,7 +1091,8 @@
         "book_count": 1,
         "dates": [
           "2016-12-25"
-        ]
+        ],
+        "pages": "352"
       },
       {
         "title": "ECHOES IN DEATH",
@@ -1056,7 +1104,8 @@
         "book_count": 1,
         "dates": [
           "2017-02-26"
-        ]
+        ],
+        "pages": "384"
       },
       {
         "title": "COME SUNDOWN",
@@ -1068,7 +1117,8 @@
         "book_count": 1,
         "dates": [
           "2017-06-18"
-        ]
+        ],
+        "pages": "496"
       },
       {
         "title": "SECRETS IN DEATH",
@@ -1093,7 +1143,8 @@
         "book_count": 1,
         "dates": [
           "2017-12-24"
-        ]
+        ],
+        "pages": "448"
       },
       {
         "title": "DARK IN DEATH",
@@ -1105,7 +1156,8 @@
         "book_count": 1,
         "dates": [
           "2018-02-18"
-        ]
+        ],
+        "pages": "368"
       },
       {
         "title": "SHELTER IN PLACE",
@@ -1117,7 +1169,8 @@
         "book_count": 1,
         "dates": [
           "2018-06-17"
-        ]
+        ],
+        "pages": "448"
       },
       {
         "title": "LEVERAGE IN DEATH",
@@ -1129,7 +1182,8 @@
         "book_count": 1,
         "dates": [
           "2018-09-23"
-        ]
+        ],
+        "pages": "400"
       },
       {
         "title": "OF BLOOD AND BONE",
@@ -1141,7 +1195,8 @@
         "book_count": 1,
         "dates": [
           "2018-12-23"
-        ]
+        ],
+        "pages": "480"
       },
       {
         "title": "CONNECTIONS IN DEATH",
@@ -1153,7 +1208,8 @@
         "book_count": 1,
         "dates": [
           "2019-02-24"
-        ]
+        ],
+        "pages": "416"
       },
       {
         "title": "UNDER CURRENTS",
@@ -1165,7 +1221,8 @@
         "book_count": 1,
         "dates": [
           "2019-07-28"
-        ]
+        ],
+        "pages": "464"
       },
       {
         "title": "VENDETTA IN DEATH",
@@ -1177,7 +1234,8 @@
         "book_count": 1,
         "dates": [
           "2019-09-22"
-        ]
+        ],
+        "pages": "368"
       },
       {
         "title": "THE RISE OF MAGICKS",
@@ -1189,7 +1247,8 @@
         "book_count": 1,
         "dates": [
           "2019-12-15"
-        ]
+        ],
+        "pages": "464"
       },
       {
         "title": "GOLDEN IN DEATH",
@@ -1201,7 +1260,8 @@
         "book_count": 1,
         "dates": [
           "2020-02-23"
-        ]
+        ],
+        "pages": "432"
       },
       {
         "title": "HIDEAWAY",
@@ -1213,7 +1273,8 @@
         "book_count": 1,
         "dates": [
           "2020-06-14"
-        ]
+        ],
+        "pages": "480"
       },
       {
         "title": "SHADOWS IN DEATH",
@@ -1238,7 +1299,8 @@
         "book_count": 1,
         "dates": [
           "2021-06-13"
-        ]
+        ],
+        "pages": "464"
       },
       {
         "title": "FORGOTTEN IN DEATH",
@@ -1263,7 +1325,8 @@
         "book_count": 1,
         "dates": [
           "2022-02-27"
-        ]
+        ],
+        "pages": "368"
       },
       {
         "title": "NIGHTWORK",
@@ -1275,7 +1338,8 @@
         "book_count": 1,
         "dates": [
           "2022-06-12"
-        ]
+        ],
+        "pages": "464"
       },
       {
         "title": "ENCORE IN DEATH",
@@ -1287,7 +1351,8 @@
         "book_count": 1,
         "dates": [
           "2023-02-26"
-        ]
+        ],
+        "pages": "384"
       },
       {
         "title": "IDENTITY",
@@ -1299,10 +1364,16 @@
         "book_count": 1,
         "dates": [
           "2023-06-11"
-        ]
+        ],
+        "pages": "448"
       }
     ],
-    "count": 38
+    "count": 38,
+    "gender": "female",
+    "birth_year": 1950,
+    "university": "None",
+    "major": "None",
+    "career": "None"
   },
   "E L James": {
     "books": [
@@ -1364,7 +1435,12 @@
         ]
       }
     ],
-    "count": 33
+    "count": 33,
+    "gender": "female",
+    "birth_year": 1963,
+    "university": "University of Kent",
+    "major": "Humanities and Social Sciences",
+    "career": "Studio Assistant"
   },
   "Colleen Hoover": {
     "books": [
@@ -1403,7 +1479,8 @@
         "book_count": 1,
         "dates": [
           "2022-10-16"
-        ]
+        ],
+        "pages": "336"
       },
       {
         "title": "IT STARTS WITH US",
@@ -1445,10 +1522,16 @@
         "dates": [
           "2023-07-16",
           "2023-07-23"
-        ]
+        ],
+        "pages": "400"
       }
     ],
-    "count": 33
+    "count": 33,
+    "gender": "female",
+    "birth_year": 1979,
+    "university": "Texas A&M University-Commerce",
+    "major": "Humanities and Social Sciences",
+    "career": "Counselor"
   },
   "Paula Hawkins": {
     "books": [
@@ -1515,10 +1598,16 @@
         "book_count": 1,
         "dates": [
           "2021-09-19"
-        ]
+        ],
+        "pages": "400"
       }
     ],
-    "count": 30
+    "count": 30,
+    "gender": "female",
+    "birth_year": 1972,
+    "university": "University of Oxford",
+    "major": "Political Science",
+    "career": "Journalist"
   },
   "David Baldacci": {
     "books": [
@@ -1532,7 +1621,8 @@
         "book_count": 1,
         "dates": [
           "2011-11-20"
-        ]
+        ],
+        "pages": "592"
       },
       {
         "title": "THE HIT",
@@ -1544,7 +1634,8 @@
         "book_count": 1,
         "dates": [
           "2013-05-12"
-        ]
+        ],
+        "pages": "528"
       },
       {
         "title": "THE TARGET",
@@ -1570,7 +1661,8 @@
         "book_count": 1,
         "dates": [
           "2015-05-10"
-        ]
+        ],
+        "pages": "664"
       },
       {
         "title": "THE LAST MILE",
@@ -1582,7 +1674,8 @@
         "book_count": 1,
         "dates": [
           "2016-05-08"
-        ]
+        ],
+        "pages": "464"
       },
       {
         "title": "THE FIX",
@@ -1607,7 +1700,8 @@
         "book_count": 1,
         "dates": [
           "2018-05-06"
-        ]
+        ],
+        "pages": "464"
       },
       {
         "title": "LONG ROAD TO MERCY",
@@ -1619,7 +1713,8 @@
         "book_count": 1,
         "dates": [
           "2019-01-13"
-        ]
+        ],
+        "pages": "448"
       },
       {
         "title": "REDEMPTION",
@@ -1631,7 +1726,8 @@
         "book_count": 1,
         "dates": [
           "2019-05-05"
-        ]
+        ],
+        "pages": "464"
       },
       {
         "title": "ONE GOOD DEED",
@@ -1643,7 +1739,8 @@
         "book_count": 1,
         "dates": [
           "2019-08-11"
-        ]
+        ],
+        "pages": "432"
       },
       {
         "title": "A MINUTE TO MIDNIGHT",
@@ -1655,7 +1752,8 @@
         "book_count": 1,
         "dates": [
           "2019-12-08"
-        ]
+        ],
+        "pages": "464"
       },
       {
         "title": "WALK THE WIRE",
@@ -1667,7 +1765,8 @@
         "book_count": 1,
         "dates": [
           "2020-05-10"
-        ]
+        ],
+        "pages": "432"
       },
       {
         "title": "A GAMBLING MAN",
@@ -1679,7 +1778,8 @@
         "book_count": 1,
         "dates": [
           "2021-05-09"
-        ]
+        ],
+        "pages": "480"
       },
       {
         "title": "MERCY",
@@ -1704,7 +1804,8 @@
         "book_count": 1,
         "dates": [
           "2022-05-08"
-        ]
+        ],
+        "pages": "464"
       },
       {
         "title": "LONG SHADOWS",
@@ -1716,7 +1817,8 @@
         "book_count": 1,
         "dates": [
           "2022-10-30"
-        ]
+        ],
+        "pages": "480"
       },
       {
         "title": "SIMPLY LIES",
@@ -1728,10 +1830,16 @@
         "book_count": 1,
         "dates": [
           "2023-05-07"
-        ]
+        ],
+        "pages": "432"
       }
     ],
-    "count": 18
+    "count": 18,
+    "gender": "male",
+    "birth_year": 1960,
+    "university": "Virginia Commonwealth University",
+    "major": "Political Science",
+    "career": "Lawyer"
   },
   "Kathryn Stockett": {
     "books": [
@@ -1764,7 +1872,12 @@
         ]
       }
     ],
-    "count": 16
+    "count": 16,
+    "gender": "female",
+    "birth_year": 1969,
+    "university": "University of Alabama",
+    "major": "English",
+    "career": "Magazine publishing and marketing"
   },
   "Michael Connelly": {
     "books": [
@@ -1783,7 +1896,8 @@
         "book_count": 1,
         "dates": [
           "2011-04-24"
-        ]
+        ],
+        "pages": "448"
       },
       {
         "title": "THE DROP",
@@ -1830,7 +1944,8 @@
         "book_count": 1,
         "dates": [
           "2012-12-16"
-        ]
+        ],
+        "pages": "403"
       },
       {
         "title": "THE GODS OF GUILT",
@@ -1847,7 +1962,8 @@
         "book_count": 1,
         "dates": [
           "2013-12-22"
-        ]
+        ],
+        "pages": "416"
       },
       {
         "title": "THE BURNING ROOM",
@@ -1870,7 +1986,8 @@
         "book_count": 1,
         "dates": [
           "2014-11-23"
-        ]
+        ],
+        "pages": "400"
       },
       {
         "title": "THE CROSSING",
@@ -1893,7 +2010,8 @@
         "book_count": 1,
         "dates": [
           "2015-11-22"
-        ]
+        ],
+        "pages": "400"
       },
       {
         "title": "THE WRONG SIDE OF GOODBYE",
@@ -1917,7 +2035,8 @@
         "dates": [
           "2016-11-20",
           "2017-01-15"
-        ]
+        ],
+        "pages": "388"
       },
       {
         "title": "THE LATE SHOW",
@@ -1954,7 +2073,8 @@
         "book_count": 1,
         "dates": [
           "2017-11-19"
-        ]
+        ],
+        "pages": "464"
       },
       {
         "title": "DARK SACRED NIGHT",
@@ -1977,7 +2097,8 @@
         "book_count": 1,
         "dates": [
           "2018-11-18"
-        ]
+        ],
+        "pages": "480"
       },
       {
         "title": "THE NIGHT FIRE",
@@ -2000,7 +2121,8 @@
         "book_count": 1,
         "dates": [
           "2019-11-10"
-        ]
+        ],
+        "pages": "416"
       },
       {
         "title": "THE LAW OF INNOCENCE",
@@ -2017,7 +2139,8 @@
         "book_count": 1,
         "dates": [
           "2020-11-29"
-        ]
+        ],
+        "pages": "432"
       },
       {
         "title": "THE DARK HOURS",
@@ -2040,10 +2163,16 @@
         "book_count": 1,
         "dates": [
           "2021-11-28"
-        ]
+        ],
+        "pages": "512"
       }
     ],
-    "count": 15
+    "count": 15,
+    "gender": "male",
+    "birth_year": 1956,
+    "university": "University of Florida",
+    "major": "Journalism",
+    "career": "Journalist"
   },
   "Nicholas Sparks": {
     "books": [
@@ -2103,7 +2232,8 @@
         "book_count": 1,
         "dates": [
           "2015-11-01"
-        ]
+        ],
+        "pages": "576"
       },
       {
         "title": "EVERY BREATH",
@@ -2141,7 +2271,8 @@
         "book_count": 1,
         "dates": [
           "2021-10-17"
-        ]
+        ],
+        "pages": "416"
       },
       {
         "title": "DREAMLAND",
@@ -2153,10 +2284,16 @@
         "book_count": 1,
         "dates": [
           "2022-10-09"
-        ]
+        ],
+        "pages": "384"
       }
     ],
-    "count": 15
+    "count": 15,
+    "gender": "male",
+    "birth_year": 1965,
+    "university": "University of Notre Dame",
+    "major": "Business & Commerce",
+    "career": "None"
   },
   "Stephen King": {
     "books": [
@@ -2184,7 +2321,8 @@
         "book_count": 1,
         "dates": [
           "2013-10-13"
-        ]
+        ],
+        "pages": "531"
       },
       {
         "title": "MR. MERCEDES",
@@ -2196,7 +2334,8 @@
         "book_count": 1,
         "dates": [
           "2014-06-22"
-        ]
+        ],
+        "pages": "436"
       },
       {
         "title": "REVIVAL",
@@ -2208,7 +2347,8 @@
         "book_count": 1,
         "dates": [
           "2014-11-30"
-        ]
+        ],
+        "pages": "405"
       },
       {
         "title": "FINDERS KEEPERS",
@@ -2220,7 +2360,8 @@
         "book_count": 1,
         "dates": [
           "2015-06-21"
-        ]
+        ],
+        "pages": "434"
       },
       {
         "title": "END OF WATCH",
@@ -2232,7 +2373,8 @@
         "book_count": 1,
         "dates": [
           "2016-06-26"
-        ]
+        ],
+        "pages": "432"
       },
       {
         "title": "SLEEPING BEAUTIES",
@@ -2244,7 +2386,8 @@
         "book_count": 1,
         "dates": [
           "2017-10-15"
-        ]
+        ],
+        "pages": "720"
       },
       {
         "title": "THE OUTSIDER",
@@ -2256,7 +2399,8 @@
         "book_count": 1,
         "dates": [
           "2018-06-10"
-        ]
+        ],
+        "pages": "192"
       },
       {
         "title": "THE INSTITUTE",
@@ -2296,7 +2440,8 @@
         "book_count": 1,
         "dates": [
           "2022-09-25"
-        ]
+        ],
+        "pages": "608"
       },
       {
         "title": "HOLLY",
@@ -2308,10 +2453,16 @@
         "book_count": 1,
         "dates": [
           "2023-09-24"
-        ]
+        ],
+        "pages": "464"
       }
     ],
-    "count": 15
+    "count": 15,
+    "gender": "male",
+    "birth_year": 1947,
+    "university": "University of Maine",
+    "major": "English",
+    "career": "Teacher"
   },
   "John Sandford": {
     "books": [
@@ -2338,7 +2489,8 @@
         "book_count": 1,
         "dates": [
           "2015-05-17"
-        ]
+        ],
+        "pages": "519"
       },
       {
         "title": "EXTREME PREY",
@@ -2350,7 +2502,8 @@
         "book_count": 1,
         "dates": [
           "2016-05-15"
-        ]
+        ],
+        "pages": "448"
       },
       {
         "title": "ESCAPE CLAUSE",
@@ -2375,7 +2528,8 @@
         "book_count": 1,
         "dates": [
           "2017-05-14"
-        ]
+        ],
+        "pages": "400"
       },
       {
         "title": "TWISTED PREY",
@@ -2387,7 +2541,8 @@
         "book_count": 1,
         "dates": [
           "2018-05-13"
-        ]
+        ],
+        "pages": "400"
       },
       {
         "title": "HOLY GHOST",
@@ -2412,7 +2567,8 @@
         "book_count": 1,
         "dates": [
           "2019-05-12"
-        ]
+        ],
+        "pages": "400"
       },
       {
         "title": "BLOODY GENIUS",
@@ -2424,7 +2580,8 @@
         "book_count": 1,
         "dates": [
           "2019-10-20"
-        ]
+        ],
+        "pages": "480"
       },
       {
         "title": "MASKED PREY",
@@ -2436,7 +2593,8 @@
         "book_count": 1,
         "dates": [
           "2020-05-03"
-        ]
+        ],
+        "pages": "528"
       },
       {
         "title": "OCEAN PREY",
@@ -2461,7 +2619,8 @@
         "book_count": 1,
         "dates": [
           "2022-05-01"
-        ]
+        ],
+        "pages": "416"
       },
       {
         "title": "RIGHTEOUS PREY",
@@ -2473,7 +2632,8 @@
         "book_count": 1,
         "dates": [
           "2022-10-23"
-        ]
+        ],
+        "pages": "416"
       },
       {
         "title": "DARK ANGEL",
@@ -2485,7 +2645,8 @@
         "book_count": 1,
         "dates": [
           "2023-04-30"
-        ]
+        ],
+        "pages": "416"
       },
       {
         "title": "JUDGMENT PREY",
@@ -2497,10 +2658,16 @@
         "book_count": 1,
         "dates": [
           "2023-10-22"
-        ]
+        ],
+        "pages": "400"
       }
     ],
-    "count": 15
+    "count": 15,
+    "gender": "male",
+    "birth_year": 1944,
+    "university": "University of Iowa",
+    "major": "Humanities and Social Sciences",
+    "career": "Journalist"
   },
   "Maxine Paetro": {
     "books": [
@@ -2567,7 +2734,8 @@
         "book_count": 1,
         "dates": [
           "2016-05-22"
-        ]
+        ],
+        "pages": "400"
       },
       {
         "title": "16TH SEDUCTION",
@@ -2579,7 +2747,8 @@
         "book_count": 1,
         "dates": [
           "2017-05-21"
-        ]
+        ],
+        "pages": "384"
       },
       {
         "title": "THE 17TH SUSPECT",
@@ -2605,7 +2774,8 @@
         "book_count": 1,
         "dates": [
           "2019-05-19"
-        ]
+        ],
+        "pages": "416"
       },
       {
         "title": "THE 19TH CHRISTMAS",
@@ -2617,7 +2787,8 @@
         "book_count": 1,
         "dates": [
           "2019-10-27"
-        ]
+        ],
+        "pages": "368"
       },
       {
         "title": "THE 20TH VICTIM",
@@ -2629,7 +2800,8 @@
         "book_count": 1,
         "dates": [
           "2020-05-24"
-        ]
+        ],
+        "pages": "448"
       },
       {
         "title": "21ST BIRTHDAY",
@@ -2641,7 +2813,8 @@
         "book_count": 1,
         "dates": [
           "2021-05-23"
-        ]
+        ],
+        "pages": "432"
       },
       {
         "title": "THE 23RD MIDNIGHT",
@@ -2653,10 +2826,16 @@
         "book_count": 1,
         "dates": [
           "2023-05-21"
-        ]
+        ],
+        "pages": "352"
       }
     ],
-    "count": 14
+    "count": 14,
+    "gender": "female",
+    "birth_year": 1946,
+    "university": "Jacksonville University",
+    "major": "General Studies",
+    "career": "Advertising"
   },
   "Janet Evanovich": {
     "books": [
@@ -2670,7 +2849,8 @@
         "book_count": 1,
         "dates": [
           "2011-07-10"
-        ]
+        ],
+        "pages": "353"
       },
       {
         "title": "EXPLOSIVE EIGHTEEN",
@@ -2682,7 +2862,8 @@
         "book_count": 1,
         "dates": [
           "2011-12-11"
-        ]
+        ],
+        "pages": "352"
       },
       {
         "title": "NOTORIOUS NINETEEN",
@@ -2694,7 +2875,8 @@
         "book_count": 1,
         "dates": [
           "2012-12-09"
-        ]
+        ],
+        "pages": "320"
       },
       {
         "title": "TAKEDOWN TWENTY",
@@ -2706,7 +2888,8 @@
         "book_count": 1,
         "dates": [
           "2013-12-08"
-        ]
+        ],
+        "pages": ""
       },
       {
         "title": "TOP SECRET TWENTY-ONE",
@@ -2718,7 +2901,8 @@
         "book_count": 1,
         "dates": [
           "2014-07-06"
-        ]
+        ],
+        "pages": "352"
       },
       {
         "title": "TRICKY TWENTY-TWO",
@@ -2730,7 +2914,8 @@
         "book_count": 1,
         "dates": [
           "2015-12-06"
-        ]
+        ],
+        "pages": "352"
       },
       {
         "title": "TURBO TWENTY-THREE",
@@ -2755,7 +2940,8 @@
         "book_count": 1,
         "dates": [
           "2017-12-03"
-        ]
+        ],
+        "pages": "304"
       },
       {
         "title": "LOOK ALIVE TWENTY-FIVE",
@@ -2780,7 +2966,8 @@
         "book_count": 1,
         "dates": [
           "2019-12-01"
-        ]
+        ],
+        "pages": "320"
       },
       {
         "title": "FORTUNE AND GLORY",
@@ -2792,7 +2979,8 @@
         "book_count": 1,
         "dates": [
           "2020-11-22"
-        ]
+        ],
+        "pages": "304"
       },
       {
         "title": "GAME ON",
@@ -2804,7 +2992,8 @@
         "book_count": 1,
         "dates": [
           "2021-11-21"
-        ]
+        ],
+        "pages": "367"
       },
       {
         "title": "DIRTY THIRTY",
@@ -2816,10 +3005,16 @@
         "book_count": 1,
         "dates": [
           "2023-11-19"
-        ]
+        ],
+        "pages": "336"
       }
     ],
-    "count": 13
+    "count": 13,
+    "gender": "female",
+    "birth_year": 1943,
+    "university": "Rutgers University",
+    "major": "Art",
+    "career": "None"
   },
   "Lee Child": {
     "books": [
@@ -2833,7 +3028,8 @@
         "book_count": 1,
         "dates": [
           "2011-10-16"
-        ]
+        ],
+        "pages": "608"
       },
       {
         "title": "A WANTED MAN",
@@ -2845,7 +3041,8 @@
         "book_count": 1,
         "dates": [
           "2012-09-30"
-        ]
+        ],
+        "pages": "304"
       },
       {
         "title": "NEVER GO BACK",
@@ -2857,7 +3054,8 @@
         "book_count": 1,
         "dates": [
           "2013-09-22"
-        ]
+        ],
+        "pages": "416"
       },
       {
         "title": "PERSONAL",
@@ -2869,7 +3067,8 @@
         "book_count": 1,
         "dates": [
           "2014-09-21"
-        ]
+        ],
+        "pages": "544"
       },
       {
         "title": "MAKE ME",
@@ -2894,7 +3093,8 @@
         "book_count": 1,
         "dates": [
           "2016-11-27"
-        ]
+        ],
+        "pages": "496"
       },
       {
         "title": "THE MIDNIGHT LINE",
@@ -2906,7 +3106,8 @@
         "book_count": 1,
         "dates": [
           "2017-11-26"
-        ]
+        ],
+        "pages": "400"
       },
       {
         "title": "PAST TENSE",
@@ -2918,7 +3119,8 @@
         "book_count": 1,
         "dates": [
           "2018-11-25"
-        ]
+        ],
+        "pages": "416"
       },
       {
         "title": "BLUE MOON",
@@ -2944,7 +3146,8 @@
         "book_count": 1,
         "dates": [
           "2020-11-15"
-        ]
+        ],
+        "pages": "464"
       },
       {
         "title": "BETTER OFF DEAD",
@@ -2956,7 +3159,8 @@
         "book_count": 1,
         "dates": [
           "2021-11-14"
-        ]
+        ],
+        "pages": "352"
       },
       {
         "title": "THE SECRET",
@@ -2968,10 +3172,16 @@
         "book_count": 1,
         "dates": [
           "2023-11-12"
-        ]
+        ],
+        "pages": "296"
       }
     ],
-    "count": 13
+    "count": 13,
+    "gender": "male",
+    "birth_year": 1954,
+    "university": "University of Sheffield",
+    "major": "Law",
+    "career": "Presentation Director"
   },
   "Dan Brown": {
     "books": [
@@ -3012,7 +3222,12 @@
         ]
       }
     ],
-    "count": 12
+    "count": 12,
+    "gender": "male",
+    "birth_year": 1964,
+    "university": "Amherst College",
+    "major": "English",
+    "career": "Teacher"
   },
   "Kristin Hannah": {
     "books": [
@@ -3026,7 +3241,8 @@
         "book_count": 1,
         "dates": [
           "2012-02-19"
-        ]
+        ],
+        "pages": "432"
       },
       {
         "title": "THE NIGHTINGALE",
@@ -3075,7 +3291,12 @@
         ]
       }
     ],
-    "count": 11
+    "count": 11,
+    "gender": "female",
+    "birth_year": 1960,
+    "university": "University of Washington",
+    "major": "Humanities and Social Sciences",
+    "career": "Advertising"
   },
   "Harlan Coben": {
     "books": [
@@ -3089,7 +3310,8 @@
         "book_count": 1,
         "dates": [
           "2011-04-10"
-        ]
+        ],
+        "pages": "384"
       },
       {
         "title": "SIX YEARS",
@@ -3141,7 +3363,8 @@
         "book_count": 1,
         "dates": [
           "2020-04-05"
-        ]
+        ],
+        "pages": "416"
       },
       {
         "title": "WIN",
@@ -3153,7 +3376,8 @@
         "book_count": 1,
         "dates": [
           "2021-04-04"
-        ]
+        ],
+        "pages": "384"
       },
       {
         "title": "THE MATCH",
@@ -3169,7 +3393,8 @@
         "book_count": 1,
         "dates": [
           "2022-04-03"
-        ]
+        ],
+        "pages": "528"
       },
       {
         "title": "I WILL FIND YOU",
@@ -3181,10 +3406,16 @@
         "book_count": 1,
         "dates": [
           "2023-04-02"
-        ]
+        ],
+        "pages": "336"
       }
     ],
-    "count": 9
+    "count": 9,
+    "gender": "male",
+    "birth_year": 1962,
+    "university": "Amherst College",
+    "major": "Political Science",
+    "career": "Travel Guide"
   },
   "Louise Penny": {
     "books": [
@@ -3208,7 +3439,8 @@
         "book_count": 1,
         "dates": [
           "2014-09-14"
-        ]
+        ],
+        "pages": "400"
       },
       {
         "title": "A GREAT RECKONING",
@@ -3230,7 +3462,8 @@
         "book_count": 1,
         "dates": [
           "2016-09-18"
-        ]
+        ],
+        "pages": "592"
       },
       {
         "title": "GLASS HOUSES",
@@ -3252,7 +3485,8 @@
         "book_count": 1,
         "dates": [
           "2017-09-17"
-        ]
+        ],
+        "pages": "400"
       },
       {
         "title": "KINGDOM OF THE BLIND",
@@ -3274,7 +3508,8 @@
         "book_count": 1,
         "dates": [
           "2018-12-16"
-        ]
+        ],
+        "pages": "400"
       },
       {
         "title": "A BETTER MAN",
@@ -3296,7 +3531,8 @@
         "book_count": 1,
         "dates": [
           "2019-09-15"
-        ]
+        ],
+        "pages": "448"
       },
       {
         "title": "ALL THE DEVILS ARE HERE",
@@ -3318,7 +3554,8 @@
         "book_count": 1,
         "dates": [
           "2020-09-20"
-        ]
+        ],
+        "pages": "448"
       },
       {
         "title": "THE MADNESS OF CROWDS",
@@ -3340,7 +3577,8 @@
         "book_count": 1,
         "dates": [
           "2021-09-12"
-        ]
+        ],
+        "pages": "448"
       },
       {
         "title": "STATE OF TERROR",
@@ -3352,7 +3590,8 @@
         "book_count": 1,
         "dates": [
           "2021-10-31"
-        ]
+        ],
+        "pages": "512"
       },
       {
         "title": "A WORLD OF CURIOSITIES",
@@ -3374,10 +3613,16 @@
         "book_count": 1,
         "dates": [
           "2022-12-18"
-        ]
+        ],
+        "pages": "394"
       }
     ],
-    "count": 9
+    "count": 9,
+    "gender": "female",
+    "birth_year": 1958,
+    "university": "Toronto Metropolitan University",
+    "major": "Art",
+    "career": "Journalist"
   },
   "Rebecca Yarros": {
     "books": [
@@ -3415,7 +3660,12 @@
         ]
       }
     ],
-    "count": 9
+    "count": 9,
+    "gender": "female",
+    "birth_year": 1981,
+    "university": "Troy University",
+    "major": "English",
+    "career": "None"
   },
   "Sara Gruen": {
     "books": [
@@ -3440,7 +3690,12 @@
         ]
       }
     ],
-    "count": 8
+    "count": 8,
+    "gender": "female",
+    "birth_year": 1969,
+    "university": "Carleton University",
+    "major": "English",
+    "career": "Technical Writer"
   },
   "Bill Clinton": {
     "books": [
@@ -3477,7 +3732,12 @@
         ]
       }
     ],
-    "count": 8
+    "count": 8,
+    "gender": "male",
+    "birth_year": 1946,
+    "university": "Georgetown University",
+    "major": "Political Science",
+    "career": "Politician"
   },
   "Michael Ledwidge": {
     "books": [
@@ -3545,10 +3805,16 @@
         "book_count": 1,
         "dates": [
           "2016-08-21"
-        ]
+        ],
+        "pages": "302"
       }
     ],
-    "count": 7
+    "count": 7,
+    "gender": "male",
+    "birth_year": 1971,
+    "university": "Manhattan College",
+    "major": "English",
+    "career": "Lineman"
   },
   "Gillian Flynn": {
     "books": [
@@ -3572,7 +3838,12 @@
         ]
       }
     ],
-    "count": 7
+    "count": 7,
+    "gender": "female",
+    "birth_year": 1971,
+    "university": "University of Kansas",
+    "major": "Journalism",
+    "career": "Journalist"
   },
   "Robert Galbraith": {
     "books": [
@@ -3620,7 +3891,12 @@
         ]
       }
     ],
-    "count": 7
+    "count": 7,
+    "gender": "female",
+    "birth_year": 1965,
+    "university": "University of Exeter",
+    "major": "Humanities and Social Sciences",
+    "career": "Temp Jobs"
   },
   "Jojo Moyes": {
     "books": [
@@ -3644,7 +3920,12 @@
         ]
       }
     ],
-    "count": 7
+    "count": 7,
+    "gender": "female",
+    "birth_year": 1969,
+    "university": "University of London",
+    "major": "Journalism",
+    "career": "Journalist"
   },
   "Daniel Silva": {
     "books": [
@@ -3667,7 +3948,8 @@
         "book_count": 1,
         "dates": [
           "2016-07-31"
-        ]
+        ],
+        "pages": "592"
       },
       {
         "title": "HOUSE OF SPIES",
@@ -3688,7 +3970,8 @@
         "book_count": 1,
         "dates": [
           "2017-07-30"
-        ]
+        ],
+        "pages": "544"
       },
       {
         "title": "THE OTHER WOMAN",
@@ -3709,7 +3992,8 @@
         "book_count": 1,
         "dates": [
           "2018-08-05"
-        ]
+        ],
+        "pages": "304"
       },
       {
         "title": "THE NEW GIRL",
@@ -3730,7 +4014,8 @@
         "book_count": 1,
         "dates": [
           "2019-08-04"
-        ]
+        ],
+        "pages": "368"
       },
       {
         "title": "THE ORDER",
@@ -3751,7 +4036,8 @@
         "book_count": 1,
         "dates": [
           "2020-08-02"
-        ]
+        ],
+        "pages": "464"
       },
       {
         "title": "THE CELLIST",
@@ -3772,7 +4058,8 @@
         "book_count": 1,
         "dates": [
           "2021-08-01"
-        ]
+        ],
+        "pages": "592"
       },
       {
         "title": "THE COLLECTOR",
@@ -3793,10 +4080,16 @@
         "book_count": 1,
         "dates": [
           "2023-08-06"
-        ]
+        ],
+        "pages": "320"
       }
     ],
-    "count": 7
+    "count": 7,
+    "gender": "male",
+    "birth_year": 1960,
+    "university": "California State University, Fresno",
+    "major": "Journalism",
+    "career": "Journalist"
   },
   "Elin Hilderbrand": {
     "books": [
@@ -3810,7 +4103,8 @@
         "book_count": 1,
         "dates": [
           "2019-07-07"
-        ]
+        ],
+        "pages": "448"
       },
       {
         "title": "28 SUMMERS",
@@ -3836,7 +4130,8 @@
         "book_count": 1,
         "dates": [
           "2020-10-25"
-        ]
+        ],
+        "pages": "368"
       },
       {
         "title": "THE HOTEL NANTUCKET",
@@ -3848,7 +4143,8 @@
         "book_count": 1,
         "dates": [
           "2022-07-03"
-        ]
+        ],
+        "pages": "416"
       },
       {
         "title": "THE FIVE-STAR WEEKEND",
@@ -3865,7 +4161,12 @@
         ]
       }
     ],
-    "count": 7
+    "count": 7,
+    "gender": "female",
+    "birth_year": 1969,
+    "university": "Johns Hopkins University",
+    "major": "English",
+    "career": "Advertising"
   },
   "Danielle Steel": {
     "books": [
@@ -3892,7 +4193,8 @@
         "book_count": 1,
         "dates": [
           "2017-01-22"
-        ]
+        ],
+        "pages": "272"
       },
       {
         "title": "ACCIDENTAL HEROES",
@@ -3904,7 +4206,8 @@
         "book_count": 1,
         "dates": [
           "2018-04-08"
-        ]
+        ],
+        "pages": "320"
       },
       {
         "title": "THE CAST",
@@ -3929,7 +4232,8 @@
         "book_count": 1,
         "dates": [
           "2019-01-27"
-        ]
+        ],
+        "pages": "336"
       },
       {
         "title": "ROYAL",
@@ -3945,6 +4249,11 @@
         ]
       }
     ],
-    "count": 6
+    "count": 6,
+    "gender": "female",
+    "birth_year": 1947,
+    "university": "Parsons School of Design",
+    "major": "Art",
+    "career": "Advertising"
   }
 }

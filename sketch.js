@@ -56,7 +56,7 @@ let largePublisherHues = {
   "Penguin Random House": [350, 23, 100],
   "Hachette Book Group": [215, 26, 96],
   "Macmillan Publishers": [346, 60, 100],
-  "Simon & Schuster": [220, 70, 80],
+  "Simon & Schuster": [220, 70, 85],
   "Harper Collins": [243, 35, 100],
   "Other Publishers": [312, 20, 98],
 };
@@ -68,17 +68,13 @@ let largeGenres = {
   "Other Genres": [20, 30, 86],
 };
 let majors = {
-  English: [220, 22, 100],
-  "Business & Commerce": [12, 90, 65],
-  "Other Majors": [20, 8, 90],
-  "Humanities and Social Sciences": [350, 70, 80],
-  "Political Science": [225, 85, 50],
-  Journalism: [235, 30, 95],
-  Art: [341, 25, 96],
-};
-let bookTokHues = {
-  "not #BookTok": [201, 60, 80],
-  "#BookTok": [0, 99, 70],
+  English: [220, 25, 100],
+  "Business & Commerce": [12, 70, 80],
+  "Other Majors": [20, 8, 91],
+  "Humanities and Social Sciences": [345, 65, 90],
+  "Political Science": [225, 70, 70],
+  Journalism: [235, 28, 97],
+  Art: [341, 20, 97],
 };
 const careerGroups = {
   Advertising: ["Advertising"],
